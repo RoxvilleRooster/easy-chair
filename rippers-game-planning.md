@@ -120,6 +120,20 @@ Notable characteristics:
 * Soft spoken, gentle, and mild to his patients
 
 
+#### Unassuming faction leader
+
+Maureen West
+
+Hindrances: Slow (minor), Small (minor), Driven (major)
+
+Notable characteristics:
+* Doiminutive, unassuming middle-class woman in her mid thirties
+* Is she the secretary? Nope. She's much more than that.
+* Great people skills 
+* Organizaing force behind the Order of St. George in London
+* The real "power" behnd the London organization
+
+
 #### Fiesty parlor girl
 
 Elizabeth "Liza" Grubb
