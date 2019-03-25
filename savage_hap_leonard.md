@@ -122,7 +122,7 @@ Edges:
  * Quick: Discard and redraw Action Cards of 5 or lower.
  * Two-Fisted: May make one extra Fighting roll with a second melee weapon in the off-hand at no Multi-Action penalty.
 
-![Leonard](http://www.slate.com/content/dam/slate/blogs/outward/2016/03/02/hap_and_leonard_s_jim_mickle_interviewed/sdc065_handls1_hapleonard_truck20735_x2.jpg.CROP.promo-xlarge2.jpg)                                   
+![Leonard](https://m.media-amazon.com/images/M/MV5BMjE5MjMyNTI4Ml5BMl5BanBnXkFtZTgwMTEzNDU4MTI@._V1_.jpg)                                   
 
 ### Brett Sawyer
 
