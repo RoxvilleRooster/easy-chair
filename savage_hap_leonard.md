@@ -73,7 +73,7 @@ Attributes: Agility d8, Smarts d8, Spirit d6, Strength d6, Vigor d8
 
 Skills: Athletics d6, Fighting d8, Intimidation d6, Research d6, Notice d8, Persuasion d6, Repair d4, Shooting d10, Stealth d4, Survival d4, Taunt d6
 
-Charisma: 0; Pace: 6; Parry: 6; Toughness: 6
+Pace: 6; Parry: 6; Toughness: 6
 
 Hindrances:
  * Heroic: Can't stand by and watch when something bad is going down
@@ -107,7 +107,7 @@ Attributes: Agility d8, Smarts d6, Spirit d6, Strength d8, Vigor d8
 
 Skills: Athletics d6, Driving d4, Fighting d10, Intimidation d6, Notice d6, Riding d4, Shooting d6, Stealth d6, Survival d6, Taunt d6
 
-Charisma: 0; Pace: 6; Parry: 7; Toughness: 7
+Pace: 6; Parry: 7; Toughness: 8
 
 Hindrances:
  * Heroic: Comes off as a reluctant hero, but his impulse to do the right thing and help others wins out sooner rather than later
