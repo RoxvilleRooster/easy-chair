@@ -8,7 +8,7 @@ permalink: /hap-leonard/
 
 _This is a work in progress_
 
-_Updated July 1, 2018_
+_Updated March 24, 2019_
 
 The point of this page is to describe the characters from the stories for the
 Savage Worlds Roleplaying Game.
@@ -20,10 +20,7 @@ For me, I know Savage Worlds can support a Hap and Leonard-style story, especial
 
 ## Stories and the TV series
 Hap Collins and Leonard Pine are the main characters in series of novels, novellas, and
-short stories by Joe R. Lansdale. In 2016, the Sundance network released [Hap and Leonard](http://www.imdb.com/title/tt3729898/?ref_=ttep_ep_tt), a  six-part TV series that covers the novel "Savage Season".
-In 2017, Sundance TV released season 2 (6 episodes), based on the novel "Mucho Mojo".
-In 2018, Sundance TV released season 3, which is based on one of my favorite novels, "Two Bear Mambo".
-Of course, the TV series differs from the novels and stories but they are relatively faithful. The TV series is more of a mystery drama with occasional violence, whereas violence, horror, and fisticuffs feature more prominently in the stories.
+short stories by Joe R. Lansdale. Between 2016 and 2018, the Sundance network released three six-episode seasons of [Hap and Leonard](http://www.imdb.com/title/tt3729898/?ref_=ttep_ep_tt), which covered the novels "Savage Season", "Mucho Mojo", and "Two Bear Mambo". As you'd expect, the TV series differs from the novels and stories but they are relatively faithful. The TV series is more of a mystery drama with occasional violence, whereas violence, horror, and fisticuffs feature more prominently in the stories.
 
 Looking for more information on Hap and Leonard? See the [Wikipedia entry](https://en.wikipedia.org/wiki/Hap_and_Leonard).
 
@@ -31,13 +28,13 @@ Looking for more information on Hap and Leonard? See the [Wikipedia entry](https
 Joe Lansdale writes some fun, evocative yarns. Thanks to Bruce Campbell and the movie version of Bubba Ho-Tep, I found Champion Joe. I will not claim I have read all of Joe's stuff (the master is prolific) but I have read most of everything related to the Hap and Leonard series. To me, Hap and Leonard are similar to Fritz Leiber's Fafhrd and the Grey Mouser.   
 
 ## Being a Savage Worlds gamer                                                                                                                                                                                                                                                                                                                                                                                                                        
-When I came back to tabletop role-playing games in my early forties, I soon found Savage Worlds (after an initial foray into Pathfinder). Savage Worlds is my system of choice nowadays because it is versatile and fast. There is also enough crunch in the rules to satisfy my old-schooly wants.                                                                                                                                                
+When I came back to tabletop role-playing games in my early forties, I soon found Savage Worlds. Savage Worlds is my system of choice nowadays because it is versatile and, when played right, fast paced. There is also enough crunch in the rules to satisfy my old-school RPG player wants.                                                                                                                                                
 
 ## Savage Worlds and Joe Lansdale's East Texas                                                                                                                                                                                                                                                                                                                                                                                                                     
 In 2015, Pinnacle Entertainment Group came out with the East Texas University (ETU) setting, which is a mash up where Buffy the Vampire Slayer, Miskatonic University, and Blue Mountain State meet in Lansdale country. There is even a building named after Champion Joe on the ETU campus.                                                                                                                                                      
 Unlike the supernatural horror in the ETU setting, the horror in the Hap and Leonard books is visceral, earthly horror and it is effective because it is man-made, unnerving, mundane yet inhuman.                                                                                                                                                                                                                                                
 Hap and Leonard reside in the fictional town of LaBorde, Texas and that can easily be situated close by the fictitious university town of Pinebox. You can easily find a reason for Hap and Leonard to visit Pinebox. They have served as security guards at a chicken processing plant before, so maybe they can do a stint as campus police.                                                                                                     
-As far as the time lines are concerned, do not sweat it. Hap and Leonard were very active in the late 80s. A recent novel, Rusty Puppy (2017), is set in the early 2010s. Hap and Leonard don't exactly age as quickly as the rest of us.
+As far as the time lines are concerned, do not sweat it. Hap and Leonard were very active in the late 80s. The most recent novel, _The Elephant of Surprise_ (March 2019) is likely set in the late 2000s or 2010s, based on the occasional references to devices (e.g., mobile devices). Hap and Leonard don't exactly age as quickly as the rest of us.
 
 ![collins-pine](https://when-release.com/.u/.d/1460751590.jpg)                                                                                                                                                                                                                                                                           
 ## Hap and Leonard as a team
@@ -68,13 +65,13 @@ Hap and Leonard also exemplify a great friendship that crosses lines of race, se
 * Cannot stand injustice
 * Drinks near beer (Sharps brand is typical)
 * Will not shoot an unarmed foe
-* Sucker for the ladies
+* Sucker for the ladies, nurses in particular
 
 Name: Hap Collins; XP: 45 (circa "Two Bear Mambo")
 
 Attributes: Agility d8, Smarts d8, Spirit d6, Strength d6, Vigor d8
 
-Skills: Fighting d8, Intimidation d6+2, Investigation d6, Notice d8, Persuasion d6, Repair d4, Shooting d8, Stealth d4, Streetwise d4, Survival d4, Swimming d4, Taunt d8+2
+Skills: Athletics d6, Fighting d8, Intimidation d6, Research d6, Notice d8, Persuasion d6, Repair d4, Shooting d10, Stealth d4, Survival d4, Taunt d6
 
 Charisma: 0; Pace: 6; Parry: 6; Toughness: 6
 
@@ -84,18 +81,18 @@ Hindrances:
  * Loyal: You always have your friends' backs; will do anything for his brother Leonard
 
 Edges:
- * Level Headed: Act on best of two cards in combat
- * Marksman: Aim maneuver (+2 Shooting) if hero does not move
- * Martial Artist: Never considered unarmed, +d4 to unarmed damage rolls
- * Strong Willed: +2 Intimidation and Taunt, +2 to resist Tests of Will
- * Two-Fisted: May attack with a weapon in each hand without multi-action penalty
+ * Level Headed: May draw an additional Action Card each round and choose which one to use.
+ * Marksman: Ignore up to 2 points of Athletics (throwing) or Shooting penalties when not moving and firing no more than RoF 1 per action.
+ * Martial Artist: Unarmed Fighting +1, fists and feet count as Natural Weapons, +d4 damage die to unarmed Fighting attacks (or increase die a step if you already have it).
+ * Strong Willed: +2 to resist Smarts or Spirit-based Tests.
+* Two-Fisted: May make one extra Fighting roll with a second melee weapon in the off-hand at no Multi-Action penalty.
 
 ![Hap](https://s-media-cache-ak0.pinimg.com/originals/f0/4a/6c/f04a6c66b76262ae1196d9cc8bac864a.jpg)
 
 ### Leonard Pine                                                          
 
 * Openly gay but not flamboyant (i.e., not a "skipper")
-* Votes Republican
+* Generally votes Republican
 * Likes classic country music (e.g., Pasty Cline)
 * Vietnam war veteran (green beret)
 * "Brother" to Hap
@@ -108,7 +105,7 @@ Name: Leonard Pine; XP: 45 (circa "Two Bear Mambo")
 
 Attributes: Agility d8, Smarts d6, Spirit d6, Strength d8, Vigor d8
 
-Skills: Driving d4, Fighting d10, Intimidation d6, Notice d6, Riding d4, Shooting d6, Stealth d6, Streetwise d4, Survival d4, Swimming d4, Taunt d6, Tracking d4
+Skills: Athletics d6, Driving d4, Fighting d10, Intimidation d6, Notice d6, Riding d4, Shooting d6, Stealth d6, Survival d6, Taunt d6
 
 Charisma: 0; Pace: 6; Parry: 7; Toughness: 7
 
@@ -118,12 +115,12 @@ Hindrances:
  * Poverty: See Hap
 
 Edges:
- * Brawler: +2 to unarmed damage rolls
- * Brawny: Toughness +1; load limit is 8 x Str
- * Combat Reflexes: +2 to recover from being Shaken
- * Martial Artist: Never considered unarmed, +d4 to unarmed damage rolls
- * Quick: Discard draw of 5 or less for new card
- * Two-Fisted: May attack with a weapon in each hand without multi-action penalty
+ * Brawler: Toughness +1, add d4 to damage from fists; or increase it a die type if combined with Martial Artist, Claws, or similar abilities.
+ * Brawny: Toughness +1; treat Strength as one die type higher for Encumbrance and Minimum Strength to use weapons, armor, or equipment.
+ * Combat Reflexes: +2 Spirit to recover from being Shaken
+ * Martial Artist: Unarmed Fighting +1, fists and feet count as Natural Weapons, +d4 damage die to unarmed Fighting attacks (or increase die a step if you already have it).
+ * Quick: Discard and redraw Action Cards of 5 or lower.
+ * Two-Fisted: May make one extra Fighting roll with a second melee weapon in the off-hand at no Multi-Action penalty.
 
 ![Leonard](http://www.slate.com/content/dam/slate/blogs/outward/2016/03/02/hap_and_leonard_s_jim_mickle_interviewed/sdc065_handls1_hapleonard_truck20735_x2.jpg.CROP.promo-xlarge2.jpg)                                   
 
@@ -206,4 +203,4 @@ See the write up of [Veil's Visit](http://hapandleonard.net/veil.htm)
 
 * Detective, worked with Hanson
 * Friend to Hap and Leonard
-* Wore a pork-pie hat and a K-Mart suit
+* Wears a pork-pie hat and a K-Mart suit
