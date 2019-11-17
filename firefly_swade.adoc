@@ -1,2 +1,5 @@
-Setting Rules for Firefly
-=========================
+= Setting Rules for Firefly
+Andy Hall <achall@gmail.com>
+v1.0, 2019-11-16
+:toc: right
+
