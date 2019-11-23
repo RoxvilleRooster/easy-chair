@@ -3,14 +3,18 @@ Andy Hall <achall@gmail.com>
 v1.0, 2019-11-23
 :toc: right
 :experimental:
+:sectlinks:
+:sectanchors:
 
 == Wealth
+
+Go to
 
 By default, each character has d6 Wealth.
 Wealth is not a trait but behaves like one in some respects.
 Players can spend Bennies, roll the Wild Die, and benefit from Support rolls.
 
-Typically the setting's starting funds is $500; some settings use $1000. The decision on the setting's starting funds relates to the _value penalty_ table below.
+Typically a setting's starting funds is $500; some settings start at $1000. The decision on the setting's starting funds relates to the <<table-value-penalty,value penalty table>>.
 
 === Edges and hindrances
 
@@ -23,8 +27,13 @@ Typically the setting's starting funds is $500; some settings use $1000. The dec
 
 == Purchasing items
 
-Items inflict a penalty (the _value penalty_) on the Wealth roll.
+The cost of the item inflicts a penalty (the _value penalty_) on the Wealth roll.
 
+[NOTE]
+The GM has the latitude to adjust prices listed in the books for various reasons just as he can determine <<availability,Availability of items>>.
+
+
+[[table-value-penalty]]
 .Value Penalty Table
 [%header,cols=3*]
 |===
@@ -74,6 +83,7 @@ Items inflict a penalty (the _value penalty_) on the Wealth roll.
 
 === Results of Wealth rolls
 
+[[table-wealth-roll-results]]
 [%header,format=csv]
 |===
 Wealth roll for purchase, Result
@@ -123,6 +133,7 @@ If the supporting character succeeds, the supporter also loses a die type in Wea
 
 
 == Availability of items
+[[availability]]
 For items not available on the open market, you need to use the Research skill or do some  Networking (SWADE 133) to find it.
 The GM has the say whether the item is available and the GM can assign modifiers to the rolls to find the item.
 
