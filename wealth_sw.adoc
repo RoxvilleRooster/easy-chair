@@ -4,24 +4,21 @@ v1.0, 2019-11-23
 :toc: right
 :experimental:
 
-== Wealth rules in SWADE Core
+== New statistic: Wealth
 
-New statistic: Wealth (die roll)
+By default, each character has d6 Wealth.
 Wealth is not a trait but behaves like one in some respects.
 Players can spend Bennies, roll the Wild Die, and benefit from Support rolls.
 
-By default, each character has d6 Wealth.
-Poverty hindrance decreases the Wealth die by 1 step.
-Rich edge increases the Wealth die by 1 step. Very Rich edge increases the Wealth die by 1 more step.
-Fame edge adds +1 to Wealth rolls.
-Famous edge adds another +1 to Wealth rolls.
+Typically the setting's starting funds is $500; some settings use $1000. The decision on the setting's starting funds relates to the _value penalty_ table below.
 
+=== Edges and hindrances
 
-
-
-== Determine the setting's starting funds
-
-Typically the setting's starting funds is $500; some settings use $1000.
+* The Poverty hindrance decreases the Wealth die by 1 step.
+* The Rich edge increases the Wealth die by 1 step.
+** The Very Rich edge increases the Wealth die by 1 more step.
+* The Fame edge adds +1 to Wealth rolls.
+** The Famous edge adds another +1 to Wealth rolls.
 
 
 == Purchasing items
