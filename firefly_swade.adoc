@@ -3,3 +3,19 @@ Andy Hall <achall@gmail.com>
 v1.0, 2019-11-16
 :toc: right
 
+== Setting rules
+
+
+Assuming that you are playing the crew of a vessel like _Serenity_.
+
+All heroes have the Poverty hindrance. The crew's situation is almost always desperate.  
+
+The following setting rules from SWADE are fitting for a Savage Worlds Firefly campaign:
+
+* Conviction (SWADE 136)
+
+Hindrances:
+
+* Outsider (a la Browncoat) - minor
+* Clueless (a la Tin Horn) - major
+* Obligation (a la Debt) - minor or major
