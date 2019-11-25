@@ -8,20 +8,21 @@ v1.0, 2019-11-24
 
 == Setting rules
 
+The settings rules assume that the players play the crew like that of the _Serenity_.
 
-Assuming that you are playing the crew of a vessel like _Serenity_.
-
-All heroes have the Poverty hindrance. The crew's situation is almost always desperate.
+All heroes have the Poverty hindrance. The crew's financial situation is almost always tight and near broke. Income is uncertain.
 
 The following setting rules from SWADE are fitting for a Savage Worlds Firefly campaign:
 
 * Conviction (SWADE 136)
 
-Hindrances:
+==== Hindrance trappings
 
-* Outsider (a la Browncoat) - minor
-* Clueless (a la Tinhorn/Greenhorn) - major
-* Obligation (a la Debt) - minor or major
+Suggested re-skins of existing hindrances include:
+
+* Trap the Outsider (Minor) hindrance as "Browncoat"
+* Trap the Clueless (Major) hindrance as "Greenhorn"
+* Trap the Obligation (Minor or Major) hindrance as "Debt" or "In Debt to..."
 
 
 === Favors, Contacts, and Perks
@@ -69,7 +70,7 @@ If the attitude of a Contact falls to Hostile, the contact becomes a foe to the 
 
 The hero can also develop the relationship with the contact and improve the attitude of the Contact’s to Helpful. In this case, the hero gets access to a “Perk” from the Contact.
 
-At the session's start, the GM can ask each player who's hero has a Contact to draw a card from the Action Deck. If the player draws a face card, check the Contact Event Table ( https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ Wiseguys,role=external,window=_blank], 33).
+At the session's start, the GM can ask each player who's hero has a Contact to draw a card from the Action Deck. If the player draws a face card, check the Contact Event Table (https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ Wiseguys,role=external,window=_blank], 33).
 
 // TK Left off on page 33 of Wiseguys
 
