@@ -63,11 +63,22 @@ Contacts are Wild Cards, even if they really came into the story as Extras. A pl
 
 A hero uses the Reactions table to represent the status of the relationship between a the hero and his Contact. The initial attitude of the contact depends on how the relationship starts; it is typically Neutral.
 
+===== Maintaining the relationships with a Contact
+
 If the attitude of a Contact falls to Hostile, the contact becomes a foe to the hero and the hero gains the Enemy (Minor) Hindrance.
 
 The hero can also develop the relationship with the contact and improve the attitude of the Contact’s to Helpful. In this case, the hero gets access to a “Perk” from the Contact.
 
+At the session's start, the GM can ask each player who's hero has a Contact to draw a card from the Action Deck. If the player draws a face card, check the Contact Event Table ( https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ Wiseguys,role=external,window=_blank], 33).
+
+// TK Left off on page 33 of Wiseguys
+
+
 ==== Perks
+
+A Perk is a service, favor, or item that a Contact offers a hero that goes beyond what a Contact generally provides a hero.
+
+Beware, a perk can come with strings attached.
 
 === Heists
 
