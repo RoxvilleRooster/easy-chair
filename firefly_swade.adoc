@@ -111,7 +111,7 @@ Suggested skills for preparation montages:
 * Research
 * Science
 
-=== Running the heist scene
+==== Running the heist scene
 
 Start the heist's Dramatic Task or Quick Encounter. During the heist, the players can redeem Heist Tokens to _Influence the Story_ as per "Using Bennies in Savage Worlds".
 
@@ -132,3 +132,5 @@ Examples of influencing the story include:
 * finding objects (e.g., uniforms, badges) or covers to blend in
 
 ==== Generating a heist
+
+See the "Heist Generator" rules (https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ Wiseguys,role=external,window=_blank], 36).
