@@ -1,7 +1,10 @@
 = Setting Rules for Firefly
 Andy Hall <achall@gmail.com>
-v1.0, 2019-11-16
+v1.0, 2019-11-24
 :toc: right
+:experimental:
+:sectlinks:
+:sectanchors:
 
 == Setting rules
 
@@ -19,3 +22,61 @@ Hindrances:
 * Outsider (a la Browncoat) - minor
 * Clueless (a la Tinhorn/Greenhorn) - major
 * Obligation (a la Debt) - minor or major
+
+== Contacts
+
+
+== Favors
+
+These rules are from Eric Lamoureux's _Wiseguys_ but they works really well for the Firefly setting.
+
+When spending a Benny to Influence the Story, a player do things like make up a new acquaintance to gain a clue, information, gear, or access to a restricted area. In this instance, the hero recalls that an old friend still owes a favor. This assumes that the acquaintance has a Friendly attitude and is available to help.
+
+Only allow the player group to use the _Influence the Story_ rule for a Favor once per session.
+
+After the acquaintance does the favor, he fades into the background unless a player spends a Benny to add the character to his list of _Contacts_. Now that this contact has performed the favor, the contact's Reaction to the hero returns to Neutral.
+
+== Heists
+
+Firefly is all about the crew attempting to pull heists.
+These rules are an adaptation of Eric Lamoureux's _Wiseguys_ for Firefly.
+
+Use Dramatic Tasks for running heist scenes with the option Multiple Skills.
+For each step in the heist use a different skill and have a different character perform that skill until all the key characters have their turn.
+
+You can use a Quick Encounter for a heist that is either (a) a minor part of a scenario or (b) if game time is short. Each person engaged in the heist chooses a different skill. A heist is a group  effort; whether it succeeds depends on the members of the team.
+
+Consider using a _preparation montage_. Drop the characters into the heist and then use these mechanics and allow the players to describe the heist's preparations.
+
+Have each player pick an appropriate skill and the group keeps the highest roll. For every success and raise, award the crew a Heist Token.
+
+Suggested skills for preparation montages:
+* Academics
+* Common Knowledge
+* Electronics
+* Hacking
+* Intimidation
+* Persuasion
+* Repair
+* Research
+* Science
+
+Start the heist's Dramatic Task or Quick Encounter. During the heist, the players can redeem Heist Tokens to _Influence the Story_ as per "Using Bennies in Savage Worlds".
+
+A player can spend a Benny to influence the narrative, making a story, which allows the player character to
+
+(a) use a different skill for a step of the Dramatic Task than the GM determined or
+
+(b) call upon help from a Contact or Connections to bypass the challenge.
+
+You can use a flashback to show what happened to influence the story and facilitate the success of the heist.
+
+Examples of influencing the story include:
+
+* bribing a guard
+* placing an object that creates a diversion or distraction
+* replacing one object (e.g., a forgery) for another
+* bypassing a security system
+* finding objects (e.g., uniforms, badges) or covers to blend in
+
+=== Generating a heist
