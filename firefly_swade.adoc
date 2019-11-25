@@ -23,12 +23,15 @@ Hindrances:
 * Clueless (a la Tinhorn/Greenhorn) - major
 * Obligation (a la Debt) - minor or major
 
-== Contacts
 
+=== Favors, Contacts, and Perks
 
-== Favors
+==== Favors
+[[favors]]
 
-These rules are from Eric Lamoureux's _Wiseguys_ but they works really well for the Firefly setting.
+****
+These rules are from Eric Lamoureux's _Wiseguys_ but they should work really well for the Firefly setting. Buy _Wiseguys_ on https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ DTRPG,role=external,window=_blank].
+****
 
 When spending a Benny to Influence the Story, a player do things like make up a new acquaintance to gain a clue, information, gear, or access to a restricted area. In this instance, the hero recalls that an old friend still owes a favor. This assumes that the acquaintance has a Friendly attitude and is available to help.
 
@@ -36,21 +39,57 @@ Only allow the player group to use the _Influence the Story_ rule for a Favor on
 
 After the acquaintance does the favor, he fades into the background unless a player spends a Benny to add the character to his list of _Contacts_. Now that this contact has performed the favor, the contact's Reaction to the hero returns to Neutral.
 
-== Heists
+==== Contacts
+
+****
+These rules are from Eric Lamoureux's _Wiseguys_ but they fit for the Firefly setting. Buy _Wiseguys_ on https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ DTRPG,role=external,window=_blank].
+****
+
+Contacts are different from the Connections edge. A contact provides personal and specialized assistance.
+
+You can draw a card from a deck and then the GM can refer to chapter six in  _Wiseguys_ to generate a contact for the game.
+Talk to your GM about creating a contact.
+
+You can provide a hero a contact in the following ways:
+
+//* By taking A Friend of Mine as an Edge
+* By spending a Benny to convert a character who performed a Favor for the hero into a Contact (see <<favors,Favors>>).
+* By spending a Benny to turn a character that the hero met through the Connections edge into a Contact.
+* By meeting people during the campaign, based on the GM's discretion and roleplay.
+* As a reward for completing an assignment.
+// * For finding certain Artifacts (see Chapter Seven)
+
+Contacts are Wild Cards, even if they really came into the story as Extras. A player is allowed to call on one Contact per session. Contacts do not wait around and may not always be available when called on. Reciprocity is important; a contact expects the hero to return a favor when called. A loyal contact can turn if the hero mistreats him; heroes need to nurture and maintain relationships with contacts.
+
+A hero uses the Reactions table to represent the status of the relationship between a the hero and his Contact. The initial attitude of the contact depends on how the relationship starts; it is typically Neutral.
+
+If the attitude of a Contact falls to Hostile, the contact becomes a foe to the hero and the hero gains the Enemy (Minor) Hindrance.
+
+The hero can also develop the relationship with the contact and improve the attitude of the Contact’s to Helpful. In this case, the hero gets access to a “Perk” from the Contact.
+
+==== Perks
+
+=== Heists
 
 Firefly is all about the crew attempting to pull heists.
-These rules are an adaptation of Eric Lamoureux's _Wiseguys_ for Firefly.
+
+****
+These rules are derived from Eric Lamoureux's _Wiseguys_, with some minor adjustments that suit the flavor of the Firefly setting. Buy _Wiseguys_ on https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ DTRPG,role=external,window=_blank].
+****
 
 Use Dramatic Tasks for running heist scenes with the option Multiple Skills.
 For each step in the heist use a different skill and have a different character perform that skill until all the key characters have their turn.
 
 You can use a Quick Encounter for a heist that is either (a) a minor part of a scenario or (b) if game time is short. Each person engaged in the heist chooses a different skill. A heist is a group  effort; whether it succeeds depends on the members of the team.
 
+==== Planning the heist
+
 Consider using a _preparation montage_. Drop the characters into the heist and then use these mechanics and allow the players to describe the heist's preparations.
 
 Have each player pick an appropriate skill and the group keeps the highest roll. For every success and raise, award the crew a Heist Token.
 
 Suggested skills for preparation montages:
+
 * Academics
 * Common Knowledge
 * Electronics
@@ -61,13 +100,15 @@ Suggested skills for preparation montages:
 * Research
 * Science
 
+=== Running the heist scene
+
 Start the heist's Dramatic Task or Quick Encounter. During the heist, the players can redeem Heist Tokens to _Influence the Story_ as per "Using Bennies in Savage Worlds".
 
 A player can spend a Benny to influence the narrative, making a story, which allows the player character to
 
-(a) use a different skill for a step of the Dramatic Task than the GM determined or
+a. use a different skill for a step of the Dramatic Task than the GM determined or
+a. call upon help from a Contact or Connections to bypass the challenge.
 
-(b) call upon help from a Contact or Connections to bypass the challenge.
 
 You can use a flashback to show what happened to influence the story and facilitate the success of the heist.
 
@@ -79,4 +120,4 @@ Examples of influencing the story include:
 * bypassing a security system
 * finding objects (e.g., uniforms, badges) or covers to blend in
 
-=== Generating a heist
+==== Generating a heist
