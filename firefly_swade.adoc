@@ -34,7 +34,7 @@ Suggested re-skins of existing hindrances include:
 These rules are from Eric Lamoureux's _Wiseguys_ but they should work really well for the Firefly setting. Buy _Wiseguys_ on https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ DTRPG,role=external,window=_blank].
 ****
 
-When spending a Benny to Influence the Story, a player do things like make up a new acquaintance to gain a clue, information, gear, or access to a restricted area. In this instance, the hero recalls that an old friend still owes a favor. This assumes that the acquaintance has a Friendly attitude and is available to help.
+When spending a Benny to Influence the Story, a player can do things like make up a new acquaintance to gain a clue, information, gear, or access to a restricted area. In this instance, the hero recalls that an old friend still owes a favor. This assumes that the acquaintance has a Friendly attitude and is available to help.
 
 Only allow the player group to use the _Influence the Story_ rule for a Favor once per session.
 
