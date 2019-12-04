@@ -95,7 +95,7 @@ These rules are derived from Eric Lamoureux's _Wiseguys_, with some minor adjust
 Use Dramatic Tasks for running heist scenes with the option Multiple Skills.
 For each step in the heist use a different skill and have a different character perform that skill until all the key characters have their turn.
 
-You can use a Quick Encounter for a heist that is either (a) a minor part of a scenario or (b) if game time is short. Each person engaged in the heist chooses a different skill. A heist is a group  effort; whether it succeeds depends on the members of the team.
+You can use a Quick Encounter for a heist that is either (a) a minor part of a scenario or (b) when game time is short. Each person engaged in the heist chooses a different skill. A heist is a group  effort; whether it succeeds depends on the members of the team.
 
 ==== Planning the heist
 
@@ -121,6 +121,7 @@ Start the heist's Dramatic Task or Quick Encounter. During the heist, the player
 
 A player can spend a Benny to influence the narrative, making a story, which allows the player character to
 
+[loweralpha]
 a. use a different skill for a step of the Dramatic Task than the GM determined or
 a. call upon help from a Contact or Connections to bypass the challenge.
 
