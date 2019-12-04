@@ -30,6 +30,7 @@ Suggested re-skins of existing hindrances include:
 ==== Favors
 [[favors]]
 
+.Where these rules come from
 ****
 These rules are from Eric Lamoureux's _Wiseguys_ but they should work really well for the Firefly setting. Buy _Wiseguys_ on https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ DTRPG,role=external,window=_blank].
 ****
@@ -42,6 +43,7 @@ After the acquaintance does the favor, he fades into the background unless a pla
 
 ==== Contacts
 
+.Where these rules come from
 ****
 These rules are from Eric Lamoureux's _Wiseguys_ but they fit for the Firefly setting. Buy _Wiseguys_ on https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ DTRPG,role=external,window=_blank].
 ****
@@ -85,6 +87,7 @@ Beware, a perk can come with strings attached.
 
 Firefly is all about the crew attempting to pull heists.
 
+.Where these rules come from
 ****
 These rules are derived from Eric Lamoureux's _Wiseguys_, with some minor adjustments that suit the flavor of the Firefly setting. Buy _Wiseguys_ on https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ DTRPG,role=external,window=_blank].
 ****
