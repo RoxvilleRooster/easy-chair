@@ -142,7 +142,7 @@ Heists are a fixture of a Firefly campaign.
 
 .Where these rules come from
 ****
-See the "Heist Generator" rules (https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ Wiseguys,role=external,window=_blank], 36).
+See the "Heist Generator" rules (https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ Wiseguys,role=external,window=_blank], 36). Minor tweaks to the original rules are intended to reflect the Firefly setting. 
 ****
 
 For each scene of a heist's dramatic task or quick encounter, the GM can draw a card for inspiration.
