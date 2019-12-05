@@ -198,7 +198,7 @@ Skill use examples:
 * Thievery (forge an ID badge, copy a key, pick a lock)
 * Athletics (scale a wall)
 * Research or Networking (discover plans to the target location)
-* Repair (used explosives)
+* Repair (create a breach by using explosives)
 * Piloting or Driving (accessing - or escaping from - a hard to reach location)
 
 
