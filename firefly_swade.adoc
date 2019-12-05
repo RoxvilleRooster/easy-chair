@@ -138,4 +138,99 @@ Examples of influencing the story include:
 
 ==== Generating a heist
 
+Heists are a fixture of a Firefly campaign.
+
+.Where these rules come from
+****
 See the "Heist Generator" rules (https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ Wiseguys,role=external,window=_blank], 36).
+****
+
+For each scene of a heist's dramatic task or quick encounter, the GM can draw a card for inspiration.
+
+.Challenges
+[cols="^2,^2,4",options="header"]
+|===========================================================
+| Suit | Theme | Suggested skills
+| Clubs | Complications | See <<Complications,Complications>>.
+| Diamonds | Barriers | Athletics, Driving, Electronics, Hacking, Piloting, Repair, Research, Thievery
+| Hearts | Guards | Athletics, Fighting, Intimidation, Performance, Persuasion, Shooting, Taunt
+| Spades | Subterfuge | Common Knowledge, Electronics, Hacking, Notice, Repair, Research, Stealth
+|===========================================================
+
+[[Complications]]
+===== Complications
+
+If you draw a club, compare the card value against the table below.
+
+[cols="^1,^2,5",options="header"]
+|===================================================
+| Card | Nature | Comments
+| 2 | Trap | They seemed to know that you were coming. But how did they know?
+| 3 | Recent change | A password, lock, or  combination was altered. What now?
+| 4 | Surveillance | The crew's activities has been noticed and monitored.
+| 5 | Unforeseen bystanders | These people were not supposed to be in the location at this time!
+| 6 | Rival crew | There's another crew pulling the same caper or watching the crew pull it off.
+| 7 | Unforeseen security | The guards were not supposed to be on duty at this location at this time. For some reason, the guard rotation changed.
+| 8 | Questionable cover identity | A crew members cover ID or disguise raises questions by someone at the target site. This could be a blown cover, where a crew member is recognized, or a coincidental case of mistaken identity.
+| 9 | Malfunction | A device vital to the heist acts up, glitches out, or breaks
+| 10 | Alarm systems upgraded | These systems are more advanced than your intel revealed.
+| Jack |  Illness or Injury | A crew member or ally is injured or taken out of the heist at a bad time.
+| Queen | Fire! | Grab an extinguisher. But this could be a useful distraction of you can play it right.
+| King | Unforeseen maintenance | Recent  construction work affects the layout or access/egress points of the location.
+| Ace | Bogies | Military, lawmen, or gangsters are active in the location for some reason at this time.
+|===================================================
+
+
+
+===== Barriers
+
+Barriers make a location difficult to access. Barriers are inanimate, unlike guards.
+Examples of barriers include
+
+* fence/wall
+* door/lock
+* moat
+
+Skill use examples:
+
+* Hacking (bypass monitoring system)
+* Electronics (disable security panel)
+* Thievery (forge an ID badge, copy a key, pick a lock)
+* Athletics (scale a wall)
+* Research or Networking (discover plans to the target location)
+* Repair (used explosives)
+* Piloting or Driving (accessing - or escaping from - a hard to reach location)
+
+
+===== Guards
+
+Examples of guards include:
+
+* guard dogs
+* private security
+* protective staff (managers and supervisors, receptionists)
+* interested third parties (journalists)
+
+
+Examples of skills used to bypass guards include:
+
+* *Performance* and a convincing cover story or bogus identity
+* *Shooting* to take out a guard (lethal) or deliver a knockout drug/poison
+* *Survival* to distract or lure away a guard animal
+* *Athletics* to lob a knockout grenade in the right spot to incapacitate the guards
+* *Healing* to cook up a treat that will disable or distract the guards
+* *Common Knowledge* or *Research* to know the timing and details of guard shift changes
+* *Stealth* to sneak up on a guard and administer a sedative or a chloroform-like substance
+
+===== Subterfuge
+
+You need to get around or avoid security measures.
+
+Examples of skills for subterfuge elements of the heist include:
+
+* Persuasion (fast talking)
+* Stealth
+* Athletics
+* Electronics
+* Hacking
+* Repair
