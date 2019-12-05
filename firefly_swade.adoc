@@ -207,6 +207,7 @@ Skill use examples:
 Examples of guards include:
 
 * guard dogs
+* robotic sentries or drones
 * private security
 * protective staff (managers and supervisors, receptionists)
 * interested third parties (journalists)
