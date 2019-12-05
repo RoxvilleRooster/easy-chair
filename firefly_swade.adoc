@@ -199,7 +199,7 @@ Skill use examples:
 * Athletics (scale a wall)
 * Research or Networking (discover plans to the target location)
 * Repair (create a breach by using explosives)
-* Piloting or Driving (accessing - or escaping from - a hard to reach location)
+* Piloting or Driving (accessing or escaping from a hard to reach location)
 
 
 ===== Guards
