@@ -32,7 +32,7 @@ Suggested re-skins of existing hindrances include:
 
 .Where these rules come from
 ****
-These rules are from Eric Lamoureux's _Wiseguys_ but they should work really well for the Firefly setting. Buy _Wiseguys_ on https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ DTRPG,role=external,window=_blank].
+These rules are from Eric Lamoureux and _Just Insert Imagination_'s _Wiseguys_ but they should work really well for the Firefly setting. Buy _Wiseguys_ on https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ DTRPG,role=external,window=_blank].
 ****
 
 When spending a Benny to Influence the Story, a player can do things like make up a new acquaintance to gain a clue, information, gear, or access to a restricted area. In this instance, the hero recalls that an old friend still owes a favor. This assumes that the acquaintance has a Friendly attitude and is available to help.
@@ -45,7 +45,7 @@ After the acquaintance does the favor, he fades into the background unless a pla
 
 .Where these rules come from
 ****
-These rules are from Eric Lamoureux's _Wiseguys_ but they fit for the Firefly setting. Buy _Wiseguys_ on https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ DTRPG,role=external,window=_blank].
+These rules are from Eric Lamoureux and _Just Insert Imagination_'s  _Wiseguys_ but they fit for the Firefly setting. Buy _Wiseguys_ on https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ DTRPG,role=external,window=_blank].
 ****
 
 Contacts are different from the Connections edge. A contact provides personal and specialized assistance.
@@ -89,7 +89,7 @@ Firefly is all about the crew attempting to pull heists.
 
 .Where these rules come from
 ****
-These rules are derived from Eric Lamoureux's _Wiseguys_, with some minor adjustments that suit the flavor of the Firefly setting. Buy _Wiseguys_ on https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ DTRPG,role=external,window=_blank].
+These rules are derived from Eric Lamoureux and _Just Insert Imagination_'s _Wiseguys_, with some minor adjustments that suit the flavor of the Firefly setting. Buy _Wiseguys_ on https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ DTRPG,role=external,window=_blank].
 ****
 
 Use Dramatic Tasks for running heist scenes with the option Multiple Skills.
@@ -142,7 +142,7 @@ Heists are a fixture of a Firefly campaign.
 
 .Where these rules come from
 ****
-See the "Heist Generator" rules (https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ Wiseguys,role=external,window=_blank], 36). Minor tweaks to the original rules are intended to reflect the Firefly setting. 
+See the "Heist Generator" rules (https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ Wiseguys,role=external,window=_blank], 36). Minor tweaks to the original rules are intended to reflect the Firefly setting.
 ****
 
 For each scene of a heist's dramatic task or quick encounter, the GM can draw a card for inspiration.
