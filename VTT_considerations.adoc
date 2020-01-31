@@ -6,9 +6,6 @@ v1.0, 2020-01-30
 :sectlinks:
 :sectanchors:
 
-== 2 VTT sessions equal 1 regular session
-Our VTT sessions typically last 2 to 2.5 hours. A conventional physical tabletop session typically lasts 4 to 5 hours. As a result
-
 == Short VTT sessions and benny refresh
 Our VTT sessions typically last 2 to 2.5 hours whereas a conventional physical tabletop session tends to run 4 to 5 hours.
 In this campaign, 2 VTT sessions equal 1 _session_ in SWADE. As a result, bennies refresh on sessions with odd numbers.
@@ -16,8 +13,8 @@ In this campaign, 2 VTT sessions equal 1 _session_ in SWADE. As a result, bennie
 For example:
 
 * VTT session 1 - start with full bennies
-* VTT session 2 - bennies do not refresh
+* VTT session 2 - bennies do not refresh (as if it were the second half of a physical tabletop session)
 * VTT session 3 - bennies are refreshed at session start
-* VTT session 4 - bennies do not refresh
+* VTT session 4 - bennies do not refresh (as if it were the second half of a physical tabletop session)
 * VTT session 3 - bennies are refreshed at session start
 * and so on
