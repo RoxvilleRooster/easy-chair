@@ -24,7 +24,7 @@ permalink: /expectations/
 
 # Savage Worlds rules
 
-We'll be using Savage Worlds Deluxe Explorer's Edition (SWDEE) at least until Savage Worlds Adventure Edition (SWADE) is availablle.
+We'll be using Savage Worlds Deluxe Explorer's Edition (SWDEE) at least until Savage Worlds Adventure Edition (SWADE) is available.
 
 * Where possible, we want to follow the "Fast, Furious, and Fun" model
 * Before we begin a campaign, we determine the setting rules. Let's keep houseruling to a bare minimum
