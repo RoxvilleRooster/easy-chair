@@ -1,4 +1,4 @@
-= VTT considerations
+= Playing Savage Worlds on a virtual tabletop
 Andy Hall <achall@gmail.com>
 v1.0, 2020-01-30
 :toc: left
@@ -6,9 +6,11 @@ v1.0, 2020-01-30
 :sectlinks:
 :sectanchors:
 
+***
+
 == Short VTT sessions and benny refresh
-Our VTT sessions typically last 2 to 2.5 hours whereas a conventional physical tabletop session tends to run 4 to 5 hours.
-In this campaign, 2 VTT sessions equal 1 _session_ in SWADE. As a result, bennies refresh on sessions with odd numbers.
+Our VTT sessions typically last 2 to 2.5 hours whereas a conventional physical tabletop session tends to run 4 to 5 hours (SWADE p 194).
+In this campaign, it takes 2 VTT sessions to equal 1 _game session_ in SWADE. As a result, bennies refresh on VTT sessions with odd numbers.
 
 For example:
 
@@ -18,3 +20,11 @@ For example:
 * VTT session 4 - bennies do not refresh (as if it were the second half of a physical tabletop session)
 * VTT session 3 - bennies are refreshed at session start
 * and so on
+
+In addition to benny refresh-related rules, edges, and hindrances, this change to the SWADE rules also affects:
+
+* the Connections edge (usable once per SWADE session, SWADE p50)
+* chronic diseases (SWADE p 126)
+
+== Experience points and advances
+At the end of each VTT session, the GM typically awards 2 experience points (XP) (and, on occasion, 3 XP). An advance is earned every 5 XP increment. If you miss a session, your hero does not received an XP award.
