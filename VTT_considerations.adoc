@@ -18,7 +18,7 @@ For example:
 * VTT session 2 - bennies do not refresh (as if it were the second half of a physical tabletop session)
 * VTT session 3 - bennies are refreshed at session start
 * VTT session 4 - bennies do not refresh (as if it were the second half of a physical tabletop session)
-* VTT session 3 - bennies are refreshed at session start
+* VTT session 5 - bennies are refreshed at session start
 * and so on
 
 In addition to benny refresh-related rules, edges, and hindrances, this change to the SWADE rules also affects:
