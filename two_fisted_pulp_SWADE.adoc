@@ -1,0 +1,60 @@
+= Pulp SWADE
+Andy Hall <achall@gmail.com>
+v1.0, 2020-02-08
+:toc: left
+:experimental:
+:sectlinks:
+:sectanchors:
+
+***
+
+== Races
+Only humans
+
+== Skills
+
+=== Changed skills
+Electronics is reskinned as Gadgetry
+
+=== Removed skills
+
+* Hacking
+* Focus
+* Language
+
+== Edges
+
+=== Removed edges
+
+*
+  
+=== Arcane backgrounds
+
+The following are allowed:
+
+* Psionics
+* Magic
+
+
+
+
+
+
+== Hindrances
+
+
+
+== Powers
+
+
+== Setting Rules
+
+* Creative Combat
+* Fast Healing
+* High Adventure
+* Multiple Languages
+* Wound Cap
+* Dumb Luck
+* Fanatics
+// Heroes Never Die
+// Born a Hero
