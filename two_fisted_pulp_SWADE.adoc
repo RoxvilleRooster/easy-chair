@@ -8,6 +8,77 @@ v1.0, 2020-02-08
 
 ***
 
+=== Acting bad is bad
+
+The protagonists are heroes and should be played that way. If a protagonist commits an evil, villainous, or morally ambiguous act, they lose a benny right away. This benny loss reduces the protagonist's benny maximum until the start of the next session. For example, if the hero typically starts a session with 3 bennies, her limit would then be reduced to 2 for the session.
+The GM should warn a player about the action and the consequences before the player's hero commits the unheroic deed.
+
+=== Bennies
+
+Before the start of every combat, each hero gets a benny, provided that the benny does not exceed the character's amount of bennies at the session's start. Typically wild card heroes have 3 bennies, unless the hero as edges or hindrances that affect starting bennies.
+
+=== Cinematic death
+In a pulp game, death is not gory and messy.
+
+=== Contacts
+
+Once per adventure, one of the players can invent a Contact, who is a helpful non-player character. A player may invent a Contact for his hero once per rank.
+A contact typically serves to provide gear,  information, or clues and leads when parties are struggling. The GM gets the final decision on what the Contact provides the heroes.
+
+=== Henchmen
+
+An NPC henchman has three wounds like a wild card but, in all other respects, they are extras (that is, no wild die, no bennies for an non-player character wild card).
+
+=== Heroic combat
+
+==== Damage by Extras
+
+The damage rolls of Extras do not ace.
+
+==== Soaking
+
+When a hero soaks all of the damage from an attack, she gets her benny back.
+
+==== Nonlethal
+
+All damage taken by heroes is treated as nonlethal. A hero can only die if a villain performs a Finishing Move (SWADE p 101).
+
+==== Fast healing
+
+Heroes recover 1 wound at the start of an "Act". See <<_acts_and_scenes>>.
+
+==== Injuries are temporary
+
+Heroes do not suffer a permanent injury. When the wounds from the injury heals, the hero no longer suffers the effect of the injury.
+
+=== Never ending ammo
+
+At the end of the scene, heroes recover all spent ammunition.
+At the end of the scene, heroes recover all spent Power Points.
+
+=== Police interference
+
+The cops never turn up until after the action.
+
+=== Pulp fisted
+
+Heroes never suffer the Unarmed Defender penalty (SWADE p 109).
+
+=== Acts and scenes
+
+Typically, an adventure is divided into 3 acts, which consist of 3 or 4 scenes.
+
+=== Recurring villains
+
+All of the villains that the GM wants to return in a sequel are treated as having the Harder to Kill edge (SWADE p 42) but with a 100% chance of survival.
+
+The GM can also spend a benny to guarantee a villain's escape. The escaping villain ignores all die rolls and action limits. He cannot perform actions that he is normally incapable of taking and he cannot attack. Heroes who are on hold cannot interrupt the escape.
+
+=== Surrendering
+
+When the heroes surrender at a dramatically fitting place in the story and go along with the demands of the antagonists, each heroes takes a benny.
+
+
 == Races
 Only humans
 
@@ -27,16 +98,14 @@ Electronics is reskinned as Gadgetry
 === Removed edges
 
 *
-  
+
 === Arcane backgrounds
 
 The following are allowed:
 
 * Psionics
 * Magic
-
-
-
+* Weird science
 
 
 
@@ -46,6 +115,8 @@ The following are allowed:
 
 == Powers
 
+Fly (SWADE p 162)::
+For heroes with the Arcane Background (Weird Science) edge, Fly is available at Novice rank. 
 
 == Setting Rules
 
