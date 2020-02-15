@@ -1,12 +1,19 @@
 = Pulp SWADE
 Andy Hall <achall@gmail.com>
-v1.0, 2020-02-08
+v1.0, 2020-02-15
 :toc: left
 :experimental:
 :sectlinks:
 :sectanchors:
 
-***
+****
+This is an attempt to take the setting rules from several older Savage Worlds products and adapt them to Savage Worlds Adventure Edition games.
+
+This document references:
+
+* Triple Ace Games' _Daring Tales of Adventure Pulp Rules_
+****
+
 
 === Acting bad is bad
 
@@ -85,7 +92,8 @@ Only humans
 == Skills
 
 === Changed skills
-Electronics is reskinned as Gadgetry
+
+* Electronics is reskinned as Gadgetry
 
 === Removed skills
 
@@ -101,12 +109,15 @@ Electronics is reskinned as Gadgetry
 
 === Arcane backgrounds
 
-The following are allowed:
+The following arcane backgrounds are allowed for heroes:
 
-* Psionics
-* Magic
 * Weird science
 
+The following arcane backgrounds are allowed for villains:
+
+* Weird science
+* Psionics
+* Magic
 
 
 == Hindrances
@@ -116,7 +127,7 @@ The following are allowed:
 == Powers
 
 Fly (SWADE p 162)::
-For heroes with the Arcane Background (Weird Science) edge, Fly is available at Novice rank. 
+For heroes with the Arcane Background (Weird Science) edge, Fly is available at Novice rank.
 
 == Setting Rules
 
