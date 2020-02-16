@@ -25,14 +25,15 @@ Typically, an adventure is divided into 3 acts; each consists of 3 or 4 scenes.
 
 Savage Worlds Adventure Edition has a number of setting rules that are perfect for running a two-fisted pulp game.
 
+* Conviction (SWADE p 136)
 * Creative Combat (SWADE p 137)
 * Fast Healing (SWADE p 139)
 * Multiple Languages (SWADE p 149)
-* Wound Cap (SWADE p 141)
+// * Wound Cap (SWADE p 141)
 * Dumb Luck (SWADE p 138)
 * Fanatics (SWADE p 138)
 * Heroes Never Die (SWADE p 140)
-// * High Adventure (SWADE p 140)
+* High Adventure (SWADE p 140)
 // Born a Hero (SWADE p 136)
 
 The following rules and directions further tune the setting for a classic pulp action game.
@@ -195,11 +196,11 @@ Code of Honor, Loyal, Obligation, Overconfident, Vow.
 ==== Mad scientist/inventor
 
 Suggested Skills::
-Research, Science, Repair, Weird Science.
+Research, Science, Repair, Weird Science, Academics, Common Knowledge
 Suggested Edges::
 Arcane Background (Weird Science), Gadgeteer, McGyver, Rich.
 Suggested Hindrances::
-Arrogant, Big Mouth, Delusional, Enemy, Overconfident, Vengeful, Wanted.
+Arrogant, Curious, Delusional, Doubting Thomas, Overconfident
 
 ==== Mesmerist
 
@@ -213,16 +214,16 @@ Cautious, Pacifist
 ==== Noble savage
 
 Suggested Skills::
-text
+Athletics, Survival, Stealth, Fighting, Notice
 Suggested Edges::
-text
+Acrobat, Combat Acrobat, Woodsman
 Suggested Hindrances::
-text
+Clueless, Illiterate, Outsider, All Thumbs
 
 ==== Private investigator
 
 Suggested Skills::
-Research, Stealth, Notice, Persuasion, Performance
+Research, Stealth, Notice, Persuasion, Performance, Taunt
 Suggested Edges::
 Alertness, Connections, Investigator
 Suggested Hindrances::
@@ -239,7 +240,7 @@ text
 Suggested Hindrances::
 text
 
-==== Prizefighter 
+==== Prizefighter
 
 Suggested Skills::
 text
@@ -274,7 +275,6 @@ Suggested Edges::
 text
 Suggested Hindrances::
 text
-
 
 ==== Former criminal
 
