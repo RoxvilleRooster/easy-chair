@@ -133,6 +133,18 @@ When the heroes surrender at a dramatically fitting place in the story and go al
 
 == Creating heroes
 
+=== Motivations
+
+Suggested motivations:
+
+* Money
+* Higher purpose (e.g., preserve, protect)
+* Adventure and thrills
+* Reputation, glory, and fame
+* Professional rivalry
+* Redemption
+
+
 === Archetypes
 
 ==== Reporter
@@ -207,6 +219,16 @@ text
 Suggested Hindrances::
 text
 
+==== Private investigator
+
+Suggested Skills::
+Research, Stealth, Notice, Persuasion, Performance
+Suggested Edges::
+Alertness, Connections, Investigator
+Suggested Hindrances::
+Code of Honor, Curious
+
+
 
 ==== Rocketeer
 
@@ -217,16 +239,7 @@ text
 Suggested Hindrances::
 text
 
-==== Gangster
-
-Suggested Skills::
-text
-Suggested Edges::
-text
-Suggested Hindrances::
-text
-
-==== Boxer
+==== Prizefighter 
 
 Suggested Skills::
 text
@@ -244,6 +257,33 @@ text
 Suggested Hindrances::
 text
 
+==== Dilettante
+
+Suggested Skills::
+text
+Suggested Edges::
+text
+Suggested Hindrances::
+text
+
+==== Adventurer
+
+Suggested Skills::
+text
+Suggested Edges::
+text
+Suggested Hindrances::
+text
+
+
+==== Former criminal
+
+Suggested Skills::
+text
+Suggested Edges::
+text
+Suggested Hindrances::
+text
 
 ////
 ==== Archetype name 1
