@@ -17,17 +17,31 @@ This document also references:
 
 == Heroes in the "Golden Age" of Pulp
 
-
-
 === Acts and scenes
 
 Typically, an adventure is divided into 3 acts; each consists of 3 or 4 scenes.
+
+== Setting Rules
+
+Savage Worlds Adventure Edition has a number of setting rules that are perfect for running a two-fisted pulp game.
+
+* Creative Combat (SWADE p 137)
+* Fast Healing (SWADE p 139)
+* Multiple Languages (SWADE p 149)
+* Wound Cap (SWADE p 141)
+* Dumb Luck (SWADE p 138)
+* Fanatics (SWADE p 138)
+* Heroes Never Die (SWADE p 140)
+// * High Adventure (SWADE p 140)
+// Born a Hero (SWADE p 136)
+
+The following rules and directions further tune the setting for a classic pulp action game.
 
 === Acting bad is bad
 
 The protagonists are heroes. Play them that way. If a protagonist commits an evil, villainous, or morally ambiguous act, they lose a benny. This benny loss reduces the protagonist's benny maximum until the start of the next session. For example, if the hero typically starts a session with 3 bennies, her benny limit would then be reduced to 2 for the duration of the session.
 [TIP]
-Gamemaster, warn the player about this rules and the consequences of the action before the player's hero commits the unheroic deed.
+The game master should warn the player about this rule and the consequences of the action before the player's hero commits an unheroic deed.
 
 === Bennies
 
@@ -41,15 +55,11 @@ Any hero who attempts a stunt action deserves a benny.
 
 In game terms, a stunt is an action where the player purposefully makes the action more difficult for the hero. A stunt action always requires a trait roll, at a minimum -2 penalty. The GM is the final arbiter of the roll penalty of a particular stunt action.
 
-.Conventional action
-****
+Conventional action::
 Getting on board an airship before it lifts off from the platform is an action
-****
 
-.Stunt action
-****
+Stunt action::
 Leaping from the sidecar of a speeding motorcycle onto an airship at the last second as it lifts off from the platform.
-****
 
 === Cinematic death
 In a pulp game, death is not gory and messy.
@@ -105,6 +115,7 @@ The cops never turn up until after the action.
 
 Heroes never suffer the Unarmed Defender penalty (SWADE p 109).
 
+////
 === Recurring villains
 
 All of the villains that the GM wants to return in a sequel are treated as having the Harder to Kill edge (SWADE p 42) but with a 100% chance of survival.
@@ -112,23 +123,26 @@ All of the villains that the GM wants to return in a sequel are treated as havin
 The GM can also spend a benny to guarantee a villain's escape. The escaping villain ignores all die rolls and action limits. He cannot perform actions that he is normally incapable of taking and he cannot attack. Heroes who are on hold cannot interrupt the escape.
 
 [WARNING]
-The "Recurring villains" setting rules are be a bit _too_ much. Do not get too committed to the survival of a villain. Make some allowance for the heroes to kill them off.
+The "Recurring villains" setting rules are a bit _too_ much. Do not get too committed to the survival of a villain. Make some allowance for the heroes to kill them off.
+////
 
 === Surrender
 
 When the heroes surrender at a dramatically fitting place in the story and go along with the demands of the antagonists, each heroes takes a benny.
 
 
-== Races
+== Creating heroes
+
+=== Races
 Heroes are humans.
 
-== Skills
+=== Skills
 
-=== Changed skills
+==== Changed skills
 
 * Electronics is reskinned as Gadgetry
 
-=== Removed skills
+==== Removed skills
 
 * Hacking
 * Focus, applies to the Arcane Background (Gifted)
@@ -137,9 +151,9 @@ Heroes are humans.
 * Psionics, applies to the Arcane Background (Psionics)
 * Spellcasting, applies to the Arcane Background (Magic)
 
-== Edges
+=== Edges
 
-=== Changed edges
+==== Changed edges
 
 New Powers (SWADE p 47)::
 //An arcane character may learn two new powers by choosing this Edge (which may be taken multiple times). He may choose from any powers of his Rank or lower normally available to his particular Arcane Background.
@@ -148,14 +162,14 @@ The weird scientist may learn one new power by choosing this Edge (which may be 
 This character can also add a new Trapping on a power she already has instead of gaining a new one. For example, she might add an electrical Trapping to her existing freeze bolt, for example, so she could switch between shock and cold Trappings.
 
 
-=== Removed edges
+==== Removed edges
 
 * Arcane Resistance (SWADE p 37) and Improved Arcane Resistance
 * Giant Killer (SWADE p 42)
 * Linguist (as per the Multiple Languages setting rules in SWADE p 149)
 * See <<_arcane_backgrounds>> for other unavailable edges
 
-=== Arcane backgrounds
+==== Arcane backgrounds
 
 Only the Weird Science arcane background is allowed for heroes.
 Heroes cannot use the other arcane backgrounds. Edges that are specifically applicable to unavailable arcane backgrounds are also not available to heroes.
@@ -176,7 +190,7 @@ The following arcane backgrounds are allowed for villains:
 * Magic
 ////
 
-== Hindrances
+=== Hindrances
 
 Cocky (minor)::
 The character is a braggart and will typically spend the /first round of any combat announcing how great he is, or what he's going to do to any and all opponents.
@@ -185,22 +199,12 @@ This is the minor version of the Overconfident (major) hindrance (SWADE p 26). T
 ****
 
 
-== Powers
+=== Powers
 
 Fly (SWADE p 162)::
 For heroes with the Arcane Background (Weird Science) edge, Fly is available at Novice rank.
 
-== Setting Rules
 
-* Creative Combat (SWADE p 137)
-* Fast Healing (SWADE p 139)
-* Multiple Languages (SWADE p 149)
-* Wound Cap (SWADE p 141)
-* Dumb Luck (SWADE p 138)
-* Fanatics (SWADE p 138)
-* Heroes Never Die (SWADE p 140)
-// * High Adventure (SWADE p 140)
-// Born a Hero (SWADE p 136)
 
 
 
