@@ -109,7 +109,7 @@ At the end of the scene, heroes recover all spent ammunition.
 
 === Police interference
 
-The cops never turn up until after the action.
+The cops do not turn up on the scene until after the action has ended.
 
 === Pulp fisted
 
