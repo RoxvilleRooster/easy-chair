@@ -148,33 +148,61 @@ Suggested motivations:
 
 === Archetypes
 
+==== Actor
+
+Suggested Skills::
+Athletics, Fighting, Intimidation, Performance, Persuasion, Riding, Taunt
+Suggested Edges::
+Attractive, Charismatic, Connections, Elan, Fame, Rich, Work the Room
+Suggested Hindrances::
+Arrogant, Big Mouth, Habit, Think Skinned, Stubborn
+
+==== Archaeologist
+
+Suggested Skills::
+Academics, Athletics, Notice, Repair, Research, Stealth, Survival
+Suggested Edges::
+Investigator, Scholar, Danger Sense, Dodge, Luck
+Suggested Hindrances::
+Code of Honor, Heroic, Bad Luck, Curious, Greedy, Phobia
+
+
 ==== Reporter
 
 Suggested Skills::
-Research, Notice, Persuasion
+Academics, Athletics, Notice, Persuasion, Research, Stealth, Taunt, Thievery
 Suggested Edges::
-Alertness, Attractive
+Alertness, Attractive, Calculating, Connections, Investigator, Luck, Streetwise, Strong Willed
 Suggested Hindrances::
-Curious, Doubting Thomas
+Curious, Doubting Thomas, Driven, Habit, Suspicious
 
 ==== Pilot
 
 Suggested Skills::
 Piloting, Repair, Shooting
 Suggested Edges::
-Ace, Level-Headed, Quick
+Ace, Dead Shot, Level-Headed, Quick, Steady Hands,
 Suggested Hindrances::
-Code of Honor, Enemy, Overconfident
+Arrogant, Code of Honor, Enemy, Outsider, Overconfident
 
 ==== Big game hunter
 
 Suggested Skills::
-Athletics, Intimidation, Notice, Shooting, Stealth, Survival
+Athletics, Fighting, Notice, Riding, Shooting, Stealth, Survival
 Suggested Edges::
-Alertness, Giant Killer, Marksman, No Mercy, Trademark Weapon, Woodsman.
+Alertness, Danger Sense, Dead Shot, Giant Killer, Marksman, No Mercy, Steady Hands, Trademark Weapon, Woodsman.
 Suggested Hindrances::
 Arrogant, Bloodthirsty, Greedy
 
+==== Explorer
+
+Suggested Skills::
+Academics, Athletics, Healing, Notice, Research, Riding, Science, Survival
+Suggested Edges::
+Brave, Scholar, Strong Willed, Woodsman
+Suggested Hindrances::
+Bad Luck, Code of Honor, Curious, Driven, Stubborn
+////
 ==== Fortune hunter
 
 Suggested Skills::
@@ -183,24 +211,35 @@ Suggested Edges::
 Investigator, Scholar
 Suggested Hindrances::
 Bad Luck, Curious, Greedy, Phobia
-
-==== G-man
+////
+==== G-Man
 
 Suggested Skills::
-Driving, Fighting, Intimidation, Research, Academics, Notice, Persuasion, Shooting
+Common Knowledge, Driving, Fighting, Intimidation, Notice, Research, Persuasion, Shooting
 Suggested Edges::
-Alertness, Combat Reflexes, Command, Connections, Investigator, Strong Willed
+Alertness, Combat Reflexes, Command, Connections, Dodge,  Investigator, Strong Willed
 Suggested Hindrances::
-Code of Honor, Loyal, Obligation, Overconfident, Vow.
+Code of Honor, Loyal, Mean, Obligation, Overconfident
 
 ==== Mad scientist/inventor
 
 Suggested Skills::
-Research, Science, Repair, Weird Science, Academics, Common Knowledge
+Academics, _Gadgetry_, Research, Repair, Science, Weird Science,
 Suggested Edges::
-Arcane Background (Weird Science), Gadgeteer, McGyver, Rich.
+Arcane Background (Weird Science), Gadgeteer, McGyver, Mr. Fix It, Rich
 Suggested Hindrances::
-Arrogant, Curious, Delusional, Doubting Thomas, Overconfident
+Curious, Delusional, Doubting Thomas, Outsider, Overconfident
+
+////
+==== Man of Mystery
+
+Suggested Skills::
+text
+Suggested Edges::
+text
+Suggested Hindrances::
+text
+////
 
 ==== Mesmerist
 
@@ -211,21 +250,21 @@ Arcane Background (Psionics), Arcane Resistance (Psionics), Danger Sense, Mental
 Suggested Hindrances::
 Cautious, Pacifist
 
-==== Noble savage
+==== Jungle Man
 
 Suggested Skills::
-Athletics, Survival, Stealth, Fighting, Notice
+Athletics, Fighting, Healing, Notice, Survival, Stealth
 Suggested Edges::
-Acrobat, Combat Acrobat, Woodsman
+Acrobat, Alertness, Beast Bond, Beast Master, Brawny, Combat Acrobat, Danger Sense, Fleet-Footed, Free Runner, Giant Killer, Iron Jaw, Woodsman
 Suggested Hindrances::
-Clueless, Illiterate, Outsider, All Thumbs
+All Thumbs, Clueless, Curious, Heroic, Illiterate, Outsider
 
 ==== Private investigator
 
 Suggested Skills::
 Research, Stealth, Notice, Persuasion, Performance, Taunt
 Suggested Edges::
-Alertness, Connections, Investigator
+Alertness, Connections, Investigator, Streetwise
 Suggested Hindrances::
 Code of Honor, Curious
 
@@ -234,22 +273,56 @@ Code of Honor, Curious
 ==== Rocketeer
 
 Suggested Skills::
-text
+Athletics, Fighting, Intimidation, Piloting, Shooting, Stealth
 Suggested Edges::
-text
+Ace, Combat Reflexes, Dodge, Level Headed, Rock 'n' Roll, Steady Hands
 Suggested Hindrances::
-text
+Code of Honor, Heroic, Loyal, Overconfident
 
 ==== Prizefighter
 
 Suggested Skills::
-text
+Athletics, Fighting, Intimidation
 Suggested Edges::
-text
+Ambidextrous, Block, Brawler, Brawny, Bruiser, Brute, Combat Reflexes, Fame, First Strike, Frenzy, Improved Block, Improved Frenzy, Iron Jaw, Martial Artist, Quick, Strong Willed, Sweep, Two Fisted
 Suggested Hindrances::
-text
+Arrogant, Driven, Heroic, Illiterate, Loyal, Menacing, Overconfident, Ruthless, Ugly
 
-==== Martial artist
+==== Martial Artist
+
+Suggested Skills::
+Athletics, Fighting, Intimidation, Stealth
+Suggested Edges::
+Acrobat, Ambidextrous, Block, Chi, First Strike, Frenzy, Martial Artist, Martial Warrior,
+Suggested Hindrances::
+Driven, Heroic, Loyal, Outsider, Pacifist, Vow
+
+
+
+==== Soldier of Fortune
+
+Suggested Skills::
+Athletics, Battle, Fighting, Intimidation, Notice, Shooting, Stealth
+Suggested Edges::
+Enlisted;;
+Combat Reflexes, Dodge, Marksman, Rock and Roll, Soldier, Steady Hands
+Officer;;
+Command, Command Presence, Hold the Line, Inspire, Natural Leader, Tactician
+Suggested Hindrances::
+Greedy, Loyal
+
+==== Athlete
+
+Suggested Skills::
+Athletics, Fighting, Intimidation, Performance, Taunt
+Suggested Edges::
+Acrobat, Attractive, Brawny, Brute, Elan, Fame, Fleet Footed, Free Runner, Level Headed, Quick
+Bolster, Common Bond, Provoke, Reliable, Strong Willed
+Suggested Hindrances::
+Arrogant, Driven, Heroic, Ruthless, Thin Skinned, Young
+
+
+==== Former criminal
 
 Suggested Skills::
 text
@@ -267,6 +340,7 @@ text
 Suggested Hindrances::
 text
 
+////
 ==== Adventurer
 
 Suggested Skills::
@@ -275,15 +349,7 @@ Suggested Edges::
 text
 Suggested Hindrances::
 text
-
-==== Former criminal
-
-Suggested Skills::
-text
-Suggested Edges::
-text
-Suggested Hindrances::
-text
+////
 
 ////
 ==== Archetype name 1
@@ -343,6 +409,11 @@ The unavailable edges are:
 ** Holy/Unholy Warrior (SWADE p 46)
 // ** Mentalist (SWADE p 46)
 ** Wizard (SWADE p 47)
+
+.Men of Mystery and Street-Level Superheroes
+****
+We would likely build heroes such as the _The Shadow_ and _Doc Savage_  using **Arcane Background - Gifted**. Here we are focusing on a low-powered, classic pulp adventure game _a la_ the Indiana Jones movies or the Mummy series.
+****
 
 
 ////
