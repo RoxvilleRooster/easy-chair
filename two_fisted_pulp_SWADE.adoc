@@ -133,6 +133,130 @@ When the heroes surrender at a dramatically fitting place in the story and go al
 
 == Creating heroes
 
+=== Archetypes
+
+==== Reporter
+
+Suggested Skills::
+Research, Notice, Persuasion
+Suggested Edges::
+Alertness, Attractive
+Suggested Hindrances::
+Curious, Doubting Thomas
+
+==== Pilot
+
+Suggested Skills::
+Piloting, Repair, Shooting
+Suggested Edges::
+Ace, Level-Headed, Quick
+Suggested Hindrances::
+Code of Honor, Enemy, Overconfident
+
+==== Big game hunter
+
+Suggested Skills::
+Athletics, Intimidation, Notice, Shooting, Stealth, Survival
+Suggested Edges::
+Alertness, Giant Killer, Marksman, No Mercy, Trademark Weapon, Woodsman.
+Suggested Hindrances::
+Arrogant, Bloodthirsty, Greedy
+
+==== Fortune hunter
+
+Suggested Skills::
+Research, Academics, Thievery, Notice, Survival
+Suggested Edges::
+Investigator, Scholar
+Suggested Hindrances::
+Bad Luck, Curious, Greedy, Phobia
+
+==== G-man
+
+Suggested Skills::
+Driving, Fighting, Intimidation, Research, Academics, Notice, Persuasion, Shooting
+Suggested Edges::
+Alertness, Combat Reflexes, Command, Connections, Investigator, Strong Willed
+Suggested Hindrances::
+Code of Honor, Loyal, Obligation, Overconfident, Vow.
+
+==== Mad scientist/inventor
+
+Suggested Skills::
+Research, Science, Repair, Weird Science.
+Suggested Edges::
+Arcane Background (Weird Science), Gadgeteer, McGyver, Rich.
+Suggested Hindrances::
+Arrogant, Big Mouth, Delusional, Enemy, Overconfident, Vengeful, Wanted.
+
+==== Mesmerist
+
+Suggested Skills::
+Intimidation, Notice, Performance, Persuasion, Psionics.
+Suggested Edges::
+Arcane Background (Psionics), Arcane Resistance (Psionics), Danger Sense, Mentalist, Soul Drain, Strong Willed
+Suggested Hindrances::
+Cautious, Pacifist
+
+==== Noble savage
+
+Suggested Skills::
+text
+Suggested Edges::
+text
+Suggested Hindrances::
+text
+
+
+==== Rocketeer
+
+Suggested Skills::
+text
+Suggested Edges::
+text
+Suggested Hindrances::
+text
+
+==== Gangster
+
+Suggested Skills::
+text
+Suggested Edges::
+text
+Suggested Hindrances::
+text
+
+==== Boxer
+
+Suggested Skills::
+text
+Suggested Edges::
+text
+Suggested Hindrances::
+text
+
+==== Martial artist
+
+Suggested Skills::
+text
+Suggested Edges::
+text
+Suggested Hindrances::
+text
+
+
+////
+==== Archetype name 1
+
+Suggested Skills::
+text
+Suggested Edges::
+text
+Suggested Hindrances::
+text
+////
+
+
 === Races
 Heroes are humans.
 
@@ -148,7 +272,7 @@ Heroes are humans.
 * Focus, applies to the Arcane Background (Gifted)
 * Faith, applies to the Arcane Background (Miracles)
 * Language (see the Multiple Languages setting rules in SWADE p 149)
-* Psionics, applies to the Arcane Background (Psionics)
+//* Psionics, applies to the Arcane Background (Psionics)
 * Spellcasting, applies to the Arcane Background (Magic)
 
 === Edges
@@ -164,21 +288,20 @@ This character can also add a new Trapping on a power she already has instead of
 
 ==== Removed edges
 
-* Arcane Resistance (SWADE p 37) and Improved Arcane Resistance
-* Giant Killer (SWADE p 42)
 * Linguist (as per the Multiple Languages setting rules in SWADE p 149)
 * See <<_arcane_backgrounds>> for other unavailable edges
+// * Arcane Resistance (SWADE p 37) and Improved Arcane Resistance
+// * Giant Killer (SWADE p 42)
 
 ==== Arcane backgrounds
 
-Only the Weird Science arcane background is allowed for heroes.
-Heroes cannot use the other arcane backgrounds. Edges that are specifically applicable to unavailable arcane backgrounds are also not available to heroes.
+Only the Weird Science and Psionics arcane backgrounds are available for heroes. Edges that are associated with unavailable arcane backgrounds are not available to heroes.
 
 The unavailable edges are:
 
 ** Extra Effort (SWADE p 46)
 ** Holy/Unholy Warrior (SWADE p 46)
-** Mentalist (SWADE p 46)
+// ** Mentalist (SWADE p 46)
 ** Wizard (SWADE p 47)
 
 
@@ -193,7 +316,7 @@ The following arcane backgrounds are allowed for villains:
 === Hindrances
 
 Cocky (minor)::
-The character is a braggart and will typically spend the /first round of any combat announcing how great he is, or what he's going to do to any and all opponents.
+The character is a braggart and will typically spend the first round of any combat announcing how great he is, or what he's going to do to any and all opponents.
 ****
 This is the minor version of the Overconfident (major) hindrance (SWADE p 26). This could easily be considered as a trapping of the hindrance Quirk (minor).
 ****
