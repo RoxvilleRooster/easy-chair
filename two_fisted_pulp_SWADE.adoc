@@ -481,15 +481,19 @@ If you can use these chases with minimal change, I suggest doing so. Some minor 
 
 There will be cases where you may want to use a Quick Encounter to handle a chase scene. For example, you may want to keep the pace of the game going and move on to the next scene before the session ends.
 
-=== Obstacles and Complicaions in Chases
+=== Obstacles and Complications
 
-As per the rules, if the action card that is dealt to a character at the start of a chase round (SWADE p 114) is a club, there's a complication.
+As per the rules, if the action card that is dealt to a character at the start of a chase round (SWADE p 114) is a club, there's a problems of some kind;  the hero needs to make a maneuvering roll.
 
-In standard chases, you check the chase card suite against the Complications table to determine the mechanical effect of the complication and the hero makes a maneuvering roll (SWADE p 116).
+In standard chases, you check the chase card suit against the Complications table to determine the mechanical effect of the complication and the hero makes a maneuvering roll (SWADE p 116).
 
-In many of the set-piece chases that _Daring Tales of Adventure_ scenarios are known for, the GM refers to the Obstacles listed for the scene. When the action card is a club, look up the card value to determine what happens next.footnote:[See "Daring Tales of Adventure - The Devil's Chalice",  Act 1, Scene 2] The obstacle descriptions provide nice narrative color, indicate the maneuvering penalty, and state what happens if the maneuvering roll is a failure.
+In many of the set-piece chases in _Daring Tales of Adventure_ scenarios, when the action card is a club, the GM refers to the Obstacles listed for the scene, looking up the card value to determine what's next.footnote:[See "Daring Tales of Adventure - The Devil's Chalice",  Act 1, Scene 2.] The obstacle descriptions provide useful narrative color, indicate the maneuvering penalty, and state what happens if the maneuvering roll fails.
 
-In some _Daring Tales of Adventure_ chase scenes, the obstacles and events of a chase are pre-ordained and the heroes are running a gauntlet.
+In some _Daring Tales of Adventure_ chase scenes, the obstacles and events of a chase are fixed beforehand; the heroes are running a gauntlet.footnote:[See "Daring Tales of Adventure - The Talons of Lo-Peng",  Act 2, Scene 3.]
+
+At the fixed event points (called increments) in the chase, stuff happens when the heroes reach that increment, no matter if they pass that stage or not.
+If the scene defines 20 increments, lay down 20 chase cards. Use some kind of counter to mark the increments on which fixed events occur.
+
 
 
 
