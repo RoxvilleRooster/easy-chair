@@ -428,13 +428,18 @@ This character can also add a new Trapping on a power she already has instead of
 
 ==== Arcane Backgrounds
 
-Only the Weird Science and Psionics arcane backgrounds are available for heroes. Edges that are associated with unavailable arcane backgrounds are not available to heroes.
+Only the Weird Science arcane background is available for heroes. Edges that are associated with unavailable arcane backgrounds are not available to heroes.
+
+.Why No Psionics?
+****
+I do not think heroes control the minds of others, wipe others' memories, and project mental blasts. Let's focus on fists, bullets, and car chases and leave the superhuman and supernatural stuff to the big villains.
+****
 
 The unavailable edges are:
 
 ** Extra Effort (SWADE p 46)
 ** Holy/Unholy Warrior (SWADE p 46)
-// ** Mentalist (SWADE p 46)
+** Mentalist (SWADE p 46)
 ** Wizard (SWADE p 47)
 
 .Men of Mystery and Street-Level Superheroes
@@ -456,7 +461,7 @@ The following arcane backgrounds are allowed for villains:
 Cocky (minor)::
 The character is a braggart and will typically spend the first round of any combat announcing how great he is, or what he's going to do to any and all opponents.
 ****
-This is the minor version of the Overconfident (major) hindrance (SWADE p 26). This could easily be considered as a trapping of the hindrance Quirk (minor).
+Cocky is like a minor version of the Overconfident (major) hindrance (SWADE p 26). This could easily be considered as a trapping of the hindrance Quirk (minor).
 ****
 
 
@@ -473,6 +478,18 @@ _Savage Worlds Adventure Edition_ chase rules.
 
 Wiggy wrote some excellent set piece chase actin scenes.
 If you can use these chases with minimal change, I suggest doing so. Some minor changes are needed. For example, if the chase calls for an Agility trait roll to maneuver, you will most likely want to call for the Athletics skill.
+
+There will be cases where you may want to use a Quick Encounter to handle a chase scene. For example, you may want to keep the pace of the game going and move on to the next scene before the session ends.
+
+=== Obstacles and Complicaions in Chases
+
+As per the rules, if the action card that is dealt to a character at the start of a chase round (SWADE p 114) is a club, there's a complication.
+
+In standard chases, you check the chase card suite against the Complications table to determine the mechanical effect of the complication and the hero makes a maneuvering roll (SWADE p 116).
+
+In many of the set-piece chases that _Daring Tales of Adventure_ scenarios are known for, the GM refers to the Obstacles listed for the scene. When the action card is a club, look up the card value to determine what happens next.footnote:[See "Daring Tales of Adventure - The Devil's Chalice",  Act 1, Scene 2] The obstacle descriptions provide nice narrative color, indicate the maneuvering penalty, and state what happens if the maneuvering roll is a failure.
+
+In some _Daring Tales of Adventure_ chase scenes, the obstacles and events of a chase are pre-ordained and the heroes are running a gauntlet.
 
 
 
