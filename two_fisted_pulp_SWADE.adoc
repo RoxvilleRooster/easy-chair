@@ -8,12 +8,17 @@ v1.0, 2020-02-15
 :sectanchors:
 
 ****
-This is an attempt to take the setting rules from several older Savage Worlds products and adapt them to Savage Worlds Adventure Edition games.
+This is an attempt to take the setting rules from several older Savage Worlds products and adapt them to _Savage Worlds Adventure Edition_ games.
 
 This document also references:
 
-* Triple Ace Games' _Daring Tales of Adventure Pulp Rules_
-* Adamant Entertainment's _Thrilling Tales of Adventure_
+* _Daring Tales of Adventure: Pulp Rules_ (2008, Paul "Wiggy" Wade-Williams, Triple Ace Games)
+* _Daring Tales of Adventure: Rocket Rangers_ (2010, Paul "Wiggy" Wade-Williams, Triple Ace Games)
+* _Savage Worlds Pulp GM's Toolkit_ (2006, Paul "Wiggy" Wade-Williams, Pinnacle Entertainment)
+* _Thrilling Tales of Adventure_ (2009, Gareth-Michael Skarka et al., Adamant Entertainment)
+* _Realms of Cthulhu_ (2009, Sean Preston, Reality Blurs)
+* _The Eye of Kilquato: Savage Worlds Adventure Edition_ (2019, Shane Hensley, Pinnacle Entertainment)
+
 ****
 
 == Heroes in the "Golden Age" of Pulp
