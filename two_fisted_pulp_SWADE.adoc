@@ -8,9 +8,11 @@ v1.0, 2020-02-15
 :sectanchors:
 
 ****
-This is an attempt to take the setting rules from several older Savage Worlds products and adapt them to _Savage Worlds Adventure Edition_ games.
+This is an attempt to take the setting rules from several older Savage Worlds products and adapt them to _Savage Worlds Adventure Edition_ (SWADE) games.
 
-This document also references:
+This is an effort to make the scenarios of the  _Daring Tales of Adventure_ series more usable to SWADE game masters and players.
+
+In addition _Savage Worlds Adventure Edition_ (2018), this document references the follwing books:
 
 * _Daring Tales of Adventure: Pulp Rules_ (2008, Paul "Wiggy" Wade-Williams, Triple Ace Games)
 * _Daring Tales of Adventure: Rocket Rangers_ (2010, Paul "Wiggy" Wade-Williams, Triple Ace Games)
@@ -25,7 +27,7 @@ This document also references:
 
 === Acts and scenes
 
-Typically, an adventure is divided into 3 acts; each consists of 3 or 4 scenes.
+Typically, a Daring Tales of Adventure scenario was divided into 3 or 4 acts; each act usually consists of 3 or 4 scenes.
 
 == Setting Rules
 
@@ -41,6 +43,11 @@ Savage Worlds Adventure Edition has a number of setting rules that are perfect f
 * Heroes Never Die (SWADE p 140)
 * High Adventure (SWADE p 140)
 // Born a Hero (SWADE p 136)
+
+.Why not use the Wound Cap setting rule?
+****
+I thought of adding the Wound Cap setting rule (SWADE p 141) but I figured that, with Fast Healing, Dumb Luck, Heroes Never Die,  <<#_injuries_are_temporary>>, and  <<#_nonlethal_damage_to_heroes>>, the heroes were wearing enough bubble wrap. There has to be some danger.
+****
 
 The following rules and directions further tune the setting for a classic pulp action game.
 
