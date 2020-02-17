@@ -466,8 +466,13 @@ Fly (SWADE p 162)::
 For heroes with the Arcane Background (Weird Science) edge, Fly is available at Novice rank.
 
 
+== Chases
 
+There are at least three chases per _Darting Tales of Adventure_ scenario; the _Daring Tales_ chases used different rules from those specified in the _Savage Worlds Deluxe Explorers' Edition_ rules and they are also markedly different from the
+_Savage Worlds Adventure Edition_ chase rules.
 
+Wiggy wrote some excellent set piece chase actin scenes.
+If you can use these chases with minimal change, I suggest doing so. Some minor changes are needed. For example, if the chase calls for an Agility trait roll to maneuver, you will most likely want to call for the Athletics skill.
 
 
 
