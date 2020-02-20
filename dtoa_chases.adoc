@@ -31,6 +31,9 @@ v1.0, 2020-02-17
 | c2.4 | 3 | 2 | Driving | Chase with obstacles
 | c2.4 | 3 | 4 | Piloting | Standard chase
 | c2.4 | 4 | 2 | Athletics | Chase with obstacles
+| c3.1 | 1 | 1 | Driving | Standard chase
+| c3.1 | 1 | 3 | Athletics | Chase with obstacles
+| c3.2 | 1 | 1 | Driving | Standard chase
 | c4.1 | 1 | 2 | Driving | Chase with obstacles
 | c4.1 | 3 | 2 | Driving | Standard chase
 | c4.2 | 1 | 2 | Athletics | Standard chase
