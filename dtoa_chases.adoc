@@ -7,17 +7,29 @@ v1.0, 2020-02-17
 :sectlinks:
 :sectanchors:
 
+***
+
+== Adventures and Chases
 .Chases
 [%header,cols="3,1,1,2,3"]
 |===
-|Adventure | Act| Scene | Maneuvering | Chase Type
+|Adventure | Act | Scene | Maneuvering | Chase Type
+
+| The Tale Of The Fabulous Four | 1 | 2 | Athletics | Chase with obstacles
+| The Tale Of The Fabulous Four | 2 | 2 | Athletics | Standard chase
+| The Tale Of The Fabulous Four | 3 | 2 | Athletics | Standard chase with obstacles (variation)
+| The Tale Of The Fabulous Four | 4 | 2 | Athletics | Standard chase with obstacles (variation)
+|  Rocket Nazis On The Orient Express  | 1 | 2 | Driving |  Chase with obstacles
+|  Rocket Nazis On The Orient Express  | 2 | 4 | Piloting |  Chase with obstacles
+|  Rocket Nazis On The Orient Express  | 3 | 1 | Athletics |  Chase with fixed encounters
+|  Rocket Nazis On The Orient Express  | 4 | 2 | Piloting |  Standard chase
 | To End All Wars | 1 | 2 | Driving | Chase with obstacles
 | Chaos On Crete | 4 | 1 | Boating | Standard chase
 | Web Of The Spider Cult | 1 | 3 | Athletics | Chase with obstacles
 | Web Of The Spider Cult | 2 | 2 | Boating | Chase with fixed encounters
 | Treasure Of The Templars | 1 | 1 | Driving | Chase with obstacles
 | Treasure Of The Templars | 3 | 4 | Piloting  | Standard chase
-| The Talons Of Lo Peng | 2 | 3 | Car  | Chase with fixed encounters
+| The Talons Of Lo Peng | 2 | 3 | Driving  | Chase with fixed encounters
 | The Talons Of Lo Peng | 3 | 2 | Athletics | Chase with obstacles
 | Sky Pirates Of The Caribbean | 3 | 3 | Athletics | Standard chase
 | Sky Pirates Of The Caribbean | 4 | 1 | Piloting  | Chase with fixed encounters
@@ -84,6 +96,44 @@ v1.0, 2020-02-17
 | The Sword of Avalon | Compendium 4 | 2 | 17
 | The Muramasa Curse | Compendium 4 | 3 | 18
 | Empire of the Black Pharaoh | Compendium 4 | 4 | 19
-
-
 |===
+
+== To End All Wars
+=== 1.2
+
+== Chaos On Crete
+=== 1.4
+
+////
+
+== Web Of The Spider Cult
+
+== Treasure Of The Templars
+
+== The Talons Of Lo Peng
+
+== Sky Pirates Of The Caribbean
+
+== The Palladium Peril
+
+== The Twelfth Gate
+
+== Terror Of The Z Bomb
+
+== Island Of Terror
+
+== Kingdom Of The Blood Gods
+
+== The Hands Of Kali
+
+== Legacy Of Tunguska
+
+== The Devil's Chalice
+
+== The Sword of Avalon
+
+== The Muramasa Curse
+
+==  Empire of the Black Pharaoh
+
+////
