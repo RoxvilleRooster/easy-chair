@@ -12,7 +12,7 @@ This is an attempt to take the setting rules from several older Savage Worlds pr
 
 This is an effort to make the scenarios of the  _Daring Tales of Adventure_ series more usable to SWADE game masters and players.
 
-In addition _Savage Worlds Adventure Edition_ (2018), this document references the follwing books:
+In addition _Savage Worlds Adventure Edition_ (2018), this document references the following books:
 
 * _Daring Tales of Adventure: Pulp Rules_ (2008, Paul "Wiggy" Wade-Williams, Triple Ace Games)
 * _Daring Tales of Adventure: Rocket Rangers_ (2010, Paul "Wiggy" Wade-Williams, Triple Ace Games)
