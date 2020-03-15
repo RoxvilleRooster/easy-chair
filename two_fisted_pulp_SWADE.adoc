@@ -46,7 +46,7 @@ Savage Worlds Adventure Edition has a number of setting rules that are perfect f
 
 .Why not use the Wound Cap setting rule?
 ****
-I thought of adding the Wound Cap setting rule (SWADE p 141) but I figured that, with Fast Healing, Dumb Luck, Heroes Never Die,  <<#_injuries_are_temporary>>, and  <<#_nonlethal_damage_to_heroes>>, the heroes were wearing enough bubble wrap. There has to be some danger.
+I thought of adding the Wound Cap setting rule (SWADE p 141) but I figured that, with Fast Healing, Dumb Luck, Heroes Never Die,  <<#injuries_are_temporary>>, and  <<#nonlethal_damage_to_heroes>>, the heroes were wearing enough bubble wrap. There has to be some danger.
 ****
 
 The following rules and directions further tune the setting for a classic pulp action game.
@@ -111,7 +111,7 @@ The damage rolls of Extras do not ace.
 ////
 
 
-
+[[nonlethal_damage_to_heroes]]
 === Nonlethal Damage to Heroes
 
 All damage taken by heroes is treated as nonlethal. A hero can only die if a villain performs a Finishing Move (SWADE p 101).
@@ -122,6 +122,7 @@ All damage taken by heroes is treated as nonlethal. A hero can only die if a vil
 Heroes recover 1 wound at the start of an "Act". See <<_acts_and_scenes>>.
 ////
 
+[[injuries_are_temporary]]
 === Injuries are Temporary
 
 Heroes do not suffer a permanent injury. When the wounds from the injury heals, the hero no longer suffers the effect of the injury.
