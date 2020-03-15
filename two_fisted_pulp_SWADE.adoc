@@ -281,7 +281,7 @@ Acrobat, Ambidextrous, Block, Chi, First Strike, Frenzy, Martial Artist
 Suggested Hindrances::
 Driven, Heroic, Loyal, Outsider, Pacifist, Vow
 
-
+////
 ==== Mesmerist
 
 Suggested Skills::
@@ -290,6 +290,7 @@ Suggested Edges::
 Arcane Background (Psionics), Arcane Resistance (Psionics), Danger Sense, Mentalist, Soul Drain, Strong Willed
 Suggested Hindrances::
 Cautious, Pacifist
+////
 
 ==== Pilot
 
