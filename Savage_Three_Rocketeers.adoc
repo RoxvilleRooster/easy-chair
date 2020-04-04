@@ -24,7 +24,7 @@ The Rocketeers are an elite unit. Training is tough and few make the cut.
 Rocketeers are typically recruited from the army, but anyone with the right aptitude can apply.
 
 Attribute Requirements:: Strength d6, Agility d6, Vigor d6
-Skill Requirements:: Piloting
+Skill Requirements:: Piloting d8, Repair d4, Athletics d6
 Useful Edges:: Ace, Steady Hands
 // Special:: See the notes on roles within the Rocket Rangers in the core text of this supplement.
 Additional Gear:: Rocket pack, armored suit, Molecular Sword
@@ -54,7 +54,7 @@ Toughness: 10 (3); Weight: 12 lbs. fuelled; 8 lbs. empty
 Notes;;
 A rocket pack counts as a Small target (–4). For each point of damage it takes over its Toughness from
 small arms fire, one point of fuel is lost.
-Explosive and fire damage cause the pack to overload and explode (see <<#_safety_first>>).
+Explosive and fire damage cause the pack to overload and explode (see <<#safety>>).
 Every five units of fuel weighs 1 pound.
 // Regular Gear::
 // In addition to the above, the Rocketeers are typically equipped with either a Thompson SMG or an automatic pistol, five clips of ammunition, a dagger, and two hand grenades.
@@ -70,7 +70,7 @@ enough thrust to lift a man off the ground, yet alone fly
 around for extended periods.
 A fully fuelled rocket pack has 20 units of fuel. Each player needs to track these using a counter.
 Each round a pack is used for movement or to hover in place, one unit of fuel is expended.
-It makes no difference how far a hero moves— the motors are more efficient at higher speeds, hence moving the regular Chase <<#_speed,speed>>
+It makes no difference how far a hero moves— the motors are more efficient at higher speeds, hence moving the regular Chase <<#speed,speed>>
 // (see page 6)
 burns the
 same fuel as moving on the tabletop, despite the former being considerably faster.
@@ -86,6 +86,7 @@ In order to keep fuel use practical and easy to handle, assume the packs use one
 ==== Refuelling
 Unless the Rocketeers can get to the correct source of fuel, there is no hope of refuelling a rocket pack during a mission.
 
+[[safety]]
 === Safety First
 Rocket packs strap onto the wearer’s back and are held in place by four thick, leather straps.
 These straps connect to a circular buckle which is set square in the center of the user’s chest.
@@ -143,7 +144,8 @@ The engine fails to ignite, though one point of fuel is consumed. Worse still, t
 // When discussing flight using a rocket pack, two factors must be considered—speed and maneuverability.
 // In both instances, two options are presented. The GM should pick the options that best suit the sort of game he wants to run.
 // For example, in a grittier World War 2 style game, he may elect to use the One Speed and Vehicle options, while for regular pulp he may opt for Variable Speed and Vehicle.
-==== Speed
+
+[[speed]]
 Rocket packs have two speed settings. The first is tactical flight, while the second is long-distance flight.
 Tactical mode is used for tabletop encounters, while long-distance mode is used in Chases.
 Characters may _run_ while using a rocket pack.
@@ -158,7 +160,6 @@ Rocket packs have a single speed in each flight mode. The character has no choic
 The rocket pack has the same to speeds as above, but the character can control how far he moves in a round (through throttle controls in his gloves).
 No roll is required to hover. Regardless of the distance he moves, one point of fuel is burnt.
 
-==== Maneuverability
 // Again, there are two options when it comes to maneuvering while in powered flight. The GM should pick the option he prefers.
 The rocket pack allows the wearer to maneuver as if he were on foot. That is, he can turn through any angle he wants, swerve around objects, maneuver through narrow gaps, and so on without having to make a die roll to avoid a collision. In a Chase, the character must still make a Piloting roll each round as normal.
 // Vehicle::  This option requires the rocket pack-wearing hero to maneuver exactly as per a vehicle. The Turning template will be required.
