@@ -1,4 +1,11 @@
 = Savage Musketeers
+Andy Hall <achall@gmail.com>
+v1.0, 2020-04-04
+:toc: left
+:toclevels: 4
+:experimental:
+:sectlinks:
+:sectanchors:
 
 See the shared Musketeers setting at xref:https://savaged.us/s/57iudowe[savaged.us].
 
