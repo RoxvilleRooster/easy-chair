@@ -78,7 +78,7 @@ See SWADE p72.
 * Every five units of fuel weighs 1 pound.
 |===
 
-.Melee weaopons
+.Melee weapons
 [cols="20%,15%,10%,15%,10%,30% ",options="header"]
 |===
 | Type | Damage | Min Str | Weight | Cost | Notes
