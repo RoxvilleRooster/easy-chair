@@ -27,7 +27,7 @@ Attribute Requirements:: Strength d6, Agility d6, Vigor d6
 Skill Requirements:: Piloting
 Useful Edges:: Ace, Steady Hands
 // Special:: See the notes on roles within the Rocket Rangers in the core text of this supplement.
-Additional Gear:: Rocket pack, armored suit, blade
+Additional Gear:: Rocket pack, armored suit, Molecular Sword
 
 === Gear
 
