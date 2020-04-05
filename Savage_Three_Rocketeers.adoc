@@ -99,12 +99,12 @@ enough thrust to lift a man off the ground, yet alone fly
 around for extended periods.
 A fully fuelled rocket pack has 20 units of fuel. Each player needs to track these using a counter.
 Each round a pack is used for movement or to hover in place, one unit of fuel is expended.
-It makes no difference how far a hero moves— the motors are more efficient at higher speeds, hence moving the regular Chase <<#speed,speed>>
+It makes no difference how far a hero moves — the motors are more efficient at higher speeds, hence moving the regular Chase <<#speed,speed>>
 // (see page 6)
 burns the
 same fuel as moving on the tabletop, despite the former being considerably faster.
 A character with an active rocket pack who lands at the very beginning of his turn, before taking any other actions, does not burn a point of fuel.
-Rocket packs have no gliding capability—when it runs out of fuel, the hero falls from the sky.
+Rocket packs have no gliding capability — when the pack runs out of fuel, the hero falls from the sky.
 
 ==== Traveling long distances
 During the course of an adventure, the Rocketeer may be required to travel great distances.
