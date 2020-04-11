@@ -891,6 +891,46 @@ Fitting a new magazine takes one round.
 |===
 
 
+
+
+.Ammunition
+[cols="45%,10%,10%,30%",options="header"]
+|===
+| Ammo | Cost | Weight | Notes
+| Bullets, medium (lead) | 5/50 | £0.25/50 | For a pistol
+| Bullets, large (lead) | 8/50 | £0.50/50 | For a rifle or shotgun
+| Gas cylinder | 8 | £0.50 | For a flamethrower
+| Mini-quarrels (wooden) | 1/10 | £0.10/10 | For a mini-crossbow
+| Quarrels (wooden) | 1/5 | £0.05/5 | For a crossbow
+| Shot and powder (lead) | 5/50 |  £0.10/50 |  For a black powder weapon
+| Stake (wooden) | 1 | £0.05 | For an impaler
+| Trick bolt (binding) | 1 | £0.20 | For a crossbow or mini-crossbow +
+Anyone hit by the bolt doesn’t take damage but is Entangled (Bound with a raise).
+| Trick bolt (grappling) | 1 | £0.20 | For a crossbow or mini-crossbow +
+These crossbow bolts trail a fine strong cable when fired, and
+can be used to scale vertical surfaces or bridge chasms.
+Range is reduced to 3/6/12.
+Anyone hit by a grappling bolt takes 1d6 damage and must make an opposed Strength roll against the damage
+or be caught on the bolt until they take an action to remove it.
+A caught target may be subject to a Push maneuver at the GM’s discretion (or more
+accurately a “Pull” maneuver).
+| Trick bolt (explosive) | 1 | £0.40 | For a crossbow or mini-crossbow +
+These crossbow bolts explode when they hit, causing 2d6 damage in a Small Burst Template.
+Roll deviation normally if the shot misses.
+| Trick bolt (knockout gas) | 1 | £0.40 | For a crossbow or mini-crossbow +
+These crossbow bolts release knockout gas on impact.
+Any living creature within a Small Burst Template (including living supernatural creatures)
+must make a Vigor roll (at –2 on a raise) or fall Incapacitated for 1d6 rounds.
+Others can automatically rouse a sleeping target as an action, but the victim awakens Shaken.
+|===
+
+.Specialty ammo
+====
+Given the proper facilities, most ammunition can be made of special substances, such as cold iron or silver. Double the cost of cold iron ammunition.
+Triple the cost for silver ammunition.
+Rock salt shotgun shells cost the same as normal ammo but do one die type less damage (1–3d4).
+====
+
 .Mundane Equipment
 ----
 Item Weight Cost
