@@ -732,3 +732,268 @@ baselines the GM can use to set prices in her campaign world.
 | Gatling Laser | 50/100/200 | 3d6+4, AP 4 | — | 4 | 1K |
 | Heavy Laser | 150/300/600 | 4d10, AP 30 | — | 1 | 1M |
 |===
+
+== Rippers
+
+.Melee weapons
+[cols="20%,15%,10%,15%,10%,30% ",options="header"]
+|===
+| Type | Damage | Min Str | Weight | Cost | Notes
+| Axe | Str+d6 | d6 | 2 | £0.50 |
+| Baton | Str+d4 | d4 | 1 | £0.10 |
+The listed price assumes a baton specifically designed for combat, such as a policeman’s truncheon.
+Makeshift clubs (such as chair legs or thick branches) are free, but count as Improvised Weapons (see Savage Worlds).
+| Bayonet | Str+d4 |  d4 | 1 | £0.50 | On rifle, Str+d6, Parry +1, Reach 1, 2 hands
+|  Great Axe | Str+d10 |  d4 | 15 | £4 | Parry –1, 2 hands, AP 1
+| Great Sword | Str+d10 | d10 | 12 | £4 | Parry –1, 2 hands
+| Rapier | Str+d4 | d4| 3 | £2 | Parry +1
+| Ripper Claws | Str+d6 | d6 | 4 |  £3 | Parry +1, can’t be disarmed
+Ripper claws are a set of sharpened blades set into a metal housing and worn on the forearm like a bracer.
+A specially designed handgrip improves the weapon’s responsiveness.
+Ripper claws take a full round (no other actions besides free ones) to strap on,
+or a single action for a character with Quick Draw.
+
+| Saber | Str+d6 | d6 | 4 | £2 |
+| Sap | Str+d4 | d4 | 4 | £0.25 | Counts as an Unarmed Defender +
+Sometimes called a “blackjack” or simply a “bag,”
+a sap is a small leather pouch filled with stones or lead shot used to knock victims out from behind.
+They offer no defense, so users are considered Unarmed Defenders.
+
+| Staff | Str+d4 | d4 | 8 | £0.05 | Parry +1, Reach 1, 2 hands
+| Sword | Str+d8 | d8 | 8 | £3 |
+| Sword Cane | — | d4 | 5 |  £2.50 |  Walking stick plus rapier
+A sword cane is a most gentlemanly weapon: simply a walking stick with a rapier hidden inside it.
+A Ripper armed with a sword cane does not suffer any Status penalty for traveling armed
+| Torch | Str+d4 |  d4 | 1 | £0.05 | Improvised Weapon, +2 damage lit.
+An unlit torch is treated as an improvised weapon, so attacks with it are made at a –1 penalty.
+A lit torch can also be used as a weapon.
+Anyone struck by it may catch fire,
+but the torch goes out if the Trait die comes up a 1 (regardless of the Wild Die).
+| Walking Stick | Str+d4 |  d4 | 2 | £0.50 | Parry +1 +
+A well-balanced walking stick or cane makes an acceptable weapon in a pinch.
+Walking sticks not specifically designed for combat are considered Improvised Weapons.
+| Whip | Str+d4 | d4 | 2 | £0.10 | Reach 2, Parry –1 +
+If the wielder scores a raise on his attack roll,
+the victim is momentarily entangled and suffers a –2 to his Parry until his next action.
+| Wooden Stake | Str+d4 |  d4 | 1 |  £0.05 |
+The listed cost assumes the stake was carefully crafted for use as a weapon.
+Broken furniture, snapped tree branches, and the like fulfill the same purpose and are free,
+but they are considered Improvised Weapons.
+|===
+
+
+.Thrown weapons
+[cols="15%,10%,10%,5%,5%,5%,5%,5%,30% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Min Str | Weight | Cost | Notes
+| Holy Water | 3/6/12 | Special | — | 1 |  d4 |  1 | £0.10 | Small Burst Template +
+On impact, the flask breaks. See <<#holy_water>>.
+
+| Lamp Oil | 3/6/12 | Special | — | 1 |  d4| 1 | £0.05 | Small Burst Template, see text
+Though normally used to power a lantern, lamp oil can also be thrown in combat
+with a –1 penalty. On impact, the oil splashes in a Small Burst Template. Any creature in the area
+must make an Agility roll (at –2 on a raise) or be covered with oil. If the affected area or an oilsoaked
+person comes into contact with fire, use the standard rules for catching fire, with a base damage of 1d10.
+
+| Net | 3/6/12 | Special | — | 1 |  d4 | 5 | £0.05 |
+A popular weapon for capturing monsters, the net is a rope mesh with a line for control, lead
+sinkers to provide weight, and barbed fishhooks to prevent easy escape.
+On a successful hit with a net,  the target is entangled and must make a successful Agility or Strength roll at –2 to slip out or tear free.
+Success frees the target but uses the action—a raise frees it immediately and the target can act as usual.
+
+| Throwing Knife | 4/8/16 | Str+d4 | 1 | — | d4 | 1 | £0.05 | Improvised Weapon for Fighting +
+Throwing knives are considered Improvised Weapons in melee combat but are perfectly balanced for
+throwing.
+|===
+
+[[holy_water]]
+.Holy water
+****
+Any creature susceptible to holy symbols can also be affected by holy water. Officially,
+this only covers demons, but the GM may wish to expand this in his campaign to cover
+other fiends.
+
+Unlike a holy symbol, waving around a vial of holy water causes demons no ill effects,
+though it may add a +1 bonus to Intimidation rolls at the GM’s discretion. In order to be
+truly effective, the water must be sprinkled on them, typically by throwing the entire vial.
+Throwing a vial of holy water counts as an area effect Improvised Weapon, and is thus subject
+to scatter on a failed Throwing roll.
+
+Holy water fills a Small Burst Template.
+Any demon under the template may make an Agility roll at –2 as a free action to avoid the
+water. Those who fail suffer a –2 penalty to all Trait rolls for three rounds.
+At the GM’s discretion, holy water may also be used to create a physical barrier to demons.
+By sprinkling a vial around his feet, the hero creates a warded area covering a 1” square—
+enough to protect just one hero.
+
+A demon must make a Spirit roll to physically attack a hero protected by holy
+water. On a failure, it cannot enter until the water evaporates (assume an hour for
+simplicity). However, it can use ranged attacks of any sort against heroes in the template,
+including special abilities not requiring touch. Naturally, heroes leaving the area
+immediately lose this protection.
+
+Holy water can be created by any Lodge with a Chapel.
+****
+
+
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
+// Weapon Range Damage RoF Shots Min. Str Weight Cost
+| Derringer | 5/10/20 |2d6 | 1 | 1 |2 | — |0.5 | £0.50 |
+| Flintlock Pistol | 5/10/20 | 2d6+1 | - | 1 | 1 | — |3 | £0.50 | 2 actions to reload, black powder
+| Gatling Pistol | 12/24/48 | 2d6 | 1 | 2 | 12 | — | 6 | £8 |
+The weapon jams on a Critical Failure nd requires an action to clear. +
+It can fire lead, cold iron, or silver ammunition.
+| Pistol | 12/24/48 | 2d6 | 1 | 1 | 6 | — | 3 | £1 |
+|===
+
+.Rifles & Shotguns
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
+| Blunderbuss | 5/10/20 | 1-3d6 | - | 1 | 1 | — | 12 |  £2 |+2 Shooting, 2 actions to reload, black powder
+| Elephant Gun | 30/60/120 | 2d10 | 2 | 1 | 1 | d8 | 12 | £5 | Snapfire penalty
+| Musket | 10/20/40 | 2d8+1 | 1 | 1 | 1 | d6 | 10 | £1 | 2 actions to reload, black powder
+| Rifle | 24/48/96 | 2d8 | 2 | 1 | 8 | d6 | 10 | £2 |
+| Sawed-Off Shotgun | 5/10/20 | 1–3d6 | - | 1 | 1 | — | 8 | £4 | +2 Shooting +
+A shotgun can have its barrel sawed down.
+Doing so reduces its range, but makes the weapon easily concealable within a long coat or bag.
+| Shotgun | 12/24/48 | 1–3d6 | - | 1 | 1 | — | 12 | £4 | +2 Shooting +
+A shotgun can fire pellets or slugs (2d10 damage).
+Slugs can be made of lead, silver, or cold iron, while pellets can be lead, silver, cold iron, or rock salt.
+|===
+
+.Special Weapons
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
+//Weapon Range Damage RoF Shots Min. Str Weight Cost
+| Crossbow | 15/30/60 | 2d6 | 2 | 1 | 1 | d6 | 6 | £3 |
+| Flamethrower | Cone |2d8 | - |1 | 10 | d8 | 30 | £10 |
+The flamethrower uses the standard rules but has a nasty tendency to explode.
+On a Critical Failure the flame is drawn back into the gas tanks,
+which explode for 5d6 damage in a Medium Burst Template.
+Everything caught in the blast has a chance of catching fire.
+The gas tank has a Toughness of 10(2).
+Any Called Shot inflicting a wound causes the tank to explode as above
+| Impaler | 5/10/20 | 2d8+1 | - | 1 | 1 | d8 | 12 | £10 | 2 actions to reload +
+The impaler fires wooden, silver, or cold iron stakes.
+Any creature Shaken by a stake is impaled and suffers a –2 to all actions until
+it or someone else makes a Strength roll to remove the stake
+(–2 for the target counting the penalty for being impaled).
+| Machine Gun | 24/48/96 | 2d8+1 | 2 | 3 | 250 | — | 100 | £50 | may not move
+| Mini-Crossbow | 6/12/24 | 2d4 | 1 | 1 | 1 | — | 3 | £1 | 1 action to reload, usable one-handed
+| Repeating Crossbow | 10/20/40 | 2d6 | 2 | 3 | 36 | d6 | 12 | £15 |
+It has a 36-round gas-fed rotary magazine and comes fitted with a selector switch allowing for
+single shot or fully automatic fire.
+Fitting a new magazine takes one round.
+|===
+
+
+.Mundane Equipment
+----
+Item Weight Cost
+Brush or comb 0.5 £0.05
+Bedroll 4 £0.20
+Book (blank, 50 pages) 2 £0.10
+Camera 5 £0.20
+Candles (dozen) 5 £0.25
+Climbing gear 6 £0.50
+Clothing, cheap 5 £0.50
+Clothing, common 5 £1
+Clothing, fine 5 £2+
+Compass 1 £0.50
+Fan 0.5 £0.05
+Flask (ceramic) 1 £0.05
+Flint and steel 1 £0.05
+Graphophone (recorder/player) 10 £7
+Grappling hook 2 £0.25
+Hammer* 5 £0.20
+Holy symbol 4 £1
+Lamp oil* 1 £0.05
+Lantern* 2 £0.15
+Leather satchel 2 £0.10
+Manacles 2 £0.50
+Matches (gross) 0.5 £0.05
+Mirror 0.5 £0.10
+Morphine* 0.5 £0.10
+Pickaxe 5 £1
+Pocketbook 0.5 £0.05
+Pocket watch 0.5 £1
+Repeating crossbow magazine 8 £1
+Riding gear (saddle etc.) - £1
+Rope, hemp (10 feet) 2 £0.05
+Rope, silk (10 feet) 1 £0.10
+Ruhmkorff’s Apparatus 5 £5
+Scroll case 1 £0.05
+Shovel 5 £1
+Smoking Pipe 0.5 £0.05
+Spyglass or field glasses 1 £1
+Sunglasses 0.5 £0.20
+Toolkit* 5 £5
+Item Weight Cost
+Torch* 1 £0.05
+Travel bag 2 £0.20
+Umbrella 2 £0.40
+Voltaic cell* 1 £0.05
+Whistle 0.5 £0.05
+Winter blanket 5 £0.15
+Writing equipment 1 £0.25
+Food Weight Cost
+Beer, per 4 pint glasses 4 £0.05
+Meal, common 1 £0.05
+Meal, fine 1 £0.10+
+Cheap rations (1 week) 10 £1
+Champagne, bottle 2 £0.25
+Wine, bottle 2 £0.15
+Gin, bottle 2 £0.10
+Lodging Cost
+Cottage £200
+House £650
+Mansion £999+
+Room furnishings, quality £15+
+Room furnishings, cheap £2
+Cheap tenement, per week £0.10
+Common house, per week £0.25
+Country home, per week £1.5
+Inn, per night £0.05
+Hotel, per night (breakfast included) £0.15
+Luxury hotel, per night (breakfast
+included)
+£1
+Animals Cost
+Camel £4
+Dog, guard (use Wolf stats) £2
+Dog, hunting (Bloodhound) £4
+Horse, riding £5
+Horse, Rippers £7
+Vehicles Cost
+Armored wagon £25
+Bicycle £1
+Carriage £20
+Hansom cab £10
+Hansom cab (rent/day) £0.05
+Steam launch £50
+----
+
+.Armor for Rippers
+[cols="20%,15%,10%,15%,10%,30% ",options="header"]
+|===
+| Item | Armor | Min Str | Weight | Cost | Notes
+| Boilerplate | +3 (torso), +1 (arms and legs) | d10 | 30 | £4 |
+These heavy steel plates provide reasonable protection against firearms,
+but soon dent and become useless. Boilerplate must be worn in a heavy coat’s lining.
+If an attack does enough damage to penetrate the boilerplate and inflict a wound, roll a die.
+Odd, the boilerplate is ruined and provides no further protection.
+| Chainmail Vest  (torso)| +2 | d6 | 10 | £3 |
+For occasions when a heavy coat does not provide adequate defense,
+Ripper teams can clothe themselves in chainmail vests.
+These vests can be hidden under a heavy coat.
+| Heavy Coat | +1 | d4 | 6 | £2 |
+These long coats are made from stiffened leather.
+| Leather Armor (torso) | +1 | d4| 1 | £1 | A lightweight leather vest
+| Leather Costume (entire body) | +1 | d4| 8 | £3 |
+Some Rippers dress in outlandish skintight leather costumes,
+typically including a leather mask.
+|===
