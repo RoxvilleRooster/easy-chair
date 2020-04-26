@@ -18,15 +18,24 @@ baseurl: ""
 url: http://roxvillerooster.github.io
 twitter_username: RoxvilleRooster
 github_username:  RoxvilleRooster
-timezone: Canada/Eastern
+timezone: Etc/GMT-5
 
 # Build settings
 markdown: kramdown
 
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-Tactile
+theme: jekyll-theme-tactile
 encoding: UTF-8
 
 plugins:
 - jekyll-asciidoc
+
+asciidoc: {}
+asciidoctor: {}
+
+asciidoc:
+  processor: asciidoctor
+
+asciidoc:
+  ext: asciidoc,adoc,ad
