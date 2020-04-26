@@ -9,7 +9,7 @@
 title: Rooster in the Midst
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is the start of something that could be huge. Or maybe not. Let's see.  
+  This is the start of something that could be huge. Or maybe not. Let's see.
 
 
 #baseurl: "" # the subpath of your site, e.g. /blog
@@ -23,9 +23,9 @@ timezone: Canada/Eastern
 # Build settings
 markdown: kramdown
 
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-tactile
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-Tactile
 encoding: UTF-8
 
 plugins:
