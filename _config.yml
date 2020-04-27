@@ -39,3 +39,6 @@ asciidoc:
 
 asciidoc:
   ext: asciidoc,adoc,ad
+
+asciidoc:
+  page_attribute_prefix: jekyll
