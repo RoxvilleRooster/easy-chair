@@ -16,7 +16,7 @@ permalink: /expectations/
 * Give the GM feedback on what is working well, what you want to see more of, and what could use some work
 * If you have any rules for your character's schticks (e.g., arcane powers or gambling), learn them or at least have the rules handy
 * If you cannot attend the game at the specified time, give reasonable advanced notice
-* Engage in a adult conversation if we ever need to course correct
+* Engage in an adult conversation if we ever need to course correct
 * Be open to trying new tools for communication (e.g., Discord)
 * Read and heed the tabletop creed
 
@@ -24,12 +24,12 @@ permalink: /expectations/
 
 # Savage Worlds rules
 
-We'll be using Savage Worlds Deluxe Explorer's Edition (SWDEE) at least until Savage Worlds Adventure Edition (SWADE) is available.
+We'll be the Savage Worlds Adventure Edition (SWADE) rules.
 
 * Where possible, we want to follow the "Fast, Furious, and Fun" model
-* Before we begin a campaign, we determine the setting rules. Let's keep houseruling to a bare minimum
+* Before we begin a campaign, we determine the setting rules. Let's try keep houseruling to a minimum
 * At first, I do not expect new players to know the Savage Worlds rules but you should at least get a hold of the most recent Savage Worlds Test Drive
-* Characters will be awarded an average of 1 advance every 2 sessions
+* Unless we state otherwise, the heroes will be awarded an average of 1 advance every 2 sessions
 * If you miss a session, you get no credit for an advance and your character will operate as an allied extra
 <!-- * After a few sessions, I expect players to have a licensed copy of the SWDEE (an affordable $10 USD) -->
 
