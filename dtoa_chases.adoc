@@ -9,6 +9,70 @@ v1.0, 2020-02-17
 
 ***
 
+== Vehicles
+
+=== 1930s era
+
+////
+[%header]
+|===
+| SIZE | MASS UP TO… |  HT / LGTH UP TO… | SCALE MOD | HANDLING | TOP SPEED (MPH) | TYPICAL TOUGHNESS | CREW | EXAMPLE VEHICLES | NOTES
+| 3 | 2000 lbs | 12′ | — | +1 | 120 | 10 (3) | 1+2 | roadster (e.g., Duesenberg Model J) |
+| 4 | 2 tons | 15′ | +2 | +1 | 65 | 10 (2) | 2+3 | jeep | Four-Wheel Drive. Weapons: Heavy MG (Front Pintle Mount)
+|===
+////
+
+.Land vehicles
+[%header]
+|===
+| VEHICLE | SIZE | HANDLING | TOP SPEED (MPH) | TYPICAL TOUGHNESS | CREW | NOTES
+// | 3 | 2000 lbs | 12′ | — | +1 | 120 | 10 (2) | 1+4 | car
+| scooter | 0 | +2 | 40 | 7 (2) | 1+1 |
+| motorcycle | 2 | +2 | 120 | 9 (2) | 1+1 |
+| roadster | 3 |  +2 | 120 | 10 (3) | 1+2 | e.g., Duesenberg Model J
+| jeep | 4 |  +1 | 65 | 10 (2) | 2+3 | Four-Wheel Drive. Weapons: Heavy MG (Front Pintle Mount)
+| sedan | 4 | +1 | 90 | 12 (3) | 1+5 |
+| limousine | 5 | +1 | 90 | 13 (3) | 1+8 |
+| cargo truck | 6 | +0 | 75 | 14 (2) | 1+7 |
+| bus | 7 | +0 | 75 | 15 (2) | 1+50 |
+|===
+
+.Marine vehicles
+[%header]
+|===
+| VEHICLE | SIZE | HANDLING | TOP SPEED (MPH) | TYPICAL TOUGHNESS | CREW | NOTES
+| rowboat | 0 | −2 | 5 | 8 (1) | 1+3 |
+| jon boat or air boat | 3 | +1 | 10 | 8 (1) | 1+5 |
+| motorboat | 4 | +1 | 30 | 12 (2) | 1+5 |
+| yacht, motorized | 10 | -1 | 25 | 15 (3) | 10+10 a| Machineguns are mounted on swivels fore and aft, but are not displayed except under unusual circumstances.
+Weapons: 2 x M1919 0.30 machinegun (bow and stern)
+
+|===
+
+////
+Acc/Top Speed: 10/20; Toughness: 12(3); Crew: 1+5 | Sedan
+Acc/Top Speed: 10/20; Toughness: 9 (2); Crew: 1+3 | Jeep
+Acc/Top Speed: 20/36; Toughness: 8 (2); Crew: 1+1 | Motorcycle
+2 1000 lbs 9′ — +2 100 9 (2) 1+1 motorcycle, ATV
+
+Acc/Top Speed: 4/16; Toughness: 13 (3); Crew: 1+8 | Limo
+Acc/Top Speed: 6/18; Toughness: 7 (2); Crew: 1+1 | Scooter
+Acc/Top Speed: 8/16; Toughness: 14 (2);
+Crew: 1+10 | Cargo truck
+Acc/Top Speed: 5/15; Toughness: 15(2); Crew: 1+50 | Bus
+
+Acc/Top Speed: 3/9; Toughness: 15 (3);
+Crew: 10+10 | Yacht, motorized
+Notes: —
+Machineguns are mounted on swivels fore and aft, but are not displayed except under unusual circumstances.
+Weapons:
+2 x M1919 0.30 machinegun (bow and stern)
+
+Acc/Top Speed: 4/13; Toughness: 12 (2);
+Crew: 1+5 | Motorboat
+Notes: —
+////
+
 == Adventures and Chases
 .Chases
 [%header,cols="3,1,1,2,3"]
