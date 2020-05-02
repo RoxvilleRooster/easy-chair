@@ -45,9 +45,16 @@ v1.0, 2020-02-17
 | jon boat or air boat | 3 | +1 | 10 | 8 (1) | 1+5 |
 | motorboat | 4 | +1 | 30 | 12 (2) | 1+5 |
 | yacht, motorized | 10 | -1 | 25 | 15 (3) | 10+10 a| Machineguns are mounted on swivels fore and aft, but are not displayed except under unusual circumstances.
-Weapons: 2 x M1919 0.30 machinegun (bow and stern)
-
+Optional weaponry: 2 x M1919 0.30 machinegun (bow and stern)
 |===
+
+.Aircraft
+[%header]
+|===
+| VEHICLE | SIZE | HANDLING | TOP SPEED (MPH) | TYPICAL TOUGHNESS | CREW | NOTES
+| Experimental airplane | 4 | +0 | 120 | 11 (2) | 1 +3 | Listed as speed 50/200 in DToA. 2 x 13 mm MG (range 30/60/20, damage 2d10, ROF 3, AP 2)
+|===
+
 
 ////
 Acc/Top Speed: 10/20; Toughness: 12(3); Crew: 1+5 | Sedan
