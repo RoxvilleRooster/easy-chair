@@ -243,7 +243,7 @@ An untrained roll for a wild card!
 
 !token_info
 ```
-@{selected|character_name} ||@{selected|wounds} Wounds ||@{selected|fatigue} Fatigue ||@{selected|pace} Pace ||@{selected|parry} Parry ||@{selected|toughness} Toughness ||@{selected|toughnessArmor} Armor ||@{selected|smarts} Smarts ||@{selected|agility} Agility ||@{selected|strength} Strength ||@{selected|vigor} Vigor ||@{selected|spirit} Spirit ||@{selected|fighting} Fighting ||@{selected|shooting} Shooting ||@{selected|throwing} Throwing ||@{selected|notice} Notice ||@{selected|stealth} Stealth
+@{selected|character_name} ||@{selected|wounds} Wounds ||@{selected|fatigue} Fatigue ||@{selected|pace} Pace ||@{selected|parry} Parry ||@{selected|toughness} Toughness ||@{selected|toughnessArmor} Armor ||@{selected|smarts} Smarts ||@{selected|agility} Agility ||@{selected|strength} Strength ||@{selected|vigor} Vigor ||@{selected|spirit} Spirit ||@{selected|fighting} Fighting ||@{selected|shooting} Shooting ||@{selected|athletics} Athletics ||@{selected|notice} Notice ||@{selected|stealth} Stealth ||@{selected|persuasion} Persuasion ||@{selected|taunt} Taunt ||@{selected|intimidation} Intimidation
 ```
 !raise.calc
 ```
