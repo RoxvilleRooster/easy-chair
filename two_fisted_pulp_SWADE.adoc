@@ -34,7 +34,10 @@ Typically, a Daring Tales of Adventure scenario was divided into 3 or 4 acts; ea
 Savage Worlds Adventure Edition has a number of setting rules that are perfect for running a two-fisted pulp game.
 
 * Conviction (SWADE p 136)
-~* Creative Combat (SWADE p 137)~
+// Creative combat just seemed to slow combat and most results were _Shaken_
+////
+* Creative Combat (SWADE p 137)
+////
 * Fast Healing (SWADE p 139)
 * Multiple Languages (SWADE p 149)
 // * Wound Cap (SWADE p 141)
