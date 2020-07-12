@@ -34,7 +34,7 @@ The following token overlays are used to indicate status/conditions in combat. O
 | Cover | ![Cover](/images/roll20/tower.PNG "Cover") |  *light cover* = set overlay number to 1 or leave unset; *medium cover* = set overlay to 2; *heavy cover* = set overlay to 4 |
 | Distracted | ![Distracted](/images/roll20/screaming_brain.PNG "Distracted") |   |
 | Dead | ![Dead](/images/roll20/red_x.PNG "Dead")  | Or just remove the token (a/k/a "off the table")  | 
-| Defend | ![Defending](/images/roll20/shield.PNG "Defending") | For *Full Defense*, set overlay number to 2 |
+| Defend | ![Defending](/images/roll20/shield.PNG "Defending") | <!-- For *Full Defense*, set overlay number to 2 --> |
 | Entangled | ![Entangled](/images/roll20/net.PNG "Entangled") | For *Bound*, set overlay number to 2 |
 | Hold | ![Hold](/images/roll20/time.PNG "Hold") | Character is holding his action |
 | Shaken | ![Shaken](/images/roll20/smoke.PNG "Shaken") | For *Unconscious* or *Incapacitated*, set overlay number to 2 or remove the token from play | 
