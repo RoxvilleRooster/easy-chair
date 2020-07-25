@@ -29,13 +29,22 @@ v1.0, 2020-02-17
 // | 3 | 2000 lbs | 12′ | — | +1 | 120 | 10 (2) | 1+4 | car
 | scooter | 0 | +2 | 40 | 7 (2) | 1+1 |
 | motorcycle | 2 | +2 | 120 | 9 (2) | 1+1 |
-| roadster | 3 |  +2 | 120 | 10 (3) | 1+2 | e.g., Duesenberg Model J
-| jeep | 4 |  +1 | 65 | 10 (2) | 2+3 | Four-Wheel Drive. Weapons: Heavy MG (Front Pintle Mount)
-| sedan | 4 | +1 | 90 | 12 (3) | 1+5 |
-| limousine | 5 | +1 | 90 | 13 (3) | 1+8 |
+// | roadster | 3 |  +2 | 120 | 10 (3) | 1+2 | e.g., Duesenberg Model J
+| roadster | 3 |  +2 | 75 | 10 (3) | 1+2 | Wolseley Motors Hornet
+// | jeep with mounted MGs | 4 |  +1 | 65 | 10 (2) | 2+3 | Four-Wheel Drive. Weapons: Heavy MG (Front Pintle Mount)
+| jeep | 4 |  +1 | 65 | 10 (2) | 2+3 | Four-Wheel Drive
+// | sedan | 4 | +1 | 90 | 12 (3) | 1+5 |
+| Ford 1934 sedan | 4 | +1 | 65 | 12 (3) | 1+5 |
+
+| limousine | 5 | +1 | 65 | 13 (3) | 1+8 |
 | cargo truck | 6 | +0 | 75 | 14 (2) | 1+7 |
 | bus | 7 | +0 | 75 | 15 (2) | 1+50 |
 |===
+
+1934 Ford - 65 mph
+1934 roadster - 75 mph
+
+
 
 .Marine vehicles
 [%header]
