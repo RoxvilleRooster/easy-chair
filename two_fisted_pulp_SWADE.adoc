@@ -35,9 +35,7 @@ Savage Worlds Adventure Edition has a number of setting rules that are perfect f
 
 * Conviction (SWADE p 136)
 // Creative combat just seemed to slow combat and most results were _Shaken_
-////
 * Creative Combat (SWADE p 137)
-////
 * Fast Healing (SWADE p 139)
 * Multiple Languages (SWADE p 149)
 // * Wound Cap (SWADE p 141)
