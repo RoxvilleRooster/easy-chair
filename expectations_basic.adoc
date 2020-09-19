@@ -1,6 +1,5 @@
 = Expectations for the campaign Rippers Resurrected
 
-
 // == How we'll run Savage Worlds rules
 
 // We are using the Savage Worlds Adventure Edition (SWADE) rules.
@@ -42,14 +41,22 @@ As a GM and player, I have these goals:
 * To encourage and help other players and GMs
 ////
 
-[plantuml, diagram-classes, png]     
+[ditaa]
 ....
-class BlockProcessor
-class DiagramBlock
-class DitaaBlock
-class PlantUmlBlock
-
-BlockProcessor <|-- DiagramBlock
-DiagramBlock <|-- DitaaBlock
-DiagramBlock <|-- PlantUmlBlock
+                   +-------------+
+                   | Asciidoctor |-------+
+                   |   diagram   |       |
+                   +-------------+       | PNG out
+                       ^                 |
+                       | ditaa in        |
+                       |                 v
+ +--------+   +--------+----+    /---------------\
+ |        | --+ Asciidoctor +--> |               |
+ |  Text  |   +-------------+    |   Beautiful   |
+ |Document|   |   !magic!   |    |    Output     |
+ |     {d}|   |             |    |               |
+ +---+----+   +-------------+    \---------------/
+     :                                   ^
+     |          Lots of work             |
+     +-----------------------------------+
 ....
