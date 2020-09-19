@@ -1,0 +1,51 @@
+
+= Rippers Resurrected campaign setting rules
+
+***
+
+== Documents
+
+* https://www.drivethrurpg.com/product/261539/Savage-Worlds-Adventure-Edition[Savage Worlds: Adventure Edition] (SWADE)
+* https://www.peginc.com/store/rippers-resurrected-players-guide-preorder/[Rippers Resurrected Player's Guide] (RR)
+* https://www.peginc.com/store/rippers-conversion-for-adventure-edition-pdf-swade/[Rippers Resurrected Conversion] (RRC)
+
+== Setting parameters
+
+Books Used:: SWADE, RR
+
+Setting Rules Used::
+From SWADE, Multiple Languages, Conviction, Creative Combat; all from RR
+
+Core Skills (all d4 to start):: Athletics, Common Knowledge, Notice, Persuasion, Stealth
+
+Starting Wealth:: £5
+Starting Attribute Points:: 5
+Starting Skill Points:: 12
+
+== Allowed/Forbidden Choices
+
+Races:: Human only
+
+Edges::
+All from RR; all from SWADE
+
+Arcane Backgrounds::
+All from RR; Gifted is not allowed
+
+Hindrances::
+All from RR, all from SWADE
+
+Gear::
+All from RR, none from SWADE
+
+Armor::
+All from RR, none from SWADE
+
+Weapons::
+All from RR; from SWADE, Heavy Machine Gun and Medium Machine Gun
+
+Powers::
+None from SWADE
+
+Rippertech::
+All from RR
