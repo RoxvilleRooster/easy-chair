@@ -11,12 +11,18 @@
 
 == Setting parameters
 
-Books Used:: SWADE, RR
+Books Used:: SWADE, RR, RRC
 
 Setting Rules Used::
 From SWADE, Multiple Languages, Conviction, Creative Combat; all from RR
 
 Core Skills (all d4 to start):: Athletics, Common Knowledge, Notice, Persuasion, Stealth
+
+Skills Added::
+Rippertech
+
+Skills Removed::
+Electronics, Hacking
 
 Starting Wealth:: £5
 Starting Attribute Points:: 5
@@ -25,6 +31,8 @@ Starting Skill Points:: 12
 == Allowed/Forbidden Choices
 
 Races:: Human only
+
+
 
 Edges::
 All from RR; all from SWADE
