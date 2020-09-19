@@ -8,7 +8,7 @@
 
 // We are using the Savage Worlds Adventure Edition (SWADE) rules.
 * Where possible, we want to follow the "Fast, Furious, and Fun" model
-* If you're new to Savage Worlds rules and have no books yet, download the most recent https://www.peginc.com/store/savage-worlds-test-drive-lankhmar/[Savage Worlds Test Drive]
+* If you're new to Savage Worlds rules and have no books yet, download the most recent https://www.peginc.com/store/savage-worlds-test-drive-lankhmar/[Savage Worlds Test Drive].
 // * Determine setting rules up front and keep houseruling to a minimum
 // * Unless we state otherwise, heroes are awarded an average of 1 advance every 2 sessions
 // * If you miss a session, you get no credit for an advance and your character will operate as an allied extra
