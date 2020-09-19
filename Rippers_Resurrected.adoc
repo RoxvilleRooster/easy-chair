@@ -3,13 +3,22 @@
 
 ***
 
-== Documents
+== Resources
 
+
+Documents::
 * https://www.drivethrurpg.com/product/261539/Savage-Worlds-Adventure-Edition[Savage Worlds: Adventure Edition] (SWADE)
 * https://www.drivethrurpg.com/product/167294/Rippers-Resurrected-Players-Guide?term=Rippers+Resurrected+[Rippers Resurrected Player's Guide] (RR)
 * https://www.peginc.com/store/rippers-conversion-for-adventure-edition-pdf-swade/[Rippers Resurrected Conversion] (RRC)
 
+Software::
+* https://savaged.us/[Savaged.us character generator]
+* https://savaged.us/s/ctbaikif[Rippers Resurrected custom setting for Savaged.us]
+
+
 == Setting parameters
+
+The following setting parameters align with the https://savaged.us/s/ctbaikif[custom savaged.us setting].
 
 Books Used:: SWADE, RR, RRC
 
@@ -28,11 +37,9 @@ Starting Wealth:: £5
 Starting Attribute Points:: 5
 Starting Skill Points:: 12
 
-== Allowed/Forbidden Choices
+=== Allowed/Forbidden Choices
 
 Races:: Human only
-
-
 
 Edges::
 All from RR; all from SWADE
