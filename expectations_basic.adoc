@@ -41,3 +41,15 @@ As a GM and player, I have these goals:
 * To become a better GM; to develop as player
 * To encourage and help other players and GMs
 ////
+
+[plantuml, diagram-classes, png]     
+....
+class BlockProcessor
+class DiagramBlock
+class DitaaBlock
+class PlantUmlBlock
+
+BlockProcessor <|-- DiagramBlock
+DiagramBlock <|-- DitaaBlock
+DiagramBlock <|-- PlantUmlBlock
+....
