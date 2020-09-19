@@ -6,7 +6,7 @@
 == Documents
 
 * https://www.drivethrurpg.com/product/261539/Savage-Worlds-Adventure-Edition[Savage Worlds: Adventure Edition] (SWADE)
-* https://www.peginc.com/store/rippers-resurrected-players-guide-preorder/[Rippers Resurrected Player's Guide] (RR)
+* https://www.drivethrurpg.com/product/167294/Rippers-Resurrected-Players-Guide?term=Rippers+Resurrected+[Rippers Resurrected Player's Guide] (RR)
 * https://www.peginc.com/store/rippers-conversion-for-adventure-edition-pdf-swade/[Rippers Resurrected Conversion] (RRC)
 
 == Setting parameters
