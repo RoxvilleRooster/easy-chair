@@ -66,19 +66,15 @@ Rippertech::
 All from RR
 
 
-[uml, file="rtd-redesign.png"]
---
-@startuml
-start
-:Init Phase;
-:Transfer Phase;
-note right
-  long running activity,
-  process requires signal to proceed
-end note
-:Termination Phase;
-stop
-@enduml
---
+[plantuml, diagram-classes, png]     
+....
+class BlockProcessor
+class DiagramBlock
+class DitaaBlock
+class PlantUmlBlock
 
+BlockProcessor <|-- DiagramBlock
+DiagramBlock <|-- DitaaBlock
+DiagramBlock <|-- PlantUmlBlock
+....
 
