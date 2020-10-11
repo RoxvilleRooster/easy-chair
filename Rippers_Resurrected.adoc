@@ -68,9 +68,17 @@ All from RR
 
 [uml, file="rtd-redesign.png"]
 --
-class Car
-
-Driver - Car : drives >
-Car *- Wheel : have 4 >
-Car -- Person : < owns
+@startuml
+start
+:Init Phase;
+:Transfer Phase;
+note right
+  long running activity,
+  process requires signal to proceed
+end note
+:Termination Phase;
+stop
+@enduml
 --
+
+
