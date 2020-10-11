@@ -40,23 +40,3 @@ As a GM and player, I have these goals:
 * To become a better GM; to develop as player
 * To encourage and help other players and GMs
 ////
-
-[ditaa]
-....
-                   +-------------+
-                   | Asciidoctor |-------+
-                   |   diagram   |       |
-                   +-------------+       | PNG out
-                       ^                 |
-                       | ditaa in        |
-                       |                 v
- +--------+   +--------+----+    /---------------\
- |        | --+ Asciidoctor +--> |               |
- |  Text  |   +-------------+    |   Beautiful   |
- |Document|   |   !magic!   |    |    Output     |
- |     {d}|   |             |    |               |
- +---+----+   +-------------+    \---------------/
-     :                                   ^
-     |          Lots of work             |
-     +-----------------------------------+
-....
