@@ -64,3 +64,13 @@ None from SWADE
 
 Rippertech::
 All from RR
+
+
+[uml, file="rtd-redesign.png"]
+--
+class Car
+
+Driver - Car : drives >
+Car *- Wheel : have 4 >
+Car -- Person : < owns
+--
