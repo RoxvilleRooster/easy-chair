@@ -1,0 +1,83 @@
+= Rippers Resurrected - Cast of Characters
+
+:experimental:
+:toc:
+
+== Heroes
+
+Dashiel Wickly::
+* Bookkeeper by day, Ripper by night
+* Member of Slayers faction
+* Works at Harvard Williams' bookstore and spice emporium
+Ross Vennor::
+* Lieutenant, British Army, Retired?
+* Member of Frazier's Fighters faction
+Maximus Peace::
+* Scientist and test subject
+* Student of Luigi Galvai
+* Member of Old Worlders faction
+Yaphet Ukele::
+* Rabbi
+* Immigrant from Poland
+* Member of the Order of St. George faction
+
+== Characters from the hero backstories
+
+Lord Illingsworth (Vennor)::
+* Retired British officer
+* Veteran of Egyptian campaign
+* Friend and mentor to Vennor
+
+Lord Baltimore (Wickly)::
+* Businessman and power broken in London
+* Patron of Wickly; Wickly is indebted to Baltimore 
+
+Luigi Galvai (Peace)::
+* Scientist and re-animator
+* Mentor to Maximus Peace
+
+Harvard Williams (Wickly)::
+* Proprietor of bookstore and spice emporium where Wickly is employed
+* An agent of Lord Baltimore
+
+
+
+== Plot-point campaign characters
+
+Jonathan Harker::
+* Head of <> faction
+
+Mina Harker::
+* Head of <> Van Helsing lodge
+
+Arthur Harmsworth::
+* Professor of Egyptology
+* Target of the Cabal
+
+== GM-invented characters
+
+Elizabeth Granville (Vennor)::
+* Former fiancee of Ross Vennor
+* Fiancee of Sir Edward Howell
+
+Edward Howell (Vennor)::
+* Banneret and aristocrat
+* Politically ambitious
+
+Robert Vennor (Vennor)::
+* Perfidious aristocrat and custodian of the Vennor family fortune and estate
+
+Edgar Hearn (Peace)::
+* Great grandfather to Maximus Peace  
+
+John Hearn (Peace)::
+* Grandfather to Maximus Peace  
+
+Janet Hearn (nee Boswell) (Peace)::
+* Grandmother to Maximus Peace  
+
+James Peace (Peace)::
+* Father to Maximus Peace  
+
+Agnes Peace (nee Hearn) (Peace)::
+* Mother to Maximus Peace  
