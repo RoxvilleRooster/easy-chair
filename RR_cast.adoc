@@ -30,7 +30,7 @@ Lord Illingsworth (Vennor)::
 
 Lord Baltimore (Wickly)::
 * Businessman and power broken in London
-* Patron of Wickly; Wickly is indebted to Baltimore 
+* Patron of Wickly; Wickly is indebted to Baltimore
 
 Luigi Galvai (Peace)::
 * Scientist and re-animator
@@ -45,10 +45,11 @@ Harvard Williams (Wickly)::
 == Plot-point campaign characters
 
 Jonathan Harker::
-* Head of <> faction
+* Head of the Old Worlders faction
 
 Mina Harker::
-* Head of <> Van Helsing lodge
+* Leader of the Slayers faction
+* Head of Van Helsing Mansion
 
 Arthur Harmsworth::
 * Professor of Egyptology
@@ -68,16 +69,16 @@ Robert Vennor (Vennor)::
 * Perfidious aristocrat and custodian of the Vennor family fortune and estate
 
 Edgar Hearn (Peace)::
-* Great grandfather to Maximus Peace  
+* Great grandfather to Maximus Peace
 
 John Hearn (Peace)::
-* Grandfather to Maximus Peace  
+* Grandfather to Maximus Peace
 
 Janet Hearn (nee Boswell) (Peace)::
-* Grandmother to Maximus Peace  
+* Grandmother to Maximus Peace
 
 James Peace (Peace)::
-* Father to Maximus Peace  
+* Father to Maximus Peace
 
 Agnes Peace (nee Hearn) (Peace)::
-* Mother to Maximus Peace  
+* Mother to Maximus Peace
