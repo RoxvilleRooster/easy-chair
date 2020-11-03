@@ -733,7 +733,23 @@ baselines the GM can use to set prices in her campaign world.
 | Heavy Laser | 150/300/600 | 4d10, AP 30 | — | 1 | 1M |
 |===
 
-== Rippers
+== Deadlands: The Weird West
+
+.Melee weapons
+[cols="20%,15%,10%,15%,10%,30% ",options="header"]
+|===
+| Type | Damage | Min Str | Weight | Cost | Notes
+|===
+
+.Thrown weapons
+[cols="15%,10%,10%,5%,5%,5%,5%,5%,30% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Min Str | Weight | Cost
+|===
+
+
+
+== Rippers Resurrected
 
 .Melee weapons
 [cols="20%,15%,10%,15%,10%,30% ",options="header"]
@@ -809,33 +825,26 @@ throwing.
 [[holy_water]]
 .Holy water
 ****
-Any creature susceptible to holy symbols can also be affected by holy water. Officially,
-this only covers demons, but the GM may wish to expand this in his campaign to cover
-other fiends.
+Any creature susceptible to holy symbols can also be affected by holy water. Officially, this only covers demons, but the GM may wish to expand this in his campaign to cover other fiends.
 
-Unlike a holy symbol, waving around a vial of holy water causes demons no ill effects,
-though it may add a +1 bonus to Intimidation rolls at the GM’s discretion. In order to be
-truly effective, the water must be sprinkled on them, typically by throwing the entire vial.
-Throwing a vial of holy water counts as an area effect Improvised Weapon, and is thus subject
-to scatter on a failed Throwing roll.
+Unlike a holy symbol, waving around a vial of holy water causes demons no ill effects, though it may add a +1 bonus to Intimidation rolls at the GM’s discretion.
+In order to be truly effective, the water must be sprinkled on them, typically by throwing the entire vial.
+Throwing a vial of holy water counts as an area effect Improvised Weapon, and is thus subject to scatter on a failed Throwing roll.
 
 Holy water fills a Small Burst Template.
-Any demon under the template may make an Agility roll at –2 as a free action to avoid the
-water. Those who fail suffer a –2 penalty to all Trait rolls for three rounds.
+Any demon under the template may make an Agility roll at –2 as a free action to avoid the water.
+Those who fail suffer a –2 penalty to all Trait rolls for three rounds.
 At the GM’s discretion, holy water may also be used to create a physical barrier to demons.
-By sprinkling a vial around his feet, the hero creates a warded area covering a 1” square—
-enough to protect just one hero.
+By sprinkling a vial around his feet, the hero creates a warded area covering a 1” square-enough to protect just one hero.
 
-A demon must make a Spirit roll to physically attack a hero protected by holy
-water. On a failure, it cannot enter until the water evaporates (assume an hour for
-simplicity). However, it can use ranged attacks of any sort against heroes in the template,
-including special abilities not requiring touch. Naturally, heroes leaving the area
-immediately lose this protection.
+A demon must make a Spirit roll to physically attack a hero protected by holy water.
+On a failure, it cannot enter until the water evaporates (assume an hour for simplicity).
+However, it can use ranged attacks of any sort against heroes in the template, including special abilities not requiring touch. Naturally, heroes leaving the area immediately lose this protection.
 
 Holy water can be created by any Lodge with a Chapel.
 ****
 
-
+.Pistols and Revolvers
 [cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
 |===
 | Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
@@ -843,9 +852,12 @@ Holy water can be created by any Lodge with a Chapel.
 | Derringer | 5/10/20 |2d6 | 1 | 1 |2 | — |0.5 | £0.50 |
 | Flintlock Pistol | 5/10/20 | 2d6+1 | - | 1 | 1 | — |3 | £0.50 | 2 actions to reload, black powder
 | Gatling Pistol | 12/24/48 | 2d6 | 1 | 2 | 12 | — | 6 | £8 |
-The weapon jams on a Critical Failure nd requires an action to clear. +
+The weapon jams on a Critical Failure and requires an action to clear. +
 It can fire lead, cold iron, or silver ammunition.
 | Pistol | 12/24/48 | 2d6 | 1 | 1 | 6 | — | 3 | £1 |
+
+| Mauser C96 9mm | 12/24/48 | 2d6–1 | — |  1|  10 | d4 | 3 | ??? | Semi-automatic, from Weird War I Player's Guide p84)
+
 |===
 
 .Rifles & Shotguns
