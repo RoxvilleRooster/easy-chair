@@ -66,3 +66,56 @@ Rippertech::
 All from RR
 
 
+== Expanded wealth rules
+
+****
+These rules are from Donovan Bailey's _Expanded Wealth_ supplement. Values are adapted for the _Rippers Resurrected_ campaign setting.
+****
+
+For Rippers Resurrected, a hero's starting funds is £ 5.
+
+
+.Value Penalty Table for Rippers
+[options="header"]
+|===
+| Value Penalty | Cost
+| –0 | Up to £ 2.50
+| –1 | Up to £ 5
+| –2 | Up to £ 10
+| –3 | Up to £ 20
+| –4 | Up to £ 50
+| –5 | Up to £ 100
+| –6 | Up to £ 200
+| –7 | Up to £ 500
+| –8 | Up to £ 1,000
+| –9 | Up to £ 2,000
+| –10 | Up to £ 5,000
+| –11 | Up to £ 10,000
+| –12 | Up to £ 20,000
+|===
+
+.Purchasing power by Wealth rank
+[options="header"]
+|===
+a| Character's Wealth rank (not die) a| Character can purchase up to cost without need for a Wealth roll a| Character ignores penalties for purchasing up to cost
+
+| Poverty
+// | Up to $20
+| Up to 3 shillings (£.15)
+| N/A
+
+| Normal
+// | Up to $50
+| Up to 5 shillings (£.25)
+| N/A
+
+| Rich
+// | Up to $150
+| Up to 29 shillings (£ 1.45)
+| 2 points of Value Penalty
+
+| Filthy Rich
+// | Up to $500
+| Up to 99 shillings (£ 4.95)
+| 4 points of Value Penalty
+|===
