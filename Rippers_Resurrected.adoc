@@ -1,6 +1,8 @@
 
 = Rippers Resurrected campaign setting rules
 
+:toc:
+
 ***
 
 == Resources
