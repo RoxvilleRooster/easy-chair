@@ -1,0 +1,166 @@
+= Savage Pendragon
+
+The xref:https://mostunreadblogever.blogspot.com/2018/04/savaging-pendragon.html[original proposal] is from Tommy Brownell.
+
+
+The scenario "Death at the Joust" contains the _Daring Tales of Adventure_ setting rules.
+
+== Jousting rules
+
+////
+As well as being a public display of wealth by the
+hosting noble, a tournament is a chance for knights to
+knock each other off their horses, gain fame and wealth
+(and sometimes ladies), and, in times of peace, to maintain
+their skill at arms. These displays of horsemanship
+are known as jousts, and are governed by strict rules.
+Knights are valuable assets, and although death is always
+a risk, the rules exist to ensure most suffer only broken
+bones and wounded pride. Jousts can also be used by
+knights to settle disputes, though battering each other
+into submission was usually the standard way of sorting
+out problems.
+////
+
+=== Basic tournament jousting
+Tourney jousting focuses on unhorsing your opponent.
+Jousting lances are designed to break on impact and be nonlethal. Accidents will happen, however.
+
+Jousting lances cost £0.10 each. Buy more than one.
+
+To run a joust combat, a hero must have a horse.
+Armor is optional; few joust unarmored.
+Most knights wear heavy armor to protect themselves.
+
+==== The "standard elimination" joust
+
+In this type of joust, the names of riders are randomly drawn by lot to face each other; the winner moves on to the next round.
+If there are too few knights to form an equal number of pairs to a power of two, the contestant with the highest social rank or who are renowned tournament champions receive a free pass to the next round.
+
+.Example of how match-ups are determined
+****
+In a joust with 18 riders, there are nine pairs.
+However, 18 is not a power of two, but 16 is (2x2x2x2).
+The two knights of greatest renown or status take a free pass.
+The 16 knights are whittled down to eight, and then down to four.
+When these four have jousted, the final pair each faces one of the knights who received a frees pass to determine who appears in the final match.
+****
+
+==== Rules of the joust
+
+Who can joust?::
+Only nobles or knights may joust.
+Females are not knowingly permitted to joust.
+Ownership::
+A contestant must own his own horse and equipment.
+Starting etiquette::
+At the start of a match, the host’s flag is raised over the center of the barrier.
+Knights ride on the right-hand side of the barrier.
+Squire's role::
+If a knight falls, only the squire may help him.
+When the lance is broken, only the squire may hand the lance to the knight.
+Only the squire may talk to the knight when preparing the horse for the next charge.
+
+
+==== Matches
+Each match consists of three runs.
+Between each run there is a 10-minute delay.
+This allows time for armor dents to be straightened out, and a single Healing roll.
+
+===== Scoring
+A successful hit to the torso in which the lance shatters earns one point.
+A head shot (–4 penalty) and a broken lance earns two points.
+Unseating a rider, no matter where he is struck gives the attacker 3 points.
+
+The match winner is the knight who scores the most points. If there is a tie, a knight who has unseated his opponent more times than he has been unseated wins.
+If there is still a tie, the knight with the most head shots wins.
+In the event they are still equal, both knights face an "overtime" final run.
+A further tie results in both knights being eliminated from the competition.
+
+At the end of a match, a knight who has unseated his opponent more times than he has been unseated may claim his rival’s horse as a prize.
+It is traditional to allow the rival to buy back his mount at the full market price.
+
+==== Initiative
+In a joust, both knights strike within a fraction of a second.
+Action cards are not used to determine who goes first, but Jokers carry their usual benefits.
+Both participants roll to hit simultaneously.
+
+
+==== Attacks
+
+.Procedure
+. Determine the horse
+. Select a jousting maneuver
+. Make the fighting rolls
+
+===== Determine the type of horse
+
+Two types of horses are permitted in jousts:
+
+* warm-blood chargers (standard riding horse) +
+Grants the rider +2 damage.
+* cold-blood destriers (warhorse) +
+Grants the rider +1 Fighting.
+
+===== Jousting maneuvers
+
+Although the attacks are simultaneous, a knight has a variety of maneuvers that he can employ.
+Each player participant secretly selects a jousting maneuver from the options below.
+On the physical tabletop, you can place a d6 face up to match the option number behind a cupped hand.
+When both are ready, reveal the dice simultaneously.
+
+.Standard jousting maneuvers
+Braced (1):: The knight braces himself for a hit, but in doing so loses accuracy for his own attack.
+He gains +2 to Riding rolls to remain mounted, but suffers a –2 penalty on his attack.
+Aggressive (2):: This is essentially a Wild Attack.
+The knight has +2 to Fighting rolls and damage, but suffers a –2 penalty to his Parry.
+Standard (3):: No modifiers apply.
+Head Shot (4):: The knight is trying to earn more points.
+His attack roll is made at –4, but he inflicts +4 damage (and thus also has a greater chance of unseating his opponent). If his opponent has his eyes fixed (see below), he also risks killing him.
+Eyes Fixed (5):: Just before impact, knights tend to look away from their opponent.
+This lessens the chance of a wooden splinter piercing the helmet’s visor and causing lethal injury.
+A knight who keeps his eyes fixed on his target gains +1 to his Fighting roll, but if he takes a head shot the damage is considered lethal.
+Deflective (6):: The knight turns his body at the last second, hoping his opponent’s lance will glance off his shoulder.
+He has +1 Parry but –1 to Fighting.
+
+===== Fighting roll
+Both attackers then roll their Fighting or Riding die (plus Wild Die if applicable) as appropriate and apply all modifiers.
+
+
+==== Damage
+
+Damage for a jousting lance is `Str+d6`; there is no AP. Damage is treated as nonlethal, but the dice can still Ace.
+Results from the "Injury Table" still apply, but are only temporary until all the wounds are healed.
+Unless you take a Called Shot (i.e., the "Head Shot" maneuver), you automatically hit the knight’s torso.
+If the victim is at least Shaken, the attacker’s lance shatters (a broken lance earns points).
+
+Otherwise, the hit is considered a glancing blow and no points are tallied _unless the target falls from his horse_.
+
+NOTE: Knights do not get the Charging bonus of +4 damage.
+
+==== Falling from your horse
+When a jouster is struck, he must make a Riding roll or fall from his mount.
+// This replaces the usual rule that he must be Shaken or wounded first.
+Falling from a horse causes 2d6 damage.
+If both opponents fall in the same round, both may remount, and each scores 3 points.
+
+===== Forfeiting the match
+A knight may withdraw from a match at any
+time.
+// Typically this is done when facing an important nobleman, as causing him injury, or killing him, limits one’s social aspirations.
+// Some nobles disguise their identity under a pseudonym or lesser title in order they may joust and actually face opponents.
+If a knight takes more than 10 minutes between runs is  disqualified.
+If a knight strikes a horse, whether by accident or not, is disqualified.
+
+////
+==== CHALLENGES
+Jousts also serve as a way of airing grievances, seeking satisfaction of honor, or even gaining a small favor.
+A noble may challenge any other noble.
+However, a social superior does not have to accept a challenge, and his reputation is not tarnished for refusing—one cannot expect the king to joust with a knight, for instance.
+Likewise, asking for something the challenged knight cannot give (the throne of England, for example), results in the challenger becoming a laughing stock.
+The challenger must publicly state the reason for the challenge.
+Typical challenges are grudge matches, to win back a lost possession, or even the seemingly trivial request of a kiss from a noble’s daughter (or wife, if the hero has
+the nerve to ask).
+Challenges are not the same as duels in later periods—they are never fought to the death.
+Instead, the challenged knight sets the terms. At minimum,
+////
