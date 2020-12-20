@@ -164,3 +164,73 @@ the nerve to ask).
 Challenges are not the same as duels in later periods—they are never fought to the death.
 Instead, the challenged knight sets the terms. At minimum,
 ////
+
+
+== Status
+
+Status is of great importance.
+A hero’s Status reflects not only his position in society, but also the esteem in which he is held, his ability to affect those around him, and his approximate wealth.
+
+Your hero’s Status starts as 4 (gentry), but can be affected by Edges and Hindrances as well as by his or her actions during the course of the game.
+
+Status is not a reflection of your hero’s standing amongst other knights.
+That is shown by your character’s Rank (Novice, Seasoned, and so on).
+
+
+=== Social order
+
+Your character’s Status can be used to influence others.
+Inferiors are not permitted to socialize with their betters.
+There are, however, certain notable exceptions able to fraternize with nearly all ranks of society.
+
+Status is crucial for determining how characters interact with people of different stations.
+In general, the “inferior” classes are expected to show a proper modicum of respect to their “betters,” and the upper classes expected to adopt a protective, almost patriarchal
+stance over the less fortunate.
+The very concept of status is based on a responsibility to aid those who have aided you in the past.
+A person’s status determines their influence and ability to call upon more powerful favors from those who owe them.
+All too often, status is used as a means of intimidation by the upper classes, and an excuse for surliness by lower
+classes.
+
+Status is rated in six levels, as shown in the <<#status_table,Status table>>.
+
+// Every member of a given status level receives the listed salary at the end of each month of game time.
+// These amounts replace those listed for the Rich and Filthy Rich Edges in Savage Worlds.
+Starting characters, assumed to be knights, begin as Gentry (status 4), barring Edges or a Hindrance that alters their Status.
+
+Being Rich increases Status by +1 level, and Filthy Rich increases it by another +1.
+Characters with the Aristocrat edge have their starting Status increased by +1 level.
+The Poverty hindrance reduces Status by –1 level.
+
+You cannot reduce a knight's status below 4 (Gentry) at character generation.
+
+[[status_table]]
+.Status table
+A character may have the Rich edge (or Filthy Rich) and the Poverty hindrance.
+This might reflect someone who has a wealth, but spends it wastefully (resulting in a lower Status level and reduced wealth).
+
+[options="header",cols=","]
+|===
+| Status | Max. Favor Cost
+| Underclass |  1
+| Peasantry | 2
+| Artisan/Merchant class  | 3
+| Gentry | 4
+| Lesser Nobility | 5
+| Greater Nobility | 6
+|===
+
+// A character’s Status cannot drop lower than Underclass.
+
+
+=== Status effects
+
+People of different status levels do not interact as equals; the upper classes tend look down on the lower ones and the lower classes tend to resent and envy their “betters.”
+
+Upper classes wield power over the lower ones.
+When using the Intimidation skill, a character gains a +1 bonus for each Status level he is higher than his target, or suffers a –1 penalty for each Status level he is lower.
+
+On the other side, higher classes are more easily incensed by the mocking of those beneath their station, while the lower classes are unimpressed by the ridicule of those who have such an easy life.
+Characters gain +1 to Taunt rolls for each Status level they are lower than their target, or suffer a –1 penalty for each Status level they are higher than their target.
+
+The downside of all this class separation is that no class talks freely or shares information with someone of another station.
+Any attempt at Networking suffers a –1 penalty for each level of Status difference between the characters.
