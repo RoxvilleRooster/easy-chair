@@ -121,3 +121,24 @@ a| Character's Wealth rank (not die) a| Character can purchase up to cost withou
 | Up to 99 shillings (£ 4.95)
 | 4 points of Value Penalty
 |===
+
+
+== Fear
+
+.Fear table
+[options="header"]
+|===
+| D20* | EFFECT
+| 1–3 a| Adrenaline Surge:: The hero’s “fight”
+response takes over. He acts as if he had a Joker this action!
+| 4–6 a| Distracted:: The hero is Distracted
+until the end of his next turn.
+| 7–9 a| Vulnerable:: The target is Vulnerable until the end of his next turn.
+| 10–12 a| Shaken:: The character is Shaken.
+| 13 a| The Mark of Fear:: The hero is Stunned and suffers some cosmetic physical alteration—a white streak forms in his hair, his eyes twitch constantly, or some other minor physical alteration manifests.
+| 14–15 a| Frightened:: The character gains the Hesitant Hindrance for the remainder of the encounter. If he already has it, he’s Panicked instead.
+| 16–17 a| Panicked:: The character immediately moves his full Pace plus running die away from the danger and is Shaken.
+| 18–19 a| Minor Phobia:: The character gains a Minor Phobia Hindrance somehow associated with the trauma.
+| 20–21 a| Major Phobia:: The character gains the Major Phobia Hindrance.
+| 22+ a| Heart Attack:: The hero is so overwhelmed with fear that his heart stutters. He must make an immediate Vigor roll at –2. If successful, he’s Stunned. If he fails, he’s Incapacitated and dies in 2d6 rounds. In the latter case, a Healing roll at –4 saves his life, but he remains Incapacitated. He may be treated normally thereafter.
+|===
