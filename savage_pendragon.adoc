@@ -1,11 +1,17 @@
 = Savage Pendragon
+:toc: left
+:toclevel: 6
+
 
 The xref:https://mostunreadblogever.blogspot.com/2018/04/savaging-pendragon.html[original proposal] is from Tommy Brownell.
 
-
-The scenario "Death at the Joust" contains the _Daring Tales of Adventure_ setting rules.
+// The scenario "Death at the Joust" contains the _Daring Tales of Adventure_ setting rules.
 
 == Jousting rules
+
+****
+These rules leverage the rules on jousting in the scenario "Death at the Joust", which are part of the _Daring Tales of Chivalry_ setting rules (Triple Ace Games).
+****
 
 ////
 As well as being a public display of wealth by the
@@ -168,6 +174,10 @@ Instead, the challenged knight sets the terms. At minimum,
 
 == Status
 
+****
+These rules are derived from the rules on status in the _Rippers Players' Guide_.
+****
+
 Status is of great importance.
 A hero’s Status reflects not only his position in society, but also the esteem in which he is held, his ability to affect those around him, and his approximate wealth.
 
@@ -232,5 +242,174 @@ When using the Intimidation skill, a character gains a +1 bonus for each Status 
 On the other side, higher classes are more easily incensed by the mocking of those beneath their station, while the lower classes are unimpressed by the ridicule of those who have such an easy life.
 Characters gain +1 to Taunt rolls for each Status level they are lower than their target, or suffer a –1 penalty for each Status level they are higher than their target.
 
-The downside of all this class separation is that no class talks freely or shares information with someone of another station.
+The downside of class separation is that no class talks freely or shares information with someone of another station.
 Any attempt at Networking suffers a –1 penalty for each level of Status difference between the characters.
+
+== Glory
+
+****
+These rules are derived from the rules on Glory in the _Hellfrost Player's Guide_ (Triple Ace Games).
+****
+
+Glory is a mark of a character’s reputation as a hero.
+Only through heroic deeds can a character aspire to enter the annals of history books and oral history.
+
+Glory is measured with Glory Points. +
+Your hero’s Glory starts at zero but this value can be affected by his or her actions. +
+The higher your knight's Glory, the more renowned he is and the more benefits he gains. +
+Glory can go negative, but this grants no benefits.
+
+=== Gaining glory
+
+Glory is earned through heroic exploits.
+
+After each adventure, and only when the heroes return to civilization, one member of the party may tell the tale of their heroic deeds and battles. +
+The character makes a Performance roll, modified as described below.
+
+The GM may add positive modifiers for truly heroic actions or based on the character’s weaknesses and how he overcame them.
+
+Think of how the heroes’ true exploits (as opposed to any invented bits) sound as a tale that is told by a bard or poet.
+This is important, because the listeners are effectively
+granting the heroes Glory.
+An extra +1 or +2 should be the maximum.
+For instance, slaying a notorious giant is certainly worthy of praise, but that is already covered in the table. However, cleaving the head with a Called Shot as the killing blow is worth a small modifier, as it is the sort of detail found in epic poems.
+Likewise, a Novice party who slay a bunch of greater foes in melee without any assistance should be rewarded with a greater chance of fame.
+
+The GM may add penalties to reflect weaker opponents (such as ragged brigands) or favorable character circumstances.
+
+
+.Deeds of glory
+****
+[options="header",cols="6,4"]
+|====
+| Reason | Modifier
+2+a| **Storyteller**
+| Is a trained poet | +1
+| Has negative Glory | –2
+2+a| **Highest Character Rank**
+| Seasoned | –1
+| Veteran | –2
+| Heroic | –4
+| Legendary | –6
+2+a| **Highest Number of Foes**
+| You outnumbered them | –1
+| They outnumbered you more than 2 to 1 | +1
+| They outnumbered you more than 4 to 1 | +2
+| They outnumbered you more than 10 to 1 | +4
+2+a| **Highest Foes’ Toughness**
+| 4 or less | –1
+| 5 to 6 | +0
+| 7 to 10 | +1
+| 11 to 15 | +2
+| 16 to 20 | +4
+| 21 or more | +6
+2+a| **Wild Cards**
+| Per Wild Card | +1
+| Per named Wild Card | +2
+| Per Wild Card killed in a single blow | +4
+2+a| **Arcane Background**
+| A foe had an AB with 5 or less powers | +1
+| A foe had an AB with 6 to 10 powers | +2
+| A foe had an AB with 11+ powers | +4
+|===
+****
+
+Arcane Background:: Where multiple foes with an Arcane Background were defeated, only the highest bonus applies.
+Character Rank:: The higher the heroes’ Rank, the more dangerous foes they must overcome before anyone is interested in their tales.
+Foes’ Toughness:: Only the highest Toughness of defeated foes counts.
+Named Wild Card:: Not every Wild Card should,
+or indeed can, be named.
+Named wild card foes are more memorable than unnamed foes. Number of Foes:: Only record the greatest number of foes slain in a single encounter.
+Defeating three Pictish warriors in one combat and eight in another melee equates to only eight Pictish warriors.
+
+.Party size and foes
+****
+The size of the party includes any allies on the heroes’ side - a party with 20 members must defeat a lot of foes at once to get noticed.
+If the heroes forget to mention their helpers, any survivors will tell their own stories across the land.
+****
+Single Blow:: A Wild Card who is killed in a single blow must have been unwounded when the killing blow was delivered.
+The foe must have been aware of the party and capable of retaliation.
+Storyteller:: Although anyone can tell a story, the poets
+are trained in using the right words and adjusting the rhythm to keep an audience enthralled.
+They can turn even a mundane adventure into an epic struggle.
+
+=== Glory awards
+
+With a successful Performance roll, every hero involved in the action gains 1d6 Glory; a raise increases this to 2d6. +
+Failure earns no bonus or penalty. +
+A critical failure, however, causes the loss of 1d6 Glory.
+
+Roll the dice for each individual member of the party earning or losing Glory.
+Glory awards can be altered by the GM, but this should be done only for truly notable actions.
+Modifiers normally apply to individual members of the party, not every member.
+
+For example, the hero who delivered the Called Shot to the head, killing the infamous foe, should earn a +1 or +2 bonus for his notable deed.
+
+Of course, if one hero played little part in the action, he should receive less Glory than those who were more actively involved.
+Such a hero may roll his dice with a –3 penalty, for example, possibly earning a small penalty overall with an unlucky roll because of his inaction.
+
+
+
+==== Fixed glory awards
+
+Fixed Glory awards cover lesser deeds not played out (such as events during long periods of downtime), killing smaller number of foes during an adventure (they do slowly add up over time), or rewards for which there are many witnesses (battles or rescues).
+These are in addition to any Glory gained above.
+The GM can devise their own modifiers for things like concluding peace treaties making alliances that benefit a large population.
+Although notable deeds, the rewards for these types of endeavor should not be overly high.
+
+==== Achieving rank and gaining glory
+Even without performing major heroic deeds, a knight can become famous through his collective lesser deeds.
+Such rewards are typical of the examples above, especially the slaying of lesser foes.
+These are wrapped into a single +5 Glory bonus gained when a hero achieves a new Rank
+It is possible, though rare, for a hero to reach Legendary status with no additional Glory. In such a case, the knight has performed many deeds but none stand out as heroic.
+
+==== Mass battle
+
+War can grow and break reputations.
+Use the table below whenever the characters are involved
+in a fight using the Mass Battle rules.
+Mass battles are relatively rare events.
+All Glory modifiers are fixed.
+
+.Glory for mass battles
+****
+[options="header",cols="6,4"]
+|====
+| Reason | Modifier
+2+a| *Size*
+| Smallest army had hundreds of troops | +1
+| Smallest army had thousands of troops | +3
+| Smallest army had more than 10,000 troops | +5
+2+a| *Enemy*
+| Saxon army | +/–1
+2+a| *Victory*
+| Enemy had less tokens or was equal | +1
+| For each token the enemy had above yours | +2
+2+a| *Defeat*
+| Enemy had more tokens or was equal | –1
+| For each token less your enemy had | –3
+2+a| *Personal Heroics*
+| Two raises on Heroes in Mass Battles roll | +1
+2+a| *Commander*
+| You commanded the army | x2
+|====
+****
+
+Character Roll:: Scoring a double raise is more than
+just a die result.
+It represents a major event within a battle, such as vanquishing an enemy commander or cleaving through so many foes that a unit breaks.
+The modifier only applies if the number of enemy tokens was less than or equal to your army’s tokens at the time (defeating an enemy commander when you have a +3 bonus is nowhere near as heroic as when you have a –3 penalty).
+Commander:: A hero who commands an army gains greater Glory than his troops for victory, but also suffers more ignominy if he loses the field.
+Take the final Glory modifier and double it to see what the knight earned.
+Defeat:: Defeat is never easy to live with, but the ignominy is far worse if you outnumbered your foe.
+For each token that you outnumbered your enemy by at the start of a battle, you suffer a –3 penalty.
+Enemy Forces:: Certain races are more despised than
+others.
+To qualify for the bonus, the specific enemy must account for more than 75% of the enemy army’s troop strength.
+Add the modifier if the heroes won, and subtract it if they lost.
+Size:: Huge armies are rare and thus, while any battle earns Glory, the more participants there are, the greater the tale told.
+Victory:: The greater the size of the enemy army, the more reward is earned.
+For each token your enemy’s army was larger than yours when
+the battle commenced, the hero earns a +2 Glory bonus.
+
+// TK left off at "RESCUE"
