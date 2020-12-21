@@ -7,6 +7,20 @@ The xref:https://mostunreadblogever.blogspot.com/2018/04/savaging-pendragon.html
 
 // The scenario "Death at the Joust" contains the _Daring Tales of Adventure_ setting rules.
 
+
+
+
+== Ethnicity and ancestry
+
+
+== Edges
+
+=== Changes to existing edges
+
+
+=== New edges
+
+
 == Jousting rules
 
 ****
@@ -453,4 +467,4 @@ Should Glory drop below a multiple of 20, any benefits above the character’s c
 Dropping below 20 and then rising above it again does not grant the opportunity to take a new benefit—it simply allows the “lost” one to be used again.
 
 
-// TK@FUP left off at Death and Honor 
+// TK@FUP left off at Death and Honor
