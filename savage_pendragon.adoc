@@ -413,3 +413,44 @@ For each token your enemy’s army was larger than yours when
 the battle commenced, the hero earns a +2 Glory bonus.
 
 // TK left off at "RESCUE"
+
+==== Rescue
+
+Even if the knight’s tale of his valorous deeds doesn’t earn them any immediate Glory, having prisoners recount the tale of their rescue quickly causes word to spread.
+
+Important NPCs must be famous, powerful, and
+named.
+A priest, minor noble, or similar noteworthy NPC is worth +1 Glory.
+Saving a count is worth +3.
+Rescuing a prince, king, or similar worthy gains the hero +5 Glory.
+For groups of lesser NPCs, rescuing ten or so is worth +1 Glory, a few tens +2, and a hundred or more +3.
+Saving a lone peasant is not enough to be retold by poets.
+
+Rescue doesn’t have to mean entering a dungeon and breaking captives out.
+If the rescue involves a Mass Battle rather than tabletop action, the party is deserving of the Mass Battle rewards as well.
+
+
+.Villains and glory
+****
+Knights who perform heroic deeds earn bonuses
+through their elevated Glory. Those that perform dastardly deeds get little reward for being evil.
+Of course, to earn Glory a knight has to take great risks and maintain a certain code of conduct; a villain doesn’t have that restriction.
+****
+
+==== Benefits of glory
+
+When a hero reaches a multiple of 20 Glory he must immediately pick one benefit from the list below, meeting any requirements.
+Some knights may opt to acquire Followers or become leaders of men and build a personal army.
+Other knights might use their fame to gain valuable connections or become better combatants.
+Others still may prefer to rely on their reputation to ensure a friendly welcome in civilized lands.
+Unless otherwise stated, benefits can be taken multiple
+times—the number in parentheses after the name indicates the maximum number of times the benefit may be taken.
+
+Fill in the appropriate section of the character sheet.
+// TK@fup Character sheet tracks glory and benefits
+
+Should Glory drop below a multiple of 20, any benefits above the character’s current Glory level are temporarily lost (unless otherwise stated) until Glory is regained.
+Dropping below 20 and then rising above it again does not grant the opportunity to take a new benefit—it simply allows the “lost” one to be used again.
+
+
+// TK@FUP left off at Death and Honor 
