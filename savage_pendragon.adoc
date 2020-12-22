@@ -466,5 +466,106 @@ Fill in the appropriate section of the character sheet.
 Should Glory drop below a multiple of 20, any benefits above the character’s current Glory level are temporarily lost (unless otherwise stated) until Glory is regained.
 Dropping below 20 and then rising above it again does not grant the opportunity to take a new benefit—it simply allows the “lost” one to be used again.
 
+===== COMBAT PROWESS (2)
+Requirements:: 40+ Glory +
+The knight may take a Combat Edge immediately.
+He must meet all the requirements as normal.
+
+===== CONNECTION (4)
+Requirements:: 20+ Glory +
+When a knight gains a Connection, he must pick a specific faction, as per the Edge of the same name.
+The hero does not belong to the faction—he simply has friends among their number willing to assist him (though he may, at the GM’s discretion, be offered membership as well).
+The Connection should be appropriate to the character’s background and his deeds.
+Note that the hero still needs make a Networking check for this benefit to be of any use.
+
+===== FAVORED (2)
+Requirements:: 60+ Glory +
+The knight can do things others can’t.
+He gains an extra benny per session.
+
+===== FOLLOWERS (10)
+Requirements:: 40+ Glory +
+The knight gains the Followers Edge regardless of his character Rank.
+The GM and player work together to determine the nature of the Followers, based on the knight's deeds.
+Followers are not automatically replaced when they die. Additional Followers may be gained at Legendary as normal through taking the Followers Edge with advances or by earning more Glory and taking this benefit.
++
+Followers don’t automatically leave if a character’s Glory drops below the level he gained this benefit, but they begin to grumble, refuse orders, and eventually mutiny.
+In game terms, the character’s Leadership Edges no longer work on them.
+When his Glory rises above the threshold again, his Followers stop grumbling. +
+
+NOTE: Having Extras accompany you on every mission means you have to slay more foes to earn Glory.
+
+===== LEADER OF MEN (4)
+Requirements:: 40+ Glory +
+The character may take a Leadership Edge immediately.
+He must meet all the requirements of the edge.
+
+===== SIDEKICK (1)
+Requirements:: 80+ Glory +
+Regardless of his character Rank, the hero has attracted
+a Sidekick, as per the edge.
++
+If the Sidekick dies, the character may take this benefit
+again when he earns more Glory.
+A second Sidekick may be gained at Legendary as normal through taking the Sidekick edge with an advance.
++
+Sidekicks remain with the hero when his Glory drops, but may grumble, not perform to the best of their abilities, or even refuse to follow orders.
+When the Glory rises sufficiently high again, the Sidekick returns to his former loyal state.
+
+
+==== LOSING GLORY
+A knight must deliberately act in a less than heroic way to suffer a Glory penalty.
+Since everyone makes mistakes, minor misdemeanors are ignored unless the knight makes them a bad habit of them.
+Sample penalties are included below.
+
+[options="header"]
+|===
+| Glory | Event
+| Special | Slaying or defeating a good and just powerful knight or worthy
+| –1 to –20 | Caught committing a crime
+| –3 | Cowardice or leaving a comrade behind
+// | –3 | Refusing Orders (the Hindrance)
+| –10 | Breaking an oath
+|===
+
+Crime:: This is a catchall penalty covering anything
+considered abhorrent to civilized society.
+Oaths:: Knights who renege on sworn oaths are considered treacherous.
+Slaying:: Killing a good, just, and powerful NPC, such
+as a king, causes a hero to suffer a drastic loss of Glory.
+The knight's Glory is swapped from a positive to a negative immediately.
+For instance, a knight with +50 Glory drops to –50 and becomes a very wanted man.
+
+===== Negative glory
+A knight with negative Glory does not earn rewards. He suffers drawbacks.
+
+===== Wanted
+When a hero reaches –20 Glory, he gains the Wanted (Minor) Hindrance.
+At –40, this changes to the Major version.
+Generally, the Minor Hindrance extends to a single realm, usually the one where the Glory penalty was incurred.
+The Major version, on the other hand, covers pretty much all the civilized.
+A hero who gains enough Glory to rise above the rating at which he gained this Hindrance, doesn’t lose the Hindrance. He may have performed some heroic deeds, but he is still a wanted man.
+
+===== Enemy
+At –10 Glory, the hero acquires the Enemy (Minor) Hindrance.
+At –30 (or lower), the Enemy becomes a Major Hindrance.
+The exact nature of the enemy depends on the villain’s deeds.
+It doesn’t matter if the hero’s Glory rises above
+the level at which he gained his foe, because his Enemy doesn’t give up his vendetta.
+If the hero gains a Major Enemy while his Minor
+Enemy is still at large, the foe simply steps up his campaign against the character.
+Otherwise, the hero gains a new enemy.
+
+
+
+==== Inherited honor
+
 
 // TK@FUP left off at Death and Honor
+
+// ==== Death and honor
+
+// When a character dies, his replacement normally begins with half his Experience Points.
+// However, high or low Glory at the time of the character’s death can alter this amount.
+// When a character dies with below 99 Glory, the character has 50% Experience as standard.
+// Between 100 and 199 Glory, the replacement has 75% Experience, and at 200 and over he retains the full Experience Points of his predecessor.
