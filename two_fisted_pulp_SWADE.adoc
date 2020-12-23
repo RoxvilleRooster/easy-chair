@@ -96,13 +96,14 @@ When a Wild Card gets more than one raise on any Trait roll (including Soak roll
 ==== Cinematic Death
 In a pulp game, death is not gory and messy.
 
+////
 ==== Contacts
 
 Once per adventure, one of the players can invent a Contact, who is a slightly helpful non-player character.
 // A player may invent a Contact for his hero once per rank.
 A contact typically serves to provide gear, information, or clues and leads when parties are struggling.
 The GM gets the final decision on what the Contact provides the heroes.
-
+////
 ////
  === Henchmen
 
@@ -113,7 +114,7 @@ An NPC henchman has three wounds like a wild card but, in all other respects, th
 // === Heroic Combat
 
 ////
-==== Damage by Extras
+ ==== Damage by Extras
 
 The damage rolls of Extras do not ace.
 ////
