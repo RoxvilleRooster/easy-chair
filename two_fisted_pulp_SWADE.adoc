@@ -18,7 +18,9 @@ This is an effort to take the setting rules from several older Savage Worlds pro
 
 Typically, a "Daring Tales of Adventure" scenario was divided into 3 or 4 acts; each act usually consists of 3 or 4 scenes.
 ////
-== Setting Rules
+== Setting rules
+
+=== Standard settings rules
 
 Savage Worlds Adventure Edition has a number of setting rules that are perfect for running a two-fisted pulp game.
 
@@ -40,6 +42,8 @@ Savage Worlds Adventure Edition has a number of setting rules that are perfect f
 I thought of adding the Wound Cap setting rule (SWADE p 141) but I figured that, with Fast Healing, Dumb Luck, Heroes Never Die,  <<#injuries_are_temporary>>, and  <<#nonlethal_damage_to_heroes>>, the heroes were wearing enough bubble wrap. There has to be _some_ danger.
 ****
 ////
+
+=== Special setting rules
 
 The following rules and directions further tune the setting for a classic pulp action game.
 
@@ -82,16 +86,17 @@ Getting on board an airship before it lifts off from the platform is an action
 Stunt action::
 Leaping from the sidecar of a speeding motorcycle onto an airship at the last second as it lifts off from the platform.
 
-=== Surrender
+==== Surrender
 
 When the heroes surrender at a dramatically fitting place in the story and go along with the demands of the antagonists, each heroes takes a benny.
 
-== Setting the Classic Pulp Tone
+==== Pay It Forward
+When a Wild Card gets more than one raise on any Trait roll (including Soak rolls), they receive a Benny as a way to pay their luck forward.
 
-=== Cinematic Death
+==== Cinematic Death
 In a pulp game, death is not gory and messy.
 
-=== Contacts
+==== Contacts
 
 Once per adventure, one of the players can invent a Contact, who is a slightly helpful non-player character.
 // A player may invent a Contact for his hero once per rank.
@@ -133,7 +138,7 @@ Heroes recover 1 wound at the start of an "Act". See <<_acts_and_scenes>>.
 Heroes do not suffer a permanent injury. When the wounds from the injury heals, the hero no longer suffers the effect of the injury.
 ////
 
-=== Never-Ending Ammo
+==== Never-Ending Ammo
 
 At the end of the scene, heroes recover all spent ammunition.
 // At the end of the scene, heroes recover all spent Power Points.
@@ -155,7 +160,7 @@ The GM can also spend a benny to guarantee a villain's escape. The escaping vill
 The "Recurring villains" setting rules are a bit _too_ much. Do not get too committed to the survival of a villain. Make some allowance for the heroes to kill them off.
 ////
 
-=== Police Interference
+==== Police Interference
 
 The cops do not turn up on the scene until after the action has ended.
 
@@ -410,6 +415,7 @@ text
 
 
 === Races
+
 Heroes are humans.
 
 === Skills
@@ -434,24 +440,28 @@ Heroes are humans.
 New Powers (SWADE p 47)::
 //An arcane character may learn two new powers by choosing this Edge (which may be taken multiple times). He may choose from any powers of his Rank or lower normally available to his particular Arcane Background.
 //A character can add a new Trapping on a power she already has instead of gaining a new one. She might add an ice Trapping to her existing fire bolt, for example, so she could switch between ice and fire Trappings freely.
-The weird scientist may learn one new power by choosing this Edge (which may be taken multiple times). She may choose from any powers of her Rank or lower that are normally available to Arcane Background (Weird Science).
-This character can also add a new Trapping on a power she already has instead of gaining a new one. For example, she might add an electrical Trapping to her existing freeze bolt, for example, so she could switch between shock and cold Trappings.
+The weird scientist adds *one* new power by choosing this Edge (which may be taken multiple times) _and_ one new power trapping.
+For the new power, the hero may choose from any powers of her Rank or lower that are normally available to Arcane Background (Weird Science).
+For the new trapping, the hero adds a effect to an existing power.
+For example, the hero might add an electrical Trapping to her existing freeze bolt, for example, so she could switch between shock and cold Trappings.
 
 
 ==== Removed Edges
 
 * Linguist (as per the Multiple Languages setting rules in SWADE p 149)
-* See <<_arcane_backgrounds>> for other unavailable edges
+* See <<#_arcane_backgrounds>> for other unavailable edges
 // * Arcane Resistance (SWADE p 37) and Improved Arcane Resistance
 // * Giant Killer (SWADE p 42)
 
 ==== Arcane Backgrounds
 
-Only the Weird Science arcane background is available for heroes. Edges that are associated with unavailable arcane backgrounds are not available to heroes.
+Only the Weird Science arcane background is available for heroes.
+Edges that are associated with unavailable arcane backgrounds are not available to heroes.
 
 .Why No Psionics?
 ****
-I do not think heroes control the minds of others, wipe others' memories, and project mental blasts. Let's focus on fists, bullets, and car chases and leave the superhuman and supernatural stuff to the big villains.
+I do not think heroes control the minds of others, wipe others' memories, and project mental blasts.
+Let's focus on fists, bullets, and car chases and leave the superhuman and supernatural stuff to the big villains.
 ****
 
 The unavailable edges are:
@@ -490,28 +500,6 @@ Fly (SWADE p 162)::
 For heroes with the Arcane Background (Weird Science) edge, Fly is available at Novice rank.
 
 
-== Chases
-
-There are at least three chases per _Darting Tales of Adventure_ scenario; the _Daring Tales_ chases used different rules from those specified in the _Savage Worlds Deluxe Explorers' Edition_ rules and they are also markedly different from the
-_Savage Worlds Adventure Edition_ chase rules.
-
-Wiggy wrote some excellent set piece chase actin scenes.
-If you can use these chases with minimal change, I suggest doing so. Some minor changes are needed. For example, if the chase calls for an Agility trait roll to maneuver, you will most likely want to call for the Athletics skill.
-
-There will be cases where you may want to use a Quick Encounter to handle a chase scene. For example, you may want to keep the pace of the game going and move on to the next scene before the session ends.
-
-=== Obstacles and Complications
-
-As per the rules, if the action card that is dealt to a character at the start of a chase round (SWADE p 114) is a club, there's a problems of some kind;  the hero needs to make a maneuvering roll.
-
-In standard chases, you check the chase card suit against the Complications table to determine the mechanical effect of the complication and the hero makes a maneuvering roll (SWADE p 116).
-
-In many of the set-piece chases in _Daring Tales of Adventure_ scenarios, when the action card is a club, the GM refers to the Obstacles listed for the scene, looking up the card value to determine what's next.footnote:[See "Daring Tales of Adventure - The Devil's Chalice",  Act 1, Scene 2.] The obstacle descriptions provide useful narrative color, indicate the maneuvering penalty, and state what happens if the maneuvering roll fails.
-
-In some _Daring Tales of Adventure_ chase scenes, the obstacles and events of a chase are fixed beforehand; the heroes are running a gauntlet.footnote:[See "Daring Tales of Adventure - The Talons of Lo-Peng",  Act 2, Scene 3.]
-
-At the fixed event points (called increments) in the chase, stuff happens when the heroes reach that increment, no matter if they pass that stage or not.
-If the scene defines 20 increments, lay down 20 chase cards. Use some kind of counter to mark the increments on which fixed events occur.
 
 
 
@@ -520,7 +508,7 @@ If the scene defines 20 increments, lay down 20 chase cards. Use some kind of co
 
 
 ////
-=== Success with a cost
+ === Success with a cost
 
 If you roll a 1 on your skill die but your wild die is successful, the result is still considered a success, but there is a negative effect or compromise (e.g., your weapon becomes entangled in an enemy's armor). The player can describe what the negative effect looks like.
 ////
@@ -534,3 +522,4 @@ In addition _Savage Worlds Adventure Edition_ (2018), this document references t
 * _Thrilling Tales of Adventure_ (2009, Gareth-Michael Skarka et al., Adamant Entertainment)
 * _Realms of Cthulhu_ (2009, Sean Preston, Reality Blurs)
 * _The Eye of Kilquato: Savage Worlds Adventure Edition_ (2019, Shane Hensley, Pinnacle Entertainment)
+* _Savage Daddy's One Shot Wonders_ (2018, Atomic Ninja Studios)
