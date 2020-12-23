@@ -8,65 +8,63 @@ v1.0, 2020-02-15
 :sectanchors:
 
 ****
-This is an attempt to take the setting rules from several older Savage Worlds products and adapt them to _Savage Worlds Adventure Edition_ (SWADE) games.
-
-This is an effort to make the scenarios of the  _Daring Tales of Adventure_ series more usable to SWADE game masters and players.
-
-In addition _Savage Worlds Adventure Edition_ (2018), this document references the following books:
-
-* _Daring Tales of Adventure: Pulp Rules_ (2008, Paul "Wiggy" Wade-Williams, Triple Ace Games)
-* _Daring Tales of Adventure: Rocket Rangers_ (2010, Paul "Wiggy" Wade-Williams, Triple Ace Games)
-* _Savage Worlds Pulp GM's Toolkit_ (2006, Paul "Wiggy" Wade-Williams, Pinnacle Entertainment)
-* _Thrilling Tales of Adventure_ (2009, Gareth-Michael Skarka et al., Adamant Entertainment)
-* _Realms of Cthulhu_ (2009, Sean Preston, Reality Blurs)
-* _The Eye of Kilquato: Savage Worlds Adventure Edition_ (2019, Shane Hensley, Pinnacle Entertainment)
+This is an effort to take the setting rules from several older Savage Worlds products and adapt them to _Savage Worlds Adventure Edition_ (SWADE) games. The goal is to make the scenarios of the  _Daring Tales of Adventure_ series more usable for SWADE game masters and players.
 
 ****
-
+////
 == Heroes in the "Golden Age" of Pulp
 
 === Acts and scenes
 
-Typically, a Daring Tales of Adventure scenario was divided into 3 or 4 acts; each act usually consists of 3 or 4 scenes.
-
+Typically, a "Daring Tales of Adventure" scenario was divided into 3 or 4 acts; each act usually consists of 3 or 4 scenes.
+////
 == Setting Rules
 
 Savage Worlds Adventure Edition has a number of setting rules that are perfect for running a two-fisted pulp game.
 
 * Conviction (SWADE p 136)
-// Creative combat just seemed to slow combat and most results were _Shaken_
+// Initially, "Creative combat"  just seemed to slow combat and most results were _Shaken_. That was because I was running the rules wrong.
 * Creative Combat (SWADE p 137)
-* Fast Healing (SWADE p 139)
-* Multiple Languages (SWADE p 149)
-// * Wound Cap (SWADE p 141)
 * Dumb Luck (SWADE p 138)
 * Fanatics (SWADE p 138)
+* Fast Healing (SWADE p 139)
 * Heroes Never Die (SWADE p 140)
 * High Adventure (SWADE p 140)
+* Multiple Languages (SWADE p 149)
+* Wound Cap (SWADE p 141)
 // Born a Hero (SWADE p 136)
 
+////
 .Why not use the Wound Cap setting rule?
 ****
-I thought of adding the Wound Cap setting rule (SWADE p 141) but I figured that, with Fast Healing, Dumb Luck, Heroes Never Die,  <<#injuries_are_temporary>>, and  <<#nonlethal_damage_to_heroes>>, the heroes were wearing enough bubble wrap. There has to be some danger.
+I thought of adding the Wound Cap setting rule (SWADE p 141) but I figured that, with Fast Healing, Dumb Luck, Heroes Never Die,  <<#injuries_are_temporary>>, and  <<#nonlethal_damage_to_heroes>>, the heroes were wearing enough bubble wrap. There has to be _some_ danger.
 ****
+////
 
 The following rules and directions further tune the setting for a classic pulp action game.
 
 
-
+////
 === Bennies
 
 Before the start of every combat, each hero gets a benny, provided that the benny does not exceed the character's amount of bennies at the session's start. A typical wild card hero has 3 bennies at session start, unless the hero as edges or hindrances that affect starting bennies.
+////
 
 ==== Be the Hero
 
-The protagonists are heroes. Play them that way. If a protagonist commits an evil, villainous, or morally ambiguous act, they lose a benny. This benny loss reduces the protagonist's benny maximum until the start of the next session. For example, if the hero typically starts a session with 3 bennies, her benny limit would then be reduced to 2 for the duration of the session.
-[TIP]
-The game master should warn the player about this rule and the consequences of the action before the player's hero commits an ignoble deed.
+The protagonists are heroes.
+Play them that way.
+If a protagonist commits an evil, villainous, or morally ambiguous act, they lose a benny.
+This benny loss reduces the protagonist's benny maximum until the start of the next session.
+For example, if the hero typically starts a session with 3 bennies, her benny limit would then be reduced to 2 for the duration of the session.
 
+TIP: The GM should warn the player about this rule and the consequences of the action before the player's hero commits an ignoble deed.
+
+////
 ==== Soaking
 
 When a hero soaks all of the damage from an attack, she gets her benny back.
+////
 
 ==== Stunts
 // From Adamant Entertainment's "Thrilling Tales of Adventure"
@@ -74,7 +72,9 @@ When a hero soaks all of the damage from an attack, she gets her benny back.
 A stunt action is any action that is performed in a flashier than normal way.
 Any hero who attempts a stunt action deserves a benny.
 
-In game terms, a stunt is an action where the player purposefully makes the action more difficult for the hero. A stunt action always requires a trait roll, at a minimum -2 penalty. The GM is the final arbiter of the roll penalty of a particular stunt action.
+In game terms, a stunt is an action where the player purposefully makes the action more difficult for the hero.
+A stunt action always requires a trait roll, at a minimum -2 penalty.
+The GM is the final arbiter of the roll penalty of a particular stunt action.
 
 Conventional action::
 Getting on board an airship before it lifts off from the platform is an action
@@ -93,8 +93,10 @@ In a pulp game, death is not gory and messy.
 
 === Contacts
 
-Once per adventure, one of the players can invent a Contact, who is a slightly helpful non-player character. A player may invent a Contact for his hero once per rank.
-A contact typically serves to provide gear,  information, or clues and leads when parties are struggling. The GM gets the final decision on what the Contact provides the heroes.
+Once per adventure, one of the players can invent a Contact, who is a slightly helpful non-player character.
+// A player may invent a Contact for his hero once per rank.
+A contact typically serves to provide gear, information, or clues and leads when parties are struggling.
+The GM gets the final decision on what the Contact provides the heroes.
 
 ////
  === Henchmen
@@ -111,31 +113,36 @@ An NPC henchman has three wounds like a wild card but, in all other respects, th
 The damage rolls of Extras do not ace.
 ////
 
-
+////
 [[nonlethal_damage_to_heroes]]
 === Nonlethal Damage to Heroes
 
-All damage taken by heroes is treated as nonlethal. A hero can only die if a villain performs a Finishing Move (SWADE p 101).
-
+All damage taken by heroes is treated as nonlethal.
+A hero can only die if a villain performs a Finishing Move (SWADE p 101).
+////
 ////
 ==== Fast healing
 
 Heroes recover 1 wound at the start of an "Act". See <<_acts_and_scenes>>.
 ////
 
+////
 [[injuries_are_temporary]]
 === Injuries are Temporary
 
 Heroes do not suffer a permanent injury. When the wounds from the injury heals, the hero no longer suffers the effect of the injury.
+////
 
 === Never-Ending Ammo
 
 At the end of the scene, heroes recover all spent ammunition.
 // At the end of the scene, heroes recover all spent Power Points.
 
+////
 === Pulp Fisted
 
 Heroes never suffer the Unarmed Defender penalty (SWADE p 109).
+////
 
 ////
 === Recurring villains
@@ -205,6 +212,15 @@ Alertness, Danger Sense, Dead Shot, Giant Killer, Marksman, No Mercy, Steady Han
 Suggested Hindrances::
 Arrogant, Bloodthirsty, Greedy
 
+==== Commander
+
+Suggested Skills::
+Battle, Fighting, Intimidation,  Notice, Persuasion,  Shooting
+Suggested Edges::
+Command, Natural Leader
+Suggested Hindrances::
+Loyal, Code of Honor
+
 ==== Dilettante
 
 Suggested Skills::
@@ -256,7 +272,7 @@ All Thumbs, Clueless, Curious, Heroic, Illiterate, Outsider
 ==== Mad Scientist
 
 Suggested Skills::
-Academics, _Gadgetry_, Research, Repair, Science, Weird Science,
+Athletics,  _Gadgetry_, Research, Repair, Science, Shooting, Weird Science
 Suggested Edges::
 Arcane Background (Weird Science), Gadgeteer, McGyver, Mr. Fix It, Rich
 Suggested Hindrances::
@@ -508,3 +524,13 @@ If the scene defines 20 increments, lay down 20 chase cards. Use some kind of co
 
 If you roll a 1 on your skill die but your wild die is successful, the result is still considered a success, but there is a negative effect or compromise (e.g., your weapon becomes entangled in an enemy's armor). The player can describe what the negative effect looks like.
 ////
+== References
+
+In addition _Savage Worlds Adventure Edition_ (2018), this document references the following books:
+
+* _Daring Tales of Adventure: Pulp Rules_ (2008, Paul "Wiggy" Wade-Williams, Triple Ace Games)
+* _Daring Tales of Adventure: Rocket Rangers_ (2010, Paul "Wiggy" Wade-Williams, Triple Ace Games)
+* _Savage Worlds Pulp GM's Toolkit_ (2006, Paul "Wiggy" Wade-Williams, Pinnacle Entertainment)
+* _Thrilling Tales of Adventure_ (2009, Gareth-Michael Skarka et al., Adamant Entertainment)
+* _Realms of Cthulhu_ (2009, Sean Preston, Reality Blurs)
+* _The Eye of Kilquato: Savage Worlds Adventure Edition_ (2019, Shane Hensley, Pinnacle Entertainment)
