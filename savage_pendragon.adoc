@@ -20,6 +20,25 @@ The xref:https://mostunreadblogever.blogspot.com/2018/04/savaging-pendragon.html
 
 === New edges
 
+Intrigue::
+Like Streetwise, but +2 networking rolls around court.
+
+== Skills
+
+=== New skills:
+
+* Animal handling
+
+
+Common knowledge covers such subjects and uses such as
+
+* Heraldry
+* Steward
+* Court
+
+== Virtues, vices, and passions
+
+
 
 == Jousting rules
 
