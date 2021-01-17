@@ -1,12 +1,14 @@
 
-= Rippers Resurrected campaign setting rules
 
 :toc:
 
+= Rippers Resurrected campaign setting rules
+
+
 ***
 
-== Resources
-
+.Resources
+****
 
 Documents::
 * https://www.drivethrurpg.com/product/261539/Savage-Worlds-Adventure-Edition[Savage Worlds: Adventure Edition] (SWADE)
@@ -16,7 +18,7 @@ Documents::
 Software::
 * https://savaged.us/[Savaged.us character generator]
 * https://savaged.us/s/ctbaikif[Rippers Resurrected custom setting for Savaged.us]
-
+****
 
 == Setting parameters
 
@@ -125,7 +127,8 @@ a| Character's Wealth rank (not die) a| Character can purchase up to cost withou
 
 == Fear
 
-Given the lack of any updated Fright table from the SWADE conversion notes for Rippers Resurrected and the need for a customized table for the setting, I adapted this table for Rippers Resurrected for SWADE.
+Given the lack of any updated Fright table (RR 31) from the SWADE conversion notes for Rippers Resurrected and the need for a customized table for the setting, I adapted this table for Rippers Resurrected for SWADE. + 
+For reference, the Fear Table is on SWADE 124. 
 
 .Fright table
 [options="header",cols="1,3"]
