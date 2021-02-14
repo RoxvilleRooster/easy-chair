@@ -42,3 +42,6 @@ asciidoc:
 
 asciidoc:
   page_attribute_prefix: jekyll
+
+asciidoc:
+  require_front_matter_header: true
