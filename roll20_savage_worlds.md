@@ -38,10 +38,10 @@ The following token overlays are used to indicate status/conditions in combat. O
 | Defend | ![Defending](/images/roll20/shield.PNG "Defending") | <!-- For *Full Defense*, set overlay number to 2 --> |
 | Entangled | ![Entangled](/images/roll20/entangle.png "Entangled") | |
 | Hold | ![Hold](/images/roll20/time.PNG "Hold") | Character is holding his action |
-| Sanity Damaged | ![Sanity](/images/roll20/sanity.PNG "Sanity damaged") | Used this marrker to show a character who is affected by the fear table
+| Sanity Damaged | ![Sanity](/images/roll20/sanity.png "Sanity damaged") | Used this marrker to show a character who is affected by the fear table
 | Shaken | ![Shaken](/images/roll20/smoke.PNG "Shaken") | For *Unconscious* or *Incapacitated*, set overlay number to 2 or remove the token from play | 
 | Stealth | ![Stealth](/images/roll20/ninja.PNG "Stealth") | Indicate a character is *successfully* using Stealth to avoid detection | 
-| Stunned | ![Stunned](/images/roll20/stunned.PNG "Stunned")  | 
+| Stunned | ![Stunned](/images/roll20/stunned.png "Stunned")  | 
 | Vulnerable | ![Vulnerable](/images/roll20/arrows_in_back.PNG "Vulnerable") |   |
 
 ## Changes to settings
@@ -60,7 +60,7 @@ The following token overlays are used to indicate status/conditions in combat. O
 4. Set **Player video/avatar size:** to `Names Only`.
 5. Set **Chat Tech** to `None (no video/audio)`.
 
-<!-->
+<!--
 # Macros
 
 Click **Collection** (![Collection](/images/roll20/collection.PNG "Collection")) in the top right corner of the Roll20 interface. 
