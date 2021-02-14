@@ -5,7 +5,7 @@ permalink: /roll20_savage_worlds/
 ---
 
 # Character sheets and tokens
-We use the tabbed character sheets for Savaged Worlds.
+We use the [official character sheets for Savaged Worlds](https://wiki.roll20.net/Official_Savage_Worlds).
 
 For the character tokens, we link the red, green, and blue bubbles and link these to character sheet attributes to track and display these values.
 * Wounds: We link the red circle overlay for the token with the Wounds attribute on the character sheet
@@ -31,14 +31,17 @@ The following token overlays are used to indicate status/conditions in combat. O
 | Condition | Stats indicator overlay | Notes |
 | - | - | - |
 | Aiming | ![Aim](/images/roll20/target.PNG "Aiming") |   |
+| Bound | ![Bound](/images/roll20/net.PNG "Bound") | |
 | Cover | ![Cover](/images/roll20/tower.PNG "Cover") |  *light cover* = set overlay number to 1 or leave unset; *medium cover* = set overlay to 2; *heavy cover* = set overlay to 4 |
 | Distracted | ![Distracted](/images/roll20/screaming_brain.PNG "Distracted") |   |
 | Dead | ![Dead](/images/roll20/red_x.PNG "Dead")  | Or just remove the token (a/k/a "off the table")  | 
 | Defend | ![Defending](/images/roll20/shield.PNG "Defending") | <!-- For *Full Defense*, set overlay number to 2 --> |
-| Entangled | ![Entangled](/images/roll20/net.PNG "Entangled") | For *Bound*, set overlay number to 2 |
+| Entangled | ![Entangled](/images/roll20/entangle.png "Entangled") | |
 | Hold | ![Hold](/images/roll20/time.PNG "Hold") | Character is holding his action |
+| Sanity Damaged | ![Sanity](/images/roll20/sanity.PNG "Sanity damaged") | Used this marrker to show a character who is affected by the fear table
 | Shaken | ![Shaken](/images/roll20/smoke.PNG "Shaken") | For *Unconscious* or *Incapacitated*, set overlay number to 2 or remove the token from play | 
 | Stealth | ![Stealth](/images/roll20/ninja.PNG "Stealth") | Indicate a character is *successfully* using Stealth to avoid detection | 
+| Stunned | ![Stunned](/images/roll20/stunned.PNG "Stunned")  | 
 | Vulnerable | ![Vulnerable](/images/roll20/arrows_in_back.PNG "Vulnerable") |   |
 
 ## Changes to settings
@@ -57,13 +60,15 @@ The following token overlays are used to indicate status/conditions in combat. O
 4. Set **Player video/avatar size:** to `Names Only`.
 5. Set **Chat Tech** to `None (no video/audio)`.
 
+<!-->
 # Macros
 
 Click **Collection** (![Collection](/images/roll20/collection.PNG "Collection")) in the top right corner of the Roll20 interface. 
 Next to all the visible macros, check **In Bar** and then check **Show macro quick bar**.
+-->
 
 # References
 
-* Jerrod Gunning's *Savage Daddy's Roll20 Player's Guide*
+<!-- * Jerrod Gunning's *Savage Daddy's Roll20 Player's Guide* -->
 * [Savage Worlds](https://wiki.roll20.net/Savage_Worlds)
-* [Savage Worlds Tabbed](https://wiki.roll20.net/Savage_Worlds_Tabbed)
+* [Official Savage Worlds character sheet](https://wiki.roll20.net/Official_Savage_Worlds)
