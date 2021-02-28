@@ -1,6 +1,6 @@
 = Savage Three Rocketeers
 Andy Hall <achall@gmail.com>
-v1.0, 2020-04-04
+v1.0, 2020-04-07
 :toc: left
 :toclevels: 4
 :experimental:
