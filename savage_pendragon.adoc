@@ -314,7 +314,7 @@ The GM may add penalties to reflect weaker opponents (such as ragged brigands) o
 .Deeds of glory
 ****
 [options="header",cols="6,4"]
-|====
+|===
 | Reason | Modifier
 2+a| **Storyteller**
 | Is a trained poet | +1

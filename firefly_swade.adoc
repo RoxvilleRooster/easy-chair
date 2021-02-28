@@ -16,7 +16,7 @@ The following setting rules from SWADE are fitting for a Savage Worlds Firefly c
 
 * Conviction (SWADE 136)
 
-==== Hindrance trappings
+=== Hindrance trappings
 
 Suggested re-skins of existing hindrances include:
 
@@ -28,7 +28,6 @@ Suggested re-skins of existing hindrances include:
 === Favors, Contacts, and Perks
 
 ==== Favors
-[[favors]]
 
 .Where these rules come from
 ****
@@ -122,8 +121,8 @@ Start the heist's Dramatic Task or Quick Encounter. During the heist, the player
 A player can spend a Benny to influence the narrative, making a story, which allows the player character to
 
 [loweralpha]
-a. use a different skill for a step of the Dramatic Task than the GM determined or
-a. call upon help from a Contact or Connections to bypass the challenge.
+. use a different skill for a step of the Dramatic Task than the GM determined or
+. call upon help from a Contact or Connections to bypass the challenge.
 
 
 You can use a flashback to show what happened to influence the story and facilitate the success of the heist.

@@ -303,7 +303,7 @@ Reduces damage from firearms by 4 when an attacker tries to shoot through it.
 
 
 
-==== Ranged weapons
+=== Ranged weapons
 
 Thrown axes and knives, bows, nets, slings, and spears are available in most every era or setting.
 
@@ -329,7 +329,7 @@ vulnerable only to cutting attacks.
 |===
 
 
-==== Black powder weapons
+=== Black powder weapons
 
 Black powder weapons are Reload 3.
 
@@ -347,9 +347,9 @@ Black powder weapons are Reload 3.
 | Springfield Model 1861 | 15/30/60 | 2d8 | — | 1 | — | d6 | 11 | 250 |
 |===
 
-==== Modern firearms
+=== Modern firearms
 
-===== Pistols
+==== Pistols
 
 .Pistols
 [cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
