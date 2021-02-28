@@ -1,7 +1,6 @@
 ---
 title: Game Expectations
 layout: page
-permalink: /expectations/
 ---
 
 # When we're playing Savage Worlds

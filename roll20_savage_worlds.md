@@ -1,7 +1,6 @@
 ---
 title: Using Roll20 for Savage Worlds
 layout: page
-permalink: /roll20_savage_worlds/
 ---
 
 # Character sheets and tokens

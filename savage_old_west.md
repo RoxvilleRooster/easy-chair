@@ -1,7 +1,6 @@
 ---
 title: Savage Old West
 layout: page
-permalink: /savage-old-west/
 ---
 
 This is an attempt at reproduce a cinematic "old west" campaign using the _Savage Worlds Deluxe Edition_ (SWDEE) rules. 
