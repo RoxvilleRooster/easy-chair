@@ -1,14 +1,8 @@
-
-
-:toc:
-
 = Rippers Resurrected campaign setting rules
 
+:experimental:
 
 ***
-
-.Resources
-****
 
 Documents::
 * https://www.drivethrurpg.com/product/261539/Savage-Worlds-Adventure-Edition[Savage Worlds: Adventure Edition] (SWADE)
@@ -18,7 +12,6 @@ Documents::
 Software::
 * https://savaged.us/[Savaged.us character generator]
 * https://savaged.us/s/ctbaikif[Rippers Resurrected custom setting for Savaged.us]
-****
 
 == Setting parameters
 
