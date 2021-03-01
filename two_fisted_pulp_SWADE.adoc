@@ -1,4 +1,5 @@
-= Classic Two-Fisted Pulp Adventures Using _Savage Worlds Adventure Edition_
+
+= Classic Pulp Heroics
 Andy Hall <achall@gmail.com>
 :docdatetime:
 :toc: left
@@ -6,6 +7,8 @@ Andy Hall <achall@gmail.com>
 :experimental:
 :sectlinks:
 :sectanchors:
+
+// Classic Two-Fisted Pulp Adventures Using _Savage Worlds Adventure Edition_
 
 ****
 This is an effort to take the setting rules from several older Savage Worlds products and adapt them to _Savage Worlds Adventure Edition_ (SWADE) games. The goal is to make the scenarios of the  _Daring Tales of Adventure_ series more usable for SWADE game masters and players.

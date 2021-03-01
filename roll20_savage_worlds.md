@@ -1,5 +1,5 @@
 ---
-title: Using Roll20 for Savage Worlds
+title: Roll20 for Savage Worlds
 layout: page
 ---
 
