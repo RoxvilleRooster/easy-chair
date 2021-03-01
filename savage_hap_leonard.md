@@ -35,7 +35,7 @@ Unlike the supernatural horror in the ETU setting, the horror in the Hap and Leo
 Hap and Leonard reside in the fictional town of LaBorde, Texas and that can easily be situated close by the fictitious university town of Pinebox. You can easily find a reason for Hap and Leonard to visit Pinebox. They have served as security guards at a chicken processing plant before, so maybe they can do a stint as campus police.                                                                                                     
 As far as the time lines are concerned, do not sweat it. Hap and Leonard were very active in the late 80s. The most recent novel, _The Elephant of Surprise_ (March 2019) is likely set in the late 2000s or 2010s, based on the occasional references to devices (e.g., mobile devices). Hap and Leonard don't exactly age as quickly as the rest of us.
 
-![collins-pine](https://when-release.com/.u/.d/1460751590.jpg)                                                                                                                                                                                                                                                                           
+![collins-pine](https://lithub.com/wp-content/uploads/sites/3/2020/08/hap-and-leonard-slider-960x430.jpg)                                                                                                                                                                                                                                                                           
 ## Hap and Leonard as a team
 Hap and Leonard are amateur investigators and typically find themselves doing legwork. Where they lack the classic sleuth skills, they get by with a little luck, intuition, and knowledge of the locals and location.
 
@@ -203,3 +203,5 @@ See the write up of [Veil's Visit](http://hapandleonard.net/veil.htm)
 * Detective, worked with Hanson
 * Friend to Hap and Leonard
 * Wears a pork-pie hat and a K-Mart suit
+
+![Charlie](https://static.tvmaze.com/uploads/images/medium_portrait/148/370928.jpg)
