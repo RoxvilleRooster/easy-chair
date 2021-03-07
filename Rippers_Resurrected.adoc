@@ -1,5 +1,5 @@
 = Rippers Resurrected campaign setting rules
-:page-layout: info
+:page-layout: page
 :url-asciidoctor: http://asciidoctor.org
 :docdatetime:
 :toc: left
