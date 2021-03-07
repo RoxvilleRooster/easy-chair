@@ -1,0 +1,252 @@
+---
+layout: post
+title: Savage Three Rocketeers
+---
+
+This is an adaptation of the "Rocket Rangers" supplement for the *Daring Tales of Adventure* series for Savage Worlds (Triple Ace Games). Paul "Wiggy" Wade-Williams is brilliant.
+
+The idea hear is that these rules could be bolted on to the "Savage Musketeers" setting to create a "Savage Three Rocketeers" game, which would be based on "The Three Rocketeers - A World of Adventure for Fate Core" (Evil Hat) by PK Sullivan.
+
+Pirating RPG content is just plain douchey. Most folks making tabletop RPG products struggle to make a buck. Buy tabletop RPG books from your Friendly Local Area Gaming Store or from online vendors like [DriveThruRPG](#https://www.drivethrurpg.com/).
+
+## The Rocketeers
+
+The Rocketeers are an elite unit. Training is tough and few make the cut.
+Rocketeers are typically recruited from the army, but anyone with the right aptitude can apply.
+
+Attribute Requirements  
+Strength d6, Agility d6, Vigor d6
+
+Skill Requirements  
+Piloting d8, Repair d4, Athletics d6
+
+Useful Edges  
+Ace, Steady Hands
+
+Additional Gear  
+Rocket pack, Rocketeer helmet, Rocketeer flight suit, molecular sword
+
+### Gear
+
+Helmet  
+Made of a light-weight, durable alloy, these
+bucket helms are fitted with a fin. The fin acts a rudder,
+allowing the Rocketeer to turn at high speeds.
+The helmet also includes a highly secret, miniaturized
+radio transmitter and receiver. It has a range of just 200
+yards, distance enough to let the unit talk while in flight
+without having to remove their helmets and shout.
+
+Flight Suit  
+Made up of heavy boots, a flying jacket, and lightweight canvas pants, the flying suit is treated with a special fireproof liquid to prevent accidents.
+
+Rocket Pack  
+Revolutionary in their design, rocket packs are made up of the same alloy used in the Rocketeers' helmets.
+Fins are fitted to the top and sides to aid in maneuvering. The fuel tank takes up most of the pack.
+
+Molecular sword  
+See SWADE p72.
+
+| Item                  | Armor | Min Str | Weight | Cost           | Notes                                                                                  |
+|-----------------------|-------|---------|--------|----------------|----------------------------------------------------------------------------------------|
+| Rocketeer Helmet      | 3     | d4      | 3      | Military issue | Covers the head fully. Without a helmet, all Piloting rolls to maneuver are made at –2 |
+| Rocketeer Flight Suit | 1     | d4      | 7      | Military issue | Provides an additional +2 Armor to resist fire and +1 to Vigor rolls to resist heat    |
+
+Armor
+
+<table>
+<caption>Equipment</caption>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 40%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Item</th>
+<th style="text-align: left;">Cost</th>
+<th style="text-align: left;">Weight</th>
+<th style="text-align: left;">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><p>Rocket Pack</p></td>
+<td style="text-align: left;"><p>Military issue</p></td>
+<td style="text-align: left;"><p>12 full, 10 half full, or 8 empty</p></td>
+<td style="text-align: left;"><p>Toughness: 10 (3)</p>
+<ul>
+<li><p>A rocket pack counts as a Small target (–4).</p></li>
+<li><p>For each point of damage it takes over its Toughness from small arms fire, one point of fuel is lost.</p></li>
+<li><p>Explosive and fire damage cause the pack to overload and explode (see <a href="#security">Rocket pack security</a>).</p></li>
+<li><p>Every five units of fuel weighs 1 pound.</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+Equipment
+
+| Type            | Damage   | Min Str | Weight | Cost | Notes |
+|-----------------|----------|---------|--------|------|-------|
+| Molecular Sword | Str+d8+2 | d6      | 2      | 500  | AP 4  |
+
+Melee weapons
+
+## Rocket Pack Rules
+
+### Fuel
+
+Rocket packs burn low grade alcohol combined with
+a special compound known as *Element X*. Without
+this highly secret element the packs do not produce
+enough thrust to lift a man off the ground, yet alone fly
+around for extended periods.
+A fully fuelled rocket pack has 20 units of fuel. Each player needs to track these using a counter.
+Each round a pack is used for movement or to hover in place, one unit of fuel is expended.
+It makes no difference how far a hero moves — the motors are more efficient at higher speeds, hence moving the regular Chase [speed](#speed)
+burns the
+same fuel as moving on the tabletop, despite the former being considerably faster.
+A character with an active rocket pack who lands at the very beginning of his turn, before taking any other actions, does not burn a point of fuel.
+Rocket packs have no gliding capability — when the pack runs out of fuel, the hero falls from the sky.
+
+#### Traveling long distances
+
+During the course of an adventure, the Rocketeer may be required to travel great distances.
+In order to keep fuel use practical and easy to handle, assume the packs use one point of fuel per 50 miles
+(by flying at high altitude and switching down the motors).
+
+#### Refuelling
+
+Unless the Rocketeers can get to the correct source of fuel, there is no hope of refuelling a rocket pack during a mission.
+
+### Rocket pack safety
+
+Rocket packs strap onto the wearer’s back and are held in place by four thick, leather straps.
+These straps connect to a circular buckle which is set square in the center of the user’s chest.
+Concealed within each strap are wires which feed back into the rocket pack.
+Unless all four straps are connected to the buckle, the rocket pack motor cannot be ignited.
+
+<div class="note">
+
+A Repair roll at –2 and ten minutes of work with some basic tools, overrides this safety feature.
+However, because the packs are given a thorough maintenance inspection after every mission, the tampering will be discovered and rectified.
+
+Failure means the character cannot try again that mission, though another hero can try on his behalf.
+
+A critical failure means the pack is broken. It cannot be repaired in the field.
+
+</div>
+
+### Putting on a rocket pack
+
+Donning a rocket pack takes an entire round and two hands.
+If the Rocketeer only has one hand spare, then it takes two entire rounds.
+During these rounds the character can take no other actions.
+Free actions, such as moving up to one’s Pace, are permitted so long as the Ranger doesn’t use his hands.
+Removing a pack can be slightly faster. Normally it takes an entire round to release the straps.
+However, a character may make an Athletics roll as an action.
+With success, the pack is removed and the hero can perform other actions (with a multi-action penalty).
+On a failure, the character has had to spend the entire round undoing the straps.
+He may take no other actions, though free actions are permitted as above.
+
+### Activating a rocket pack
+
+To activate the rocket pack, the wearer must firmly strike a large button located on the front of his safety harness.
+This is a free action, though it does require a Piloting roll.
+This button can be targeted in combat by an enemy, but any attack roll suffers a –6 penalty.
+Should the attack be successful, the pack switches on as if a special failure occurred (see below) or switches off if it was already activated.
+
+Raise  
+The motor ignites using residual fumes in the exhaust. No fuel is consumed this round. The wearer may now use his rocket pack for movement.
+
+Success  
+The rocket pack activates successfully. One point of fuel is consumed. The wearer may now use his rocket pack for movement.
+
+Failure  
+T
+he motor whines, coughs, splutters, and then stops, leaving the unfortunate hero standing on the ground. A point of fuel is consumed as normal. The roll may be attempted again next round.
+
+Special Failure  
+A natural 1 on the Piloting die (regardless of Wild Die) means the pack ignites with a sudden rush of power.  
+Roll a d10 to determine in which direction the unfortunate Ranger is propelled.
+A result of 1 is directly behind, a 2 means he shoots at 45 degrees up and to the right, and so on. On a 9 or 10 he is rocketed straight upward.
+One point of fuel is consumed.  
+Should the hero already be airborne while trying to ignite his pack, such as when free falling from the airplane taking him to his mission, a roll of 10 indicates movement straight down, instead.
+
+Critical Failure  
+Flame is sucked straight into the fuel tank, starting a chain reaction.
+The engine fails to ignite, though one point of fuel is consumed. Worse still, the pack explodes at the end of the next round (see Security Second, above).
+
+### Flight, speed, and maneuverability
+
+Rocket packs have two speed settings. The first is tactical flight, while the second is long-distance flight.
+Tactical mode is used for tabletop encounters, while long-distance mode is used in Chases.
+Characters may *run* while using a rocket pack.
+The *run* die is equal to the character’s Piloting die type, not his usual running die.
+For instance, a Fleet Footed hero with Piloting d6 rolls a d6 when “running” with his rocket pack activated, not a d10 as normal.
+
+Rocket packs have a single speed in each flight mode. The character has no choice as to the speed he moves—it’s all or nothing.
+
+-   Tactical speed is 20” per round (Acceleration is 20).
+
+-   Long-distance flight is 140” per round.
+
+Because of the throttle controls that are in his gloves, a Rocketeer can control how far he moves in a round .
+
+No roll is required to hover.
+
+Regardless of the distance he moves, one point of fuel is burnt.
+
+The rocket pack allows the wearer to maneuver as if he were on foot. That is, he can turn through any angle he wants, swerve around objects, maneuver through narrow gaps, and so on without having to make a die roll to avoid a collision. In a Chase, the character must still make a Piloting roll each round as normal.
+
+#### Passengers
+
+A rocket pack is designed to support one person. However, in emergencies a Ranger can carry one other person (though not on this back, for obvious reasons).
+When carrying a comrade, all fuel usage is doubled.
+
+#### Landing
+
+Typically no die roll is required to actually land and switch off the pack.
+However, poor visibility, high winds, trying to land in a cluttered area, and so on, may require a Piloting roll (GM’s call).
+
+### Tinkering with a rocket pack
+
+Sooner or later, someone wil try to tinker with the rocket pack.
+A character who makes a Repair roll at –2, and spends 30 minutes, at work can tweak his rocket pack to perform better.
+Only one roll per pack is allowed per mission.
+
+Raise  
+The temporary adjustment can either improve the pack’s speed by 4”/40” for the next encounter or gain the effects of a success for the next two encounters.
+
+Success  
+The rocket pack’s speed is increased by 2”/20” for the next encounter.
+
+Failure  
+The character has wasted his time. He cannot try again this mission.
+
+Special Failure  
+A modified roll of 1 or lower on the Repair die (regardless of Wild Die) means the character has created an instability in the rocket pack.
+All Piloting rolls are made at –1 for the remainder of the mission.
+Correcting the problem requires two hours of time, suitable tools, and a Repair roll at –2.
+If the Repair roll fails, the malfunction cannot be repaired in the field.
+
+Critical Failure  
+The tampering has done more harm than good. Speeds are immediately halved.
+Repairing the self-induced malfunction requires suitable tools, an hour, and a Repair roll at –2.
+If the Repair roll fails, the malfunction cannot be repaired in the field.
+
+### Rocket pack security
+
+Rocket packs are a top secret piece of equipment highly prized by enemy nations and bad actors.
+To ensure they don’t fall into enemy hands, they are equipped with a self-destruct mechanism.
+The procedure for arming them is complex, but not particularly time-consuming.
+It requires a Common Knowledge roll as an action to set the mechanism working. If the character has no practical familiarity with rocket packs, there is a -4 penalty on the Common Knowledge roll.
+At the end of the round after the trigger is activated, the pack explodes.
+
+Once the mechanism is triggered it cannot be switched off.
+
+The explosion fills a Medium Burst Template centered on the pack.
+Everything under the template suffers 3d6 damage, plus one extra point of damage per two whole units of fuel remaining.
+For example, a pack containing 9 units of fuel inflicts 3d6+4 damage when it explodes. The explosion automatically destroys the pack.
