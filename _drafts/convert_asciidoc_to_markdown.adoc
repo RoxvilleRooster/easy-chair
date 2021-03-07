@@ -1,0 +1,6 @@
+= Convert AsciiDoc to Markdown
+
+
+    asciidoctor -b docbook -a leveloffset=+1 <filename>.adoc --verbose 
+
+    pandoc --markdown-headings=atx --wrap=preserve -t gfm -f docbook <filename>.xml -o <filename>.md
