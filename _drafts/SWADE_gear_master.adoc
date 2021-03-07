@@ -124,7 +124,7 @@ Note that greaves (leg guards) and vambraces (arm guards) are listed as pairs. H
 weight and cost if a character wears only half the set (Minimum Strength doesn’t change).
 
 .MEDIEVAL & ANCIENT ARMOR
-[cols="20%,15%,10%,15%,10%,30% ",options="header"]
+[cols="20%,15%,10%,15%,10%,30%",options="header"]
 |===
 | Item | Armor | Min Str | Weight | Cost | Notes
 6+| *CLOTH/LIGHT LEATHER*
@@ -172,7 +172,7 @@ physical shot fired from a firearm.
 Apply AP only to the item’s actual Armor value.
 
 .MODERN ARMOR
-[cols="20%,15%,10%,15%,10%,30% ",options="header"]
+[cols="20%,15%,10%,15%,10%,30%",options="header"]
 |===
 | Item | Armor | Min Str | Weight | Cost | Notes
 6+| *CLOTH\LEATHER*
@@ -230,7 +230,7 @@ are Hardness 10 and provide Armor +4.
 While worn, shields can be used to bash for Str+d4 damage.
 
 .Ancient & Medieval Shields
-[cols="20%,15%,15%,15%,10%,10%,25% ",options="header"]
+[cols="20%,15%,15%,15%,10%,10%,25%",options="header"]
 |===
 | Type | Parry | Cover | Min Str | Weight | Cost | Notes
 | Small | +1 | — | d4 | 4 | 50 |
@@ -239,7 +239,7 @@ While worn, shields can be used to bash for Str+d4 damage.
 |===
 
 .Modern Shields
-[cols="20%,15%,15%,15%,10%,10%,25% ",options="header"]
+[cols="20%,15%,15%,15%,10%,10%,25%",options="header"]
 |===
 | Type | Parry | Cover | Min Str | Weight | Cost | Notes
 | Riot Shield |  +3 | −4 | d4 | 5 | 80 |
@@ -249,7 +249,7 @@ Reduces damage from firearms by 4 when an attacker tries to shoot through it.
 
 
 .Futuristic Shield
-[cols="20%,15%,15%,15%,10%,10%,25% ",options="header"]
+[cols="20%,15%,15%,15%,10%,10%,25%",options="header"]
 |===
 | Type | Parry | Cover | Min Str | Weight | Cost | Notes
 | Polymer Shield, Small | +1 | — | d4 | 2 | 200 |
@@ -260,7 +260,7 @@ Reduces damage from firearms by 4 when an attacker tries to shoot through it.
 == Personal Weapons
 
 .Melee weapons
-[cols="20%,15%,10%,15%,10%,30% ",options="header"]
+[cols="20%,15%,10%,15%,10%,30%",options="header"]
 |===
 | Type | Damage | Min Str | Weight | Cost | Notes
 
@@ -394,7 +394,7 @@ Shotguns fire a spread of pellets (called “shot” or “buckshot”) to incre
 target. Up close, the blast can be devastating. See Shotguns on SWADE p 105 for details.
 
 .Shotguns
-[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30%",options="header"]
 |===
 | Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
 | Double-Barrel | 12/24/48 | 1–3d6 | — | 1 | 2 | d6 | 11 | 150 |
@@ -409,7 +409,7 @@ Rifles can be either bolt-action, lever-action, or fed from a magazine or clip, 
 magazines or clips cost 10% of the rifle and weigh 1 lb each.
 
 .Rifles
-[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30%",options="header"]
 |===
 | Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
 
@@ -446,7 +446,7 @@ Reloading:: Machine guns are Reload 2, which includes changing belts or drums, c
 
 
 .Machine guns
-[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30%",options="header"]
 |===
 | Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
 | Browning Automatic Rifle (BAR) (.30-06) | 20/40/60 | 2d8 | 2 | 3 | 20 | d8 | 17 | 300 |
@@ -472,7 +472,7 @@ No Recoil:: Pistols, SMGs, and rifles ignore the Recoil penalty. Gatling lasers 
 
 
 .Lasers
-[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30%",options="header"]
 |===
 | Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
 | Pistol | 15/30/60 | 2d6 | 2 | 1 | 50 | d4 | 2 |  250 |
@@ -514,7 +514,7 @@ special abilities like the Dodge Edge, etc. A hit causes 2d6 damage and a raise 
 NOTE: All types of shot are Heavy Weapons, Reload 8. Two crew members may reload at the same time.
 
 .Cannons
-[cols="20%,15%,15%,10%,5%,5%,10%,10%,10% ",options="header"]
+[cols="20%,15%,15%,10%,5%,5%,10%,10%,10%",options="header"]
 |===
 | Type | Range | Damage | AP | RoF| Blast | Weight | Cost | Notes
 
@@ -531,7 +531,7 @@ They normally require a crew of eight to load the projectile, crank down the lev
 Firing can be done by a single person, but loading the projectile takes at least four.
 
 .Catapults
-[cols="20%,15%,15%,10%,5%,5%,5%,5%,20% ",options="header"]
+[cols="20%,15%,15%,10%,5%,5%,5%,5%,20%",options="header"]
 |===
 | Type | Range | Damage | AP | RoF| Blast | Weight | Cost | Notes
 | Catapult | 24/48/96 | 3d6 | 4 | Special | MBT | — | 10K |
@@ -551,7 +551,7 @@ Armor protects normally, but flammable targets may catch fire (see Fire, SWADE p
 For vehicular flamethrowers, see SWADE p 80.
 
 .Flamethrowers
-[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30%",options="header"]
 |===
 | Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
 | Flamethrower | Cone Template | 3d6 | — | 1 | 10 | d8 | 70 |  300 |
@@ -567,7 +567,7 @@ All grenades are Heavy Weapons and detonate in the listed blast template (see Ar
 Grenades may be Evaded. See Evasion, SWADE p 100.
 
 .Grenades
-[cols="20%,15%,15%,5%,5%,5%,15%,15%,25% ",options="header"]
+[cols="20%,15%,15%,5%,5%,5%,15%,15%,25%",options="header"]
 |===
 | Type | Range | Damage | AP | RoF| Blast | Weight | Cost | Notes
 
@@ -617,7 +617,7 @@ she realizes it before stepping off and detonating it. Saving the victim require
 detonates the device immediately.
 
 .Mines
-[cols="20%,5%,15%,5%,5%,5%,10%,15%,40% ",options="header"]
+[cols="20%,5%,15%,5%,5%,5%,10%,15%,40%",options="header"]
 |===
 | Type | Range | Damage | AP | RoF| Blast | Weight | Cost | Notes
 
@@ -651,7 +651,7 @@ modifiers (including Speed—missiles move at Mach 1, a −6 penalty, unless oth
 noted, missiles are objects with a Toughness of 8 (2) (see Breaking Things, SWADE p 98).
 
 .Missiles
-[cols="20%,20%,15%,5%,5%,5%,10%,15%,25% ",options="header"]
+[cols="20%,20%,15%,5%,5%,5%,10%,15%,25%",options="header"]
 |===
 | Type | Range | Damage | AP | RoF| Blast | Weight | Cost | Notes
 
@@ -674,7 +674,7 @@ Rocket launchers and early torpedoes are direct-fire weapons that explode on con
 All the listed weapons are Heavy Weapons.
 
 .Rocket launchers and torpedoes
-[cols="20%,20%,15%,5%,5%,5%,10%,15%,25% ",options="header"]
+[cols="20%,20%,15%,5%,5%,5%,10%,15%,25%",options="header"]
 |===
 | Type | Range | Damage | AP | RoF| Blast | Weight | Cost | Notes
 | AT-4 | 24/48/96 | 4d8+2 | 24 | 1 | MBT | 15 | 1,500 | A heavy American anti-tank weapon of the modern era.
@@ -710,7 +710,7 @@ Costs:: Prices of military-grade weapons varies widely depending on setting, and
 baselines the GM can use to set prices in her campaign world.
 
 .Vehicular weapons
-[cols="25%,15%,10%,15%,15%,15%,5% ",options="header"]
+[cols="25%,15%,10%,15%,15%,15%,5%",options="header"]
 |===
 | Type | Range | AP Rounds | HE Rounds | RoF | Cost | Notes
 | Med. Machine Gun | 30/60/120 | 2d8+1, AP 2 | — | 3 | 750 |
@@ -733,26 +733,28 @@ baselines the GM can use to set prices in her campaign world.
 | Heavy Laser | 150/300/600 | 4d10, AP 30 | — | 1 | 1M |
 |===
 
+////
+
 == Deadlands: The Weird West
 
 .Melee weapons
-[cols="20%,15%,10%,15%,10%,30% ",options="header"]
+[cols="20%,15%,10%,15%,10%,30%",options="header"]
 |===
 | Type | Damage | Min Str | Weight | Cost | Notes
 |===
 
 .Thrown weapons
-[cols="15%,10%,10%,5%,5%,5%,5%,5%,30% ",options="header"]
+[cols="15%,10%,10%,5%,5%,5%,5%,5%,30%",options="header"]
 |===
 | Type | Range | Damage | AP | RoF| Min Str | Weight | Cost
 |===
 
-
+////
 
 == Rippers Resurrected
 
 .Melee weapons
-[cols="20%,15%,10%,15%,10%,30% ",options="header"]
+[cols="20%,15%,10%,15%,10%,30%",options="header"]
 |===
 | Type | Damage | Min Str | Weight | Cost | Notes
 | Axe | Str+d6 | d6 | 2 | £0.50 |
@@ -799,7 +801,7 @@ but they are considered Improvised Weapons.
 
 
 .Thrown weapons
-[cols="15%,10%,10%,5%,5%,5%,5%,5%,30% ",options="header"]
+[cols="15%,10%,10%,5%,5%,5%,5%,5%,30%",options="header"]
 |===
 | Type | Range | Damage | AP | RoF| Min Str | Weight | Cost | Notes
 | Holy Water | 3/6/12 | Special | — | 1 |  d4 |  1 | £0.10 | Small Burst Template +
@@ -845,7 +847,7 @@ Holy water can be created by any Lodge with a Chapel.
 ****
 
 .Pistols and Revolvers
-[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30%",options="header"]
 |===
 | Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
 // Weapon Range Damage RoF Shots Min. Str Weight Cost
@@ -861,7 +863,7 @@ It can fire lead, cold iron, or silver ammunition.
 |===
 
 .Rifles & Shotguns
-[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30%",options="header"]
 |===
 | Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
 | Blunderbuss | 5/10/20 | 1-3d6 | - | 1 | 1 | — | 12 |  £2 |+2 Shooting, 2 actions to reload, black powder
@@ -877,7 +879,7 @@ Slugs can be made of lead, silver, or cold iron, while pellets can be lead, silv
 |===
 
 .Special Weapons
-[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30%",options="header"]
 |===
 | Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
 //Weapon Range Damage RoF Shots Min. Str Weight Cost
@@ -1030,7 +1032,7 @@ Steam launch £50
 ----
 
 .Armor for Rippers
-[cols="20%,15%,10%,15%,10%,30% ",options="header"]
+[cols="20%,15%,10%,15%,10%,30%",options="header"]
 |===
 | Item | Armor | Min Str | Weight | Cost | Notes
 | Boilerplate | +3 (torso), +1 (arms and legs) | d10 | 30 | £4 |
