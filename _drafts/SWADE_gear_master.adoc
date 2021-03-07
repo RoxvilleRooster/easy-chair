@@ -892,7 +892,7 @@ Fitting a new magazine takes one round.
 
 
 .Ammunition
-[cols=",,,%",options="header"]
+[options="header"]
 |===
 | Ammo | Cost | Weight | Notes
 | Bullets, medium (lead) a| 5/50 a| £0.25/50 a| For a pistol
@@ -921,11 +921,11 @@ Others can automatically rouse a sleeping target as an action, but the victim aw
 |===
 
 .Specialty ammo
-====
+****
 Given the proper facilities, most ammunition can be made of special substances, such as cold iron or silver. Double the cost of cold iron ammunition.
 Triple the cost for silver ammunition.
 Rock salt shotgun shells cost the same as normal ammo but do one die type less damage (1–3d4).
-====
+****
 ////
 .Mundane Equipment
 ----
@@ -1015,7 +1015,7 @@ Steam launch £50
 ////
 
 .Armor for Rippers
-[cols="20%,15%,10%,15%,10%,30%",options="header"]
+[options="header"]
 |===
 | Item | Armor | Min Str | Weight | Cost | Notes
 | Boilerplate a| +3 (torso), +1 (arms and legs) | d10 | 30 | £4 a|
