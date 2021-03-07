@@ -1,5 +1,5 @@
 ---
-title: Playing Savage Worlds on a virtual tabletop
+title: Savage Worlds on Roll20 VTT
 layout: page
 ---
 
