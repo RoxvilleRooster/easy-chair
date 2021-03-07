@@ -4,4 +4,4 @@ _site
 .jekyll-metadata
 vendor
 .vscode/settings.json
-Rippers_Resurrected.xml
+*.xml

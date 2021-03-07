@@ -1,4 +1,12 @@
+---
+title: Rippers Resurrected campaign setting rules
+layout: page
+---
+
+
+<!--
 # Rippers Resurrected campaign setting rules
+-->
 
 Documents  
 -   [Savage Worlds: Adventure Edition](https://www.drivethrurpg.com/product/261539/Savage-Worlds-Adventure-Edition) (SWADE)
