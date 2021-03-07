@@ -620,17 +620,12 @@ detonates the device immediately.
 [cols="20%,5%,15%,5%,5%,5%,10%,15%,40%",options="header"]
 |===
 | Type | Range | Damage | AP | RoF| Blast | Weight | Cost | Notes
-
 | Anti-Personnel Mine | — | 2d6+2 | — | — | SBT | 10 | 100 | Heavy Weapon.
 | Anti-Tank Mine | — | 4d6 | — | — | MBT | 20 | 200 | Heavy Weapon, AP 5 vs. ½ the vehicle’s Armor value (round up).
 | Bouncing Betty | — | 3d6 | — | — | SBT | 9 | 125 |
-These deadly anti-personnel mines are designed to pop up into the air and rain shrapnel
-down from about head-height. Only full overhead cover offers an Armor bonus against such
-devices. Simply being prone offers no protection from these deadly explosives.
+These deadly anti-personnel mines are designed to pop up into the air and rain shrapnel down from about head-height. Only full overhead cover offers an Armor bonus against such devices. Simply being prone offers no protection from these deadly explosives.
 | Claymore Mine | — | 3d6 | — | — | Special | 4 | 75 |
-Claymores fire a spray of deadly steel balls in a 60° frontal arc. Everyone within 12″ (24
-yards) is automatically hit. Roll a die for all other targets up to 50″ (100 yards). Those who get an
-odd result are also hit.
+Claymores fire a spray of deadly steel balls in a 60° frontal arc. Everyone within 12″ (24 yards) is automatically hit. Roll a die for all other targets up to 50″ (100 yards). Those who get an odd result are also hit.
 
 |===
 
@@ -759,44 +754,33 @@ baselines the GM can use to set prices in her campaign world.
 | Type | Damage | Min Str | Weight | Cost | Notes
 | Axe | Str+d6 | d6 | 2 | £0.50 |
 | Baton | Str+d4 | d4 | 1 | £0.10 |
-The listed price assumes a baton specifically designed for combat, such as a policeman’s truncheon.
-Makeshift clubs (such as chair legs or thick branches) are free, but count as Improvised Weapons (see Savage Worlds).
+The listed price assumes a baton specifically designed for combat, such as a policeman’s truncheon. Makeshift clubs (such as chair legs or thick branches) are free, but count as Improvised Weapons (see Savage Worlds).
 | Bayonet | Str+d4 |  d4 | 1 | £0.50 | On rifle, Str+d6, Parry +1, Reach 1, 2 hands
 |  Great Axe | Str+d10 |  d4 | 15 | £4 | Parry –1, 2 hands, AP 1
 | Great Sword | Str+d10 | d10 | 12 | £4 | Parry –1, 2 hands
 | Rapier | Str+d4 | d4| 3 | £2 | Parry +1
-| Ripper Claws | Str+d6 | d6 | 4 |  £3 | Parry +1, can’t be disarmed
-Ripper claws are a set of sharpened blades set into a metal housing and worn on the forearm like a bracer.
-A specially designed handgrip improves the weapon’s responsiveness.
-Ripper claws take a full round (no other actions besides free ones) to strap on,
-or a single action for a character with Quick Draw.
-
+| Ripper Claws | Str+d6 | d6 | 4 |  £3 a| Parry +1, can’t be disarmed
+Ripper claws are a set of sharpened blades set into a metal housing and worn on the forearm like a bracer. A specially designed handgrip improves the weapon’s responsiveness. Ripper claws take a full round (no other actions besides free ones) to strap on, or a single action for a character with Quick Draw.
 | Saber | Str+d6 | d6 | 4 | £2 |
-| Sap | Str+d4 | d4 | 4 | £0.25 | Counts as an Unarmed Defender +
-Sometimes called a “blackjack” or simply a “bag,”
-a sap is a small leather pouch filled with stones or lead shot used to knock victims out from behind.
-They offer no defense, so users are considered Unarmed Defenders.
+| Sap | Str+d4 | d4 | 4 | £0.25 a| Counts as an Unarmed Defender +
+Sometimes called a “blackjack” or simply a “bag,” a sap is a small leather pouch filled with stones or lead shot used to knock victims out from behind. They offer no defense, so users are considered Unarmed Defenders.
 
 | Staff | Str+d4 | d4 | 8 | £0.05 | Parry +1, Reach 1, 2 hands
 | Sword | Str+d8 | d8 | 8 | £3 |
-| Sword Cane | — | d4 | 5 |  £2.50 |  Walking stick plus rapier
-A sword cane is a most gentlemanly weapon: simply a walking stick with a rapier hidden inside it.
-A Ripper armed with a sword cane does not suffer any Status penalty for traveling armed
-| Torch | Str+d4 |  d4 | 1 | £0.05 | Improvised Weapon, +2 damage lit.
+| Sword Cane | — | d4 | 5 |  £2.50 a| Walking stick plus rapier
+A sword cane is a most gentlemanly weapon: simply a walking stick with a rapier hidden inside it. A Ripper armed with a sword cane does not suffer any Status penalty for traveling armed
+| Torch | Str+d4 |  d4 | 1 | £0.05 a| Improvised Weapon, +2 damage lit.
 An unlit torch is treated as an improvised weapon, so attacks with it are made at a –1 penalty.
-A lit torch can also be used as a weapon.
-Anyone struck by it may catch fire,
-but the torch goes out if the Trait die comes up a 1 (regardless of the Wild Die).
-| Walking Stick | Str+d4 |  d4 | 2 | £0.50 | Parry +1 +
+A lit torch can also be used as a weapon. 
+Anyone struck by it may catch fire, but the torch goes out if the Trait die comes up a 1 (regardless of the Wild Die).
+| Walking Stick | Str+d4 |  d4 | 2 | £0.50 a| Parry +1 +
 A well-balanced walking stick or cane makes an acceptable weapon in a pinch.
 Walking sticks not specifically designed for combat are considered Improvised Weapons.
-| Whip | Str+d4 | d4 | 2 | £0.10 | Reach 2, Parry –1 +
-If the wielder scores a raise on his attack roll,
-the victim is momentarily entangled and suffers a –2 to his Parry until his next action.
+| Whip | Str+d4 | d4 | 2 | £0.10 a| Reach 2, Parry –1 +
+If the wielder scores a raise on his attack roll, the victim is momentarily entangled and suffers a –2 to his Parry until his next action.
 | Wooden Stake | Str+d4 |  d4 | 1 |  £0.05 |
 The listed cost assumes the stake was carefully crafted for use as a weapon.
-Broken furniture, snapped tree branches, and the like fulfill the same purpose and are free,
-but they are considered Improvised Weapons.
+Broken furniture, snapped tree branches, and the like fulfill the same purpose and are free, but they are considered Improvised Weapons.
 |===
 
 
@@ -908,30 +892,28 @@ Fitting a new magazine takes one round.
 
 
 .Ammunition
-[cols="45%,10%,10%,30%",options="header"]
+[cols=",,,%",options="header"]
 |===
 | Ammo | Cost | Weight | Notes
-| Bullets, medium (lead) | 5/50 | £0.25/50 | For a pistol
-| Bullets, large (lead) | 8/50 | £0.50/50 | For a rifle or shotgun
-| Gas cylinder | 8 | £0.50 | For a flamethrower
-| Mini-quarrels (wooden) | 1/10 | £0.10/10 | For a mini-crossbow
-| Quarrels (wooden) | 1/5 | £0.05/5 | For a crossbow
-| Shot and powder (lead) | 5/50 |  £0.10/50 |  For a black powder weapon
-| Stake (wooden) | 1 | £0.05 | For an impaler
-| Trick bolt (binding) | 1 | £0.20 | For a crossbow or mini-crossbow +
+| Bullets, medium (lead) a| 5/50 a| £0.25/50 a| For a pistol
+| Bullets, large (lead) a| 8/50 | £0.50/50 a| For a rifle or shotgun
+| Gas cylinder | 8 a| £0.50 | For a flamethrower
+| Mini-quarrels (wooden) a| 1/10 a| £0.10/10 | For a mini-crossbow
+| Quarrels (wooden) | 1/5 a| £0.05/5 | For a crossbow
+| Shot and powder (lead) a| 5/50 a|  £0.10/50 |  For a black powder weapon
+| Stake (wooden) | 1 a| £0.05 | For an impaler
+| Trick bolt (binding) | 1 a| £0.20 a| For a crossbow or mini-crossbow. 
 Anyone hit by the bolt doesn’t take damage but is Entangled (Bound with a raise).
-| Trick bolt (grappling) | 1 | £0.20 | For a crossbow or mini-crossbow +
+| Trick bolt (grappling) | 1 a| £0.20 | For a crossbow or mini-crossbow.
 These crossbow bolts trail a fine strong cable when fired, and
 can be used to scale vertical surfaces or bridge chasms.
 Range is reduced to 3/6/12.
-Anyone hit by a grappling bolt takes 1d6 damage and must make an opposed Strength roll against the damage
-or be caught on the bolt until they take an action to remove it.
-A caught target may be subject to a Push maneuver at the GM’s discretion (or more
-accurately a “Pull” maneuver).
-| Trick bolt (explosive) | 1 | £0.40 | For a crossbow or mini-crossbow +
+Anyone hit by a grappling bolt takes 1d6 damage and must make an opposed Strength roll against the damage or be caught on the bolt until they take an action to remove it.
+A caught target may be subject to a Push maneuver at the GM’s discretion (or more accurately a "Pull" maneuver).
+| Trick bolt (explosive) | 1 | £0.40 | For a crossbow or mini-crossbow.
 These crossbow bolts explode when they hit, causing 2d6 damage in a Small Burst Template.
 Roll deviation normally if the shot misses.
-| Trick bolt (knockout gas) | 1 | £0.40 | For a crossbow or mini-crossbow +
+| Trick bolt (knockout gas) | 1 | £0.40 | For a crossbow or mini-crossbow.
 These crossbow bolts release knockout gas on impact.
 Any living creature within a Small Burst Template (including living supernatural creatures)
 must make a Vigor roll (at –2 on a raise) or fall Incapacitated for 1d6 rounds.
@@ -944,7 +926,7 @@ Given the proper facilities, most ammunition can be made of special substances, 
 Triple the cost for silver ammunition.
 Rock salt shotgun shells cost the same as normal ammo but do one die type less damage (1–3d4).
 ====
-
+////
 .Mundane Equipment
 ----
 Item Weight Cost
@@ -1030,17 +1012,15 @@ Hansom cab £10
 Hansom cab (rent/day) £0.05
 Steam launch £50
 ----
+////
 
 .Armor for Rippers
 [cols="20%,15%,10%,15%,10%,30%",options="header"]
 |===
 | Item | Armor | Min Str | Weight | Cost | Notes
-| Boilerplate | +3 (torso), +1 (arms and legs) | d10 | 30 | £4 |
-These heavy steel plates provide reasonable protection against firearms,
-but soon dent and become useless. Boilerplate must be worn in a heavy coat’s lining.
-If an attack does enough damage to penetrate the boilerplate and inflict a wound, roll a die.
-Odd, the boilerplate is ruined and provides no further protection.
-| Chainmail Vest  (torso)| +2 | d6 | 10 | £3 |
+| Boilerplate a| +3 (torso), +1 (arms and legs) | d10 | 30 | £4 a|
+These heavy steel plates provide reasonable protection against firearms, but soon dent and become useless. Boilerplate must be worn in a heavy coat’s lining. If an attack does enough damage to penetrate the boilerplate and inflict a wound, roll a die. Odd, the boilerplate is ruined and provides no further protection.
+| Chainmail Vest  (torso)| +2 | d6 | 10 | £3 a|
 For occasions when a heavy coat does not provide adequate defense,
 Ripper teams can clothe themselves in chainmail vests.
 These vests can be hidden under a heavy coat.
