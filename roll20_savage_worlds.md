@@ -45,7 +45,11 @@ The following token overlays are used to indicate status/conditions in combat. O
 
 ## Changes to settings
 
-1. Click **My Settings** (![My Settings](/images/roll20/gear.PNG)) in the top right corner of the Roll20 interface.
+1. Click **My Settings** (the gear icon)  in the top right corner of the Roll20 interface.
+<!-- <img style="inline" src="images/roll20/gear.PNG" alt="My Settings"> -->
+<!--
+(![My Settings](/images/roll20/gear.PNG)) 
+-->
 2. Change the **Display Name** to your character's main name. Click **Save Name**.
 3. Ensure the following boxes are checked: 
 	* **Use advanced keyboard shortcuts**
