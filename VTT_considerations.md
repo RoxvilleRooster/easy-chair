@@ -1,8 +1,7 @@
-title: Savage Worlds on a VTT
+---
+title: Playing Savage Worlds on a virtual tabletop
 layout: page
 ---
-
-# Playing Savage Worlds on a virtual tabletop
 
 ## Short VTT sessions and benny refresh
 
