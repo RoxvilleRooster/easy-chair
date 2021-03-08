@@ -1,0 +1,162 @@
+---
+layout: post
+title: Daring Tales of Adventure Chases
+---
+
+## Chases
+
+There are at least three chases per *Daring Tales of Adventure* scenario; the *Daring Tales* chases used different rules from those specified in the *Savage Worlds Deluxe Explorers' Edition* rules and they are also markedly different from the
+*Savage Worlds Adventure Edition* chase rules.
+
+Wiggy wrote some excellent set piece chase actin scenes.
+If you can use these chases with minimal change, I suggest doing so. Some minor changes are needed. For example, if the chase calls for an Agility trait roll to maneuver, you will most likely want to call for the Athletics skill.
+
+There will be cases where you may want to use a Quick Encounter to handle a chase scene. For example, you may want to keep the pace of the game going and move on to the next scene before the session ends.
+
+### Obstacles and Complications
+
+As per the rules, if the action card that is dealt to a character at the start of a chase round (SWADE p 114) is a club, there’s a problems of some kind; the hero needs to make a maneuvering roll.
+
+In standard chases, you check the chase card suit against the Complications table to determine the mechanical effect of the complication and the hero makes a maneuvering roll (SWADE p 116).
+
+In many of the set-piece chases in *Daring Tales of Adventure* scenarios, when the action card is a club, the GM refers to the Obstacles listed for the scene, looking up the card value to determine what’s next.[1] The obstacle descriptions provide useful narrative color, indicate the maneuvering penalty, and state what happens if the maneuvering roll fails.
+
+In some *Daring Tales of Adventure* chase scenes, the obstacles and events of a chase are fixed beforehand; the heroes are running a gauntlet.[2]
+
+At the fixed event points (called increments) in the chase, stuff happens when the heroes reach that increment, no matter if they pass that stage or not.
+If the scene defines 20 increments, lay down 20 chase cards. Use some kind of counter to mark the increments on which fixed events occur.
+
+## Vehicles
+
+### 1930s era
+
+| VEHICLE         | SIZE | HANDLING | TOP SPEED (MPH) | TYPICAL TOUGHNESS | CREW | NOTES                  |
+|-----------------|------|----------|-----------------|-------------------|------|------------------------|
+| scooter         | 0    | +2       | 40              | 7 (2)             | 1+1  |                        |
+| motorcycle      | 2    | +2       | 120             | 9 (2)             | 1+1  |                        |
+| roadster        | 3    | +2       | 75              | 10 (3)            | 1+2  | Wolseley Motors Hornet |
+| jeep            | 4    | +1       | 65              | 10 (2)            | 2+3  | Four-Wheel Drive       |
+| Ford 1934 sedan | 4    | +1       | 65              | 12 (3)            | 1+5  |                        |
+| limousine       | 5    | +1       | 65              | 13 (3)            | 1+8  |                        |
+| cargo truck     | 6    | +0       | 75              | 14 (2)            | 1+7  |                        |
+| bus             | 7    | +0       | 75              | 15 (2)            | 1+50 |                        |
+
+Land vehicles
+
+1934 Ford - 65 mph
+1934 roadster - 75 mph
+
+| VEHICLE              | SIZE | HANDLING | TOP SPEED (MPH) | TYPICAL TOUGHNESS | CREW  | NOTES                                                                                                      |
+|----------------------|------|----------|-----------------|-------------------|-------|------------------------------------------------------------------------------------------------------------|
+| rowboat              | 0    | −2       | 5               | 8 (1)             | 1+3   |                                                                                                            |
+| jon boat or air boat | 3    | +1       | 10              | 8 (1)             | 1+5   |                                                                                                            |
+| air boat             | 3    | +1       | 15              | 8 (1)             | 1+5   | For use in shallow conditions.                                                                             |
+| motorboat            | 4    | +1       | 30              | 12 (2)            | 1+5   |                                                                                                            |
+| yacht, motorized     | 10   | -1       | 25              | 15 (3)            | 10+10 | Machineguns are mounted on swivels fore and aft, but are not displayed except under unusual circumstances. 
+                                                                                        Optional weaponry: 2 x M1919 0.30 machinegun (bow and stern)                                                |
+
+Marine vehicles
+
+| VEHICLE               | SIZE | HANDLING | TOP SPEED (MPH) | TYPICAL TOUGHNESS | CREW | NOTES                                                                                   |
+|-----------------------|------|----------|-----------------|-------------------|------|-----------------------------------------------------------------------------------------|
+| Experimental airplane | 4    | +0       | 120             | 11 (2)            | 1 +3 | Listed as speed 50/200 in DToA. 2 x 13 mm MG (range 30/60/20, damage 2d10, ROF 3, AP 2) |
+
+Aircraft
+
+## Adventures and Chases
+
+| Adventure                          | Act | Scene | Maneuvering | Chase Type                                  |
+|------------------------------------|-----|-------|-------------|---------------------------------------------|
+| The Tale Of The Fabulous Four      | 1   | 2     | Athletics   | Chase with obstacles                        |
+| The Tale Of The Fabulous Four      | 2   | 2     | Athletics   | Standard chase                              |
+| The Tale Of The Fabulous Four      | 3   | 2     | Athletics   | Standard chase with obstacles (variation)   |
+| The Tale Of The Fabulous Four      | 4   | 2     | Athletics   | Standard chase with obstacles (variation)   |
+| Rocket Nazis On The Orient Express | 1   | 2     | Driving     | Chase with obstacles                        |
+| Rocket Nazis On The Orient Express | 2   | 4     | Piloting    | Chase with obstacles                        |
+| Rocket Nazis On The Orient Express | 3   | 1     | Athletics   | Chase with fixed encounters                 |
+| Rocket Nazis On The Orient Express | 4   | 2     | Piloting    | Standard chase                              |
+| To End All Wars                    | 1   | 2     | Driving     | Chase with obstacles                        |
+| Chaos On Crete                     | 4   | 1     | Boating     | Standard chase                              |
+| Web Of The Spider Cult             | 1   | 3     | Athletics   | Chase with obstacles                        |
+| Web Of The Spider Cult             | 2   | 2     | Boating     | Chase with fixed encounters                 |
+| Treasure Of The Templars           | 1   | 1     | Driving     | Chase with obstacles                        |
+| Treasure Of The Templars           | 3   | 4     | Piloting    | Standard chase                              |
+| The Talons Of Lo Peng              | 2   | 3     | Driving     | Chase with fixed encounters                 |
+| The Talons Of Lo Peng              | 3   | 2     | Athletics   | Chase with obstacles                        |
+| Sky Pirates Of The Caribbean       | 3   | 3     | Athletics   | Standard chase                              |
+| Sky Pirates Of The Caribbean       | 4   | 1     | Piloting    | Chase with fixed encounters                 |
+| The Palladium Peril                | 1   | 1     | Driving     | Chase with obstacles                        |
+| The Palladium Peril                | 2   | 2     | Driving     | Chase with obstacles                        |
+| The Palladium Peril                | 3   | 3     | Driving     | Chase with fixed encounters                 |
+| The Twelfth Gate                   | 1   | 2     | Athletics   | Chase with obstacles                        |
+| The Twelfth Gate                   | 3   | 3     | Driving     | Standard chase                              |
+| Terror Of The Z Bomb               | 1   | 2     | Driving     | Chase with obstacles (variation)            |
+| Terror Of The Z Bomb               | 2   | 4     | Athletics   | Chase with obstacles (variation)            |
+| Terror Of The Z Bomb               | 3   | 2     | Driving     | Chase with obstacles                        |
+| Terror Of The Z Bomb               | 3   | 4     | Piloting    | Standard chase                              |
+| Terror Of The Z Bomb               | 4   | 2     | Athletics   | Chase with obstacles                        |
+| Island Of Terror                   | 1   | 1     | Driving     | Standard chase                              |
+| Island Of Terror                   | 1   | 3     | Athletics   | Chase with obstacles                        |
+| Kingdom Of The Blood Gods          | 1   | 1     | Driving     | Standard chase                              |
+| Kingdom Of The Blood Gods          | 2   | 1     | Boating     | Chase with obstacles (variation)            |
+| Kingdom Of The Blood Gods          | 2   | 5     | Athletics   | Standard chase                              |
+| Kingdom Of The Blood Gods          | 3   | 3     | Athletics   | Chase with obstacles                        |
+| The Hands Of Kali                  | 1   | 4     | Athletics   | Chase with obstacles                        |
+| The Hands Of Kali                  | 3   | 3     | Driving     | Chase with obstacles                        |
+| The Hands Of Kali                  | 3   | 4     | Driving     | Standard chase                              |
+| Legacy Of Tunguska                 | 1   | 1     | Driving     | Chase with obstacles                        |
+| Legacy Of Tunguska                 | 2   | 1     | Driving     | Chase with obstacles                        |
+| Legacy Of Tunguska                 | 2   | 3     | Driving     | Standard chase                              |
+| Legacy Of Tunguska                 | 3   | 1     | Piloting    | Standard chase                              |
+| Legacy Of Tunguska                 | 3   | 3     | Driving     | Standard chase                              |
+| Legacy Of Tunguska                 | 4   | 1     | Athletics   | Standard chase                              |
+| Legacy Of Tunguska                 | 4   | 2     | Piloting    | Standard chase                              |
+| The Devil’s Chalice                | 1   | 2     | Driving     | Chase with obstacles                        |
+| The Devil’s Chalice                | 3   | 2     | Driving     | Standard chase                              |
+| The Sword of Avalon                | 1   | 2     | Athletics   | Standard chase                              |
+| The Sword of Avalon                | 2   | 1     | Boating     | Chase with obstacles (variation)            |
+| The Sword of Avalon                | 2   | 3     | Athletics   | Chase with fixed encounters                 |
+| The Sword of Avalon                | 3   | 3     | Driving     | Standard chase                              |
+| The Muramasa Curse                 | 1   | 3     | Athletics   | Chase with obstacles                        |
+| The Muramasa Curse                 | 2   | 2     | Athletics   | Chase with fixed encounters *and* obstacles |
+| The Muramasa Curse                 | 2   | 3     | Driving     | Chase with obstacles                        |
+| The Muramasa Curse                 | 4   | 3     | Athletics   | Chase with obstacles (variation)            |
+| Empire of the Black Pharaoh        | 1   | 4     | Driving     | Chase with obstacles                        |
+
+Chases
+
+| Scenario Name                      | Book         | Order in Compendium | Chronological Order |
+|------------------------------------|--------------|---------------------|---------------------|
+| The Tale Of The Fabulous Four      | N/A          | Not in compendium   | 1                   |
+| Rocket Nazis On The Orient Express | N/A          | Not in compendium   | 2                   |
+| To End All Wars                    | Compendium 1 | 1                   | 3                   |
+| Chaos On Crete                     | Compendium 1 | 2                   | 4                   |
+| Web Of The Spider Cult             | Compendium 1 | 3                   | 5                   |
+| Treasure Of The Templars           | Compendium 1 | 4                   | 6                   |
+| The Talons Of Lo Peng              | Compendium 1 | 5                   | 7                   |
+| Sky Pirates Of The Caribbean       | Compendium 2 | 1                   | 8                   |
+| The Palladium Peril                | Compendium 2 | 2                   | 9                   |
+| The Twelfth Gate                   | Compendium 2 | 3                   | 10                  |
+| Terror Of The Z Bomb               | Compendium 2 | 4                   | 11                  |
+| Island Of Terror                   | Compendium 3 | 1                   | 12                  |
+| Kingdom Of The Blood Gods          | Compendium 3 | 2                   | 13                  |
+| The Hands Of Kali                  | Compendium 3 | 3                   | 14                  |
+| Legacy Of Tunguska                 | Compendium 3 | 4                   | 15                  |
+| The Devil’s Chalice                | Compendium 4 | 1                   | 16                  |
+| The Sword of Avalon                | Compendium 4 | 2                   | 17                  |
+| The Muramasa Curse                 | Compendium 4 | 3                   | 18                  |
+| Empire of the Black Pharaoh        | Compendium 4 | 4                   | 19                  |
+
+Scenarios for Daring Tales of Adventure
+
+## To End All Wars
+
+### 1.2
+
+## Chaos On Crete
+
+### 1.4
+
+[1] See "Daring Tales of Adventure - The Devil’s Chalice", Act 1, Scene 2.
+
+[2] See "Daring Tales of Adventure - The Talons of Lo-Peng", Act 2, Scene 3.
