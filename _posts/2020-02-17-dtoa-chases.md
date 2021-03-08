@@ -147,7 +147,15 @@ Chases
 | The Muramasa Curse                 | Compendium 4 | 3                   | 18                  |
 | Empire of the Black Pharaoh        | Compendium 4 | 4                   | 19                  |
 
+
+[1] See "Daring Tales of Adventure - The Devil’s Chalice", Act 1, Scene 2.
+
+[2] See "Daring Tales of Adventure - The Talons of Lo-Peng", Act 2, Scene 3.
+
+<!--
+
 Scenarios for Daring Tales of Adventure
+
 
 ## To End All Wars
 
@@ -157,6 +165,6 @@ Scenarios for Daring Tales of Adventure
 
 ### 1.4
 
-[1] See "Daring Tales of Adventure - The Devil’s Chalice", Act 1, Scene 2.
 
-[2] See "Daring Tales of Adventure - The Talons of Lo-Peng", Act 2, Scene 3.
+
+-->

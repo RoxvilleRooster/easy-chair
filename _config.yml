@@ -28,9 +28,17 @@ twitter_username: RoxvilleRooster
 github_username:  RoxvilleRooster
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+# Permalinks
+# permalink:        pretty
+# relative_permalinks: true
+
+paginate:         5
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
