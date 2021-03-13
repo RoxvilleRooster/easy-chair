@@ -1,5 +1,5 @@
 ---
-title: Roll20 macros for Savage Worlds
+#title: Roll20 macros for Savage Worlds
 layout: page
 permalink: /roll20_macros_sawo/
 ---
@@ -8,7 +8,9 @@ permalink: /roll20_macros_sawo/
 # Roll20 macros for Savage Worlds
 -->
 
-## Attributes
+## Roll20 macros for Savage Worlds
+
+### Attributes
 
 .at.Agility
 ```
@@ -36,7 +38,7 @@ Vigor roll! [[{1d@{Selected|Vigor}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds
 ```
 
 
-## Skills
+### Skills
 
 
 .sk.Notice
@@ -189,7 +191,7 @@ Repair roll! [[{1d@{Selected|Repair}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Woun
 ```Here's a survival roll! [[{1d@{Selected|Survival}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
 ```
 
-## General rolls
+### General rolls
 
 .dmg.melee
 ```
@@ -244,7 +246,7 @@ An untrained roll for a wild card!
 /r {1d4!-2 , 1d6!-2}kh1 + ?{Modifier|0}
 ```
 
-## Special cases
+### Special cases
 
 !Running
 ```

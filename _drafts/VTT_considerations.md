@@ -1,10 +1,13 @@
 ---
-title: Savage Worlds on Roll20 VTT
+#title: Savage Worlds on Roll20 VTT
 layout: page
 permalink: /sawo_vtt/
 ---
 
-## Short VTT sessions and benny refresh
+
+## Savage Worlds on Roll20 VTT
+
+### Short VTT sessions and benny refresh
 
 Our VTT sessions typically last 2 to 2.5 hours whereas a conventional physical tabletop session tends to run 4 to 5 hours (SWADE p 194).
 In this campaign, it takes 2 VTT sessions to equal 1 *game session* in SWADE. As a result, bennies refresh on VTT sessions with odd numbers.
@@ -29,6 +32,6 @@ In addition to benny refresh-related rules, edges, and hindrances, this change t
 
 -   chronic diseases (SWADE p 126)
 
-## Experience points and advances
+### Experience points and advances
 
 At the end of each VTT session, the GM typically awards 2 experience points (XP) (and, on occasion, 3 XP). An advance is earned every 5 XP increment. If you miss a session, your hero does not receive an XP award.

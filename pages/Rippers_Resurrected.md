@@ -1,27 +1,29 @@
 ---
-title: Rippers Resurrected campaign setting rules
+title: Rippers-for-SWADE
 layout: page
 permalink: /RR/
 ---
 
 
-<!--
-# Rippers Resurrected campaign setting rules
--->
 
-Documents  
+<!-- ## Rippers Resurrected campaign setting rules for Savage Worlds Adventure Edition -->
+
+This is an effort to take the current (March 2021) setting rules for Rippers Resurrected (released 2015) and make them work for a Savage Worlds Adventure Edition (SWADE) game. 
+While Pinnacle published the official conversion document, "Rippers Resurrected Conversion", the document is not the final word. I expect that the published will updated the Rippers setting at some point in the future. 
+
+Documents referenced:   
 -   [Savage Worlds: Adventure Edition](https://www.drivethrurpg.com/product/261539/Savage-Worlds-Adventure-Edition) (SWADE)
 
 -   [Rippers Resurrected Player’s Guide](https://www.drivethrurpg.com/product/167294/Rippers-Resurrected-Players-Guide?term=Rippers+Resurrected+) (RR)
 
 -   [Rippers Resurrected Conversion](https://www.peginc.com/store/rippers-conversion-for-adventure-edition-pdf-swade/) (RRC)
 
-Software  
+Software referenced:
 -   [Savaged.us character generator](https://savaged.us/)
 
 -   [Rippers Resurrected custom setting for Savaged.us](https://savaged.us/s/ctbaikif)
 
-## Setting parameters
+### Setting parameters
 
 The following setting parameters align with the [custom savaged.us setting](https://savaged.us/s/ctbaikif).
 
@@ -49,7 +51,7 @@ Starting Attribute Points
 Starting Skill Points  
 12
 
-### Allowed/Forbidden Choices
+#### Allowed/Forbidden Choices
 
 Races  
 Human only
@@ -78,7 +80,7 @@ None from SWADE
 Rippertech  
 All from RR
 
-## Expanded wealth rules
+### Expanded wealth rules
 
 These rules are from Donovan Bailey’s *Expanded Wealth* supplement. Values are adapted for the *Rippers Resurrected* campaign setting.
 
@@ -111,7 +113,7 @@ Value Penalty Table for Rippers
 
 Purchasing power by Wealth rank
 
-## Fear
+### Fear
 
 Given the lack of any updated Fright table (RR 31) from the SWADE conversion notes for Rippers Resurrected and the need for a customized table for the setting, I adapted this table for Rippers Resurrected for SWADE.  
 For reference, the Fear Table is on SWADE 124.
@@ -225,18 +227,15 @@ Treat as a Snapped result if the hero is already at zero Reason.</p>
 </tr>
 </tbody>
 </table>
-
 Fright table
-
-<div class="note">
 
 A character with rippertech makes a Spirit roll at –2, with a bonus equal to their current Reason.
 On a failure, the character gains ripping psychosis instead of rolling for Temporary Psychosis.
 If the psychosis is Major and the hero began with a Reason of 0 (before any loss due to the Table result), the character becomes an nonplayer character villain under the GM’s control on a failed roll.
 
-</div>
 
-## Expectations for the campaign
+
+### Expectations for the campaign
 
 -   We want to follow the "Fast, Furious, and Fun" ethos
 

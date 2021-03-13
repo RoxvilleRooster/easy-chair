@@ -11,11 +11,7 @@ Much is borrowed from *All For One: Regime Diabolique*) (Triple Ace Games). Paul
 
 *Flashing Blades* (Fantasy Games Unlimited) is an old-school historical swashbuckling RPG that is fill of great ideas.
 
-<div class="tip">
-
-Pirating RPG content is just plain douchey. Most folks making tabletop RPG products struggle to make a buck. Buy tabletop RPG books from your Friendly Local Area Gaming Store or fron online vendors like [DriveThruRPG](#https://www.drivethrurpg.com/).
-
-</div>
+Pirating RPG content is just plain douchey. Most folks making tabletop RPG products struggle to make a buck. Buy tabletop RPG books from your Friendly Local Area Gaming Store or from online vendors like [DriveThruRPG](https://www.drivethrurpg.com/).
 
 ## Character archetypes
 

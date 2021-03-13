@@ -7,7 +7,7 @@ This is an adaptation of the "Rocket Rangers" supplement for the *Daring Tales o
 
 The idea hear is that these rules could be bolted on to the "Savage Musketeers" setting to create a "Savage Three Rocketeers" game, which would be based on "The Three Rocketeers - A World of Adventure for Fate Core" (Evil Hat) by PK Sullivan.
 
-Pirating RPG content is just plain douchey. Most folks making tabletop RPG products struggle to make a buck. Buy tabletop RPG books from your Friendly Local Area Gaming Store or from online vendors like [DriveThruRPG](#https://www.drivethrurpg.com/).
+Pirating RPG content is just plain douchey. Most folks making tabletop RPG products struggle to make a buck. Buy tabletop RPG books from your Friendly Local Area Gaming Store or from online vendors like [DriveThruRPG](https://www.drivethrurpg.com/).
 
 ## The Rocketeers
 

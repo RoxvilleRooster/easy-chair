@@ -1,5 +1,5 @@
 ---
-title: Savaging Hap and Leonard
+title: Savage Hap and Leonard
 layout: page
 permalink: /Hap_Leonard/
 ---
