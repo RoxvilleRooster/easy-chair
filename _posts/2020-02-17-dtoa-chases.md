@@ -3,12 +3,12 @@ layout: post
 title: Daring Tales of Adventure Chases
 ---
 
-## Chases
+## Chases in the Daring Tales of Adventure series
 
 There are at least three chases per *Daring Tales of Adventure* scenario; the *Daring Tales* chases used different rules from those specified in the *Savage Worlds Deluxe Explorers' Edition* rules and they are also markedly different from the
 *Savage Worlds Adventure Edition* chase rules.
 
-Wiggy wrote some excellent set piece chase actin scenes.
+Wiggy wrote some excellent set piece chase action scenes.
 If you can use these chases with minimal change, I suggest doing so. Some minor changes are needed. For example, if the chase calls for an Agility trait roll to maneuver, you will most likely want to call for the Athletics skill.
 
 There will be cases where you may want to use a Quick Encounter to handle a chase scene. For example, you may want to keep the pace of the game going and move on to the next scene before the session ends.
@@ -19,19 +19,22 @@ As per the rules, if the action card that is dealt to a character at the start o
 
 In standard chases, you check the chase card suit against the Complications table to determine the mechanical effect of the complication and the hero makes a maneuvering roll (SWADE p 116).
 
-In many of the set-piece chases in *Daring Tales of Adventure* scenarios, when the action card is a club, the GM refers to the Obstacles listed for the scene, looking up the card value to determine what’s next.[1] The obstacle descriptions provide useful narrative color, indicate the maneuvering penalty, and state what happens if the maneuvering roll fails.
+In many of the set-piece chases in *Daring Tales of Adventure* scenarios, when the action card is a club, the GM refers to the Obstacles listed for the scene, looking up the card value to determine what’s next.[[1](#fn1)] 
+The obstacle descriptions provide useful narrative color, indicate the maneuvering penalty, and state what happens if the maneuvering roll fails.
 
-In some *Daring Tales of Adventure* chase scenes, the obstacles and events of a chase are fixed beforehand; the heroes are running a gauntlet.[2]
+In some *Daring Tales of Adventure* chase scenes, the obstacles and events of a chase are fixed beforehand; the heroes are running a gauntlet.[[2](#fn2)]
 
 At the fixed event points (called increments) in the chase, stuff happens when the heroes reach that increment, no matter if they pass that stage or not.
 If the scene defines 20 increments, lay down 20 chase cards. Use some kind of counter to mark the increments on which fixed events occur.
 
 ## Vehicles
 
-### 1930s era
+The vehicles listed here are from the era of the 1930s.
 
-| VEHICLE         | SIZE | HANDLING | TOP SPEED (MPH) | TYPICAL TOUGHNESS | CREW | NOTES                  |
-|-----------------|------|----------|-----------------|-------------------|------|------------------------|
+### Land vehicles
+
+| VEHICLE  | SIZE | HANDLING | TOP SPEED (MPH) | TYPICAL TOUGHNESS | CREW | NOTES |
+|---|---|---|---|---|---|---|
 | scooter         | 0    | +2       | 40              | 7 (2)             | 1+1  |                        |
 | motorcycle      | 2    | +2       | 120             | 9 (2)             | 1+1  |                        |
 | roadster        | 3    | +2       | 75              | 10 (3)            | 1+2  | Wolseley Motors Hornet |
@@ -41,13 +44,15 @@ If the scene defines 20 increments, lay down 20 chase cards. Use some kind of co
 | cargo truck     | 6    | +0       | 75              | 14 (2)            | 1+7  |                        |
 | bus             | 7    | +0       | 75              | 15 (2)            | 1+50 |                        |
 
-Land vehicles
-
+<!--
 1934 Ford - 65 mph
 1934 roadster - 75 mph
+-->
 
-| VEHICLE              | SIZE | HANDLING | TOP SPEED (MPH) | TYPICAL TOUGHNESS | CREW  | NOTES                                                                                                      |
-|----------------------|------|----------|-----------------|-------------------|-------|------------------------------------------------------------------------------------------------------------|
+### Marine vehicles
+
+| VEHICLE  | SIZE | HANDLING | TOP SPEED (MPH) | TYPICAL TOUGHNESS | CREW | NOTES  |
+|---|---|---|---|---|---|---|
 | rowboat              | 0    | −2       | 5               | 8 (1)             | 1+3   |                                                                                                            |
 | jon boat or air boat | 3    | +1       | 10              | 8 (1)             | 1+5   |                                                                                                            |
 | air boat             | 3    | +1       | 15              | 8 (1)             | 1+5   | For use in shallow conditions.                                                                             |
@@ -55,18 +60,18 @@ Land vehicles
 | yacht, motorized     | 10   | -1       | 25              | 15 (3)            | 10+10 | Machineguns are mounted on swivels fore and aft, but are not displayed except under unusual circumstances. 
                                                                                         Optional weaponry: 2 x M1919 0.30 machinegun (bow and stern)                                                |
 
-Marine vehicles
+### Aircraft
 
-| VEHICLE               | SIZE | HANDLING | TOP SPEED (MPH) | TYPICAL TOUGHNESS | CREW | NOTES                                                                                   |
-|-----------------------|------|----------|-----------------|-------------------|------|-----------------------------------------------------------------------------------------|
+| VEHICLE  | SIZE | HANDLING | TOP SPEED (MPH) | TYPICAL TOUGHNESS | CREW | NOTES  |
+|---|---|---|---|---|---|---|
 | Experimental airplane | 4    | +0       | 120             | 11 (2)            | 1 +3 | Listed as speed 50/200 in DToA. 2 x 13 mm MG (range 30/60/20, damage 2d10, ROF 3, AP 2) |
 
-Aircraft
+
 
 ## Adventures and Chases
 
 | Adventure                          | Act | Scene | Maneuvering | Chase Type                                  |
-|------------------------------------|-----|-------|-------------|---------------------------------------------|
+|---|---|---|---|---|
 | The Tale Of The Fabulous Four      | 1   | 2     | Athletics   | Chase with obstacles                        |
 | The Tale Of The Fabulous Four      | 2   | 2     | Athletics   | Standard chase                              |
 | The Tale Of The Fabulous Four      | 3   | 2     | Athletics   | Standard chase with obstacles (variation)   |
@@ -123,10 +128,10 @@ Aircraft
 | The Muramasa Curse                 | 4   | 3     | Athletics   | Chase with obstacles (variation)            |
 | Empire of the Black Pharaoh        | 1   | 4     | Driving     | Chase with obstacles                        |
 
-Chases
+## Scenarios in chronological order
 
 | Scenario Name                      | Book         | Order in Compendium | Chronological Order |
-|------------------------------------|--------------|---------------------|---------------------|
+|---|---|---|---|
 | The Tale Of The Fabulous Four      | N/A          | Not in compendium   | 1                   |
 | Rocket Nazis On The Orient Express | N/A          | Not in compendium   | 2                   |
 | To End All Wars                    | Compendium 1 | 1                   | 3                   |
@@ -147,9 +152,10 @@ Chases
 | The Muramasa Curse                 | Compendium 4 | 3                   | 18                  |
 | Empire of the Black Pharaoh        | Compendium 4 | 4                   | 19                  |
 
-
+<a name="fn1"></a>
 [1] See "Daring Tales of Adventure - The Devil’s Chalice", Act 1, Scene 2.
 
+<a name="fn2"></a>
 [2] See "Daring Tales of Adventure - The Talons of Lo-Peng", Act 2, Scene 3.
 
 <!--

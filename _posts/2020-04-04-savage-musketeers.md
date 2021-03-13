@@ -91,25 +91,26 @@ A social duel is an exchange of jests, barbed comments, overt or sliy insults, w
 The social duel rules are intended for use in social occasions, such as balls and dances; they are not used in standard combat.
 A social duel takes time and requires an audience to witness the exchange.
 
-<div class="caution">
+
 
 Be careful before you insult someone. Generally speaking, avoid insulting high status individuals or other luminaries unless you’re pretty sure you can win (or deal with the repercussions). See [Social dueling results](#results).
 
-</div>
+
 
 Social dueling works much like the Social Conflict rules (SWADE p 143) except that Taunt is used instead of Persuasion.
 
 Another character can provide a Support roll but, if the duel is lost, that supporting character suffers the same penalties as the character who initiates the social duel.
 
-<div class="note">
+
 
 Not every NPC has Taunt. For the purpose of social dueling only, every NPC should be considered to have Taunt d4 unless he has a higher die listed—even the crudest peasant knows how to deliver a witty double entendre, throw an insult, or just deliver a defamatory statement in social situations.
 
-</div>
+
 
 ### Social dueling results
 
-This replaces the Social Conflict Results table in the SWADE core rules.
+This section's content replaces the Social Conflict Results table in the SWADE core rules.
+
 Losers of a social duel suffer from a loss of esteem and respect.
 The penalties are removed at the rate of one point per week.
 Word spreads quickly around the realm.
@@ -118,11 +119,11 @@ Alternately, the loser can demand a duel of blades or pistols. Should he win, th
 While the character is suffering a social penalty, he will not be the target of social duels—a damaged reputation cannot be further harmed until it is repaired.
 He may, if he so chooses, instigate social duels, though.
 
-| Margin | Result                                                                                                                                                                                                            |
-|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Margin | Result |
+|---|---|
 | Tie    | There is no clear winner. Both parties have slandered each other, but the insults have not damaged their reputations. Neither feels the need to pursue the matter further, at least not until their next meeting. |
 | 1-2    | The loser’s honor and reputation are besmirched, but only temporarily. He suffers a –1 penalty to Intimidation, Persuasion, and Taunt rolls.                                                                      |
 | 3-4    | A stinging remark has left a deep wound on the loser’s reputation. He suffers a –2 penalty to Intimidation, Persuasion, and Taunt roll.                                                                           |
 | 5+     | The target’s honor is not only tarnished, it is hemorrhaging! He suffers a –4 penalty to Intimidation, Persuasion, and Taunt rolls.                                                                               |
 
-How else might a character repair his reputation? You can count the ways!
+<!-- How else might a character repair his reputation? You can count the ways! -->

@@ -14,21 +14,19 @@ Pirating RPG content is just plain douchey. Most folks making tabletop RPG produ
 The Rocketeers are an elite unit. Training is tough and few make the cut.
 Rocketeers are typically recruited from the army, but anyone with the right aptitude can apply.
 
-Attribute Requirements  
-Strength d6, Agility d6, Vigor d6
 
-Skill Requirements  
-Piloting d8, Repair d4, Athletics d6
 
-Useful Edges  
-Ace, Steady Hands
+**Attribute Requirements**: Strength d6, Agility d6, Vigor d6
 
-Additional Gear  
-Rocket pack, Rocketeer helmet, Rocketeer flight suit, molecular sword
+**Skill Requirements**: Piloting d8, Repair d4, Athletics d6
+
+**Useful Edges**: Ace, Steady Hands
+
+**Additional Gear**: Rocket pack, Rocketeer helmet, Rocketeer flight suit, molecular sword
 
 ### Gear
 
-Helmet  
+**Helmet**  
 Made of a light-weight, durable alloy, these
 bucket helms are fitted with a fin. The fin acts a rudder,
 allowing the Rocketeer to turn at high speeds.
@@ -37,25 +35,28 @@ radio transmitter and receiver. It has a range of just 200
 yards, distance enough to let the unit talk while in flight
 without having to remove their helmets and shout.
 
-Flight Suit  
+**Flight Suit**  
 Made up of heavy boots, a flying jacket, and lightweight canvas pants, the flying suit is treated with a special fireproof liquid to prevent accidents.
 
-Rocket Pack  
+**Rocket Pack**  
 Revolutionary in their design, rocket packs are made up of the same alloy used in the Rocketeers' helmets.
 Fins are fitted to the top and sides to aid in maneuvering. The fuel tank takes up most of the pack.
 
-Molecular sword  
+**Molecular sword**   
 See SWADE p72.
 
-| Item                  | Armor | Min Str | Weight | Cost           | Notes                                                                                  |
-|-----------------------|-------|---------|--------|----------------|----------------------------------------------------------------------------------------|
+
+
+#### Armor
+
+| Item  | Armor | Min Str | Weight | Cost | Notes
+| --- | --- | --- | --- | --- |                                 |
 | Rocketeer Helmet      | 3     | d4      | 3      | Military issue | Covers the head fully. Without a helmet, all Piloting rolls to maneuver are made at –2 |
 | Rocketeer Flight Suit | 1     | d4      | 7      | Military issue | Provides an additional +2 Armor to resist fire and +1 to Vigor rolls to resist heat    |
 
-Armor
+#### Equipment
 
 <table>
-<caption>Equipment</caption>
 <colgroup>
 <col style="width: 20%" />
 <col style="width: 20%" />
@@ -86,13 +87,12 @@ Armor
 </tbody>
 </table>
 
-Equipment
-
+<!-- 
 | Type            | Damage   | Min Str | Weight | Cost | Notes |
 |-----------------|----------|---------|--------|------|-------|
 | Molecular Sword | Str+d8+2 | d6      | 2      | 500  | AP 4  |
+--->
 
-Melee weapons
 
 ## Rocket Pack Rules
 
