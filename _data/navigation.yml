@@ -1,0 +1,28 @@
+  
+#- title: about
+#  url: /about
+
+- title: Rippers for SWADE
+  url: /RR
+
+- title: Hap and Leonard
+  url: /Hap_Leonard
+
+- title: Classic Pulp Heroics
+  url: /pulp_classic
+
+- title: Roll20 for Savage Worlds
+  url: /roll20_sawo
+
+- title: Roll20 macros for SaWo
+  url: /roll20_macros_sawo
+
+- title: SaWo on Roll20 VTT
+  url: /sawo_vtt  
+
+   
+- title: github
+  url: https://github.com/RoxvilleRooster/RoxvilleRooster.github.io
+
+- title: twitter
+  url: https://twitter.com/RoxvilleRooster

@@ -1,6 +1,7 @@
 ---
 title: Rippers Resurrected campaign setting rules
 layout: page
+permalink: /RR/
 ---
 
 

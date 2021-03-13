@@ -1,6 +1,7 @@
 ---
 title: Roll20 macros for Savage Worlds
 layout: page
+permalink: /roll20_macros_sawo/
 ---
 
 <!--

@@ -1,6 +1,7 @@
 ---
 title: Savaging Hap and Leonard
 layout: page
+permalink: /Hap_Leonard/
 ---
 
 # Adapting Joe R. Lansdale's Hap and Leonard for the Savage Worlds RPG

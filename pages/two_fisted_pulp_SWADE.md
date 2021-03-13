@@ -1,6 +1,7 @@
 ---
 title: Classic Pulp Heroics
 layout: page
+permalink: /pulp_classic/
 ---
 
 This is an effort to take the setting rules from several older Savage Worlds products and adapt them to *Savage Worlds Adventure Edition* (SWADE) games. The goal is to make the scenarios of the *Daring Tales of Adventure* series more usable for SWADE game masters and players.

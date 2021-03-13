@@ -1,6 +1,7 @@
 ---
 title: Savage Worlds on Roll20 VTT
 layout: page
+permalink: /sawo_vtt/
 ---
 
 ## Short VTT sessions and benny refresh

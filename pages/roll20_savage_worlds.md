@@ -1,6 +1,7 @@
 ---
 title: Roll20 for Savage Worlds
 layout: page
+permalink: /roll20_sawo/
 ---
 
 # Character sheets and tokens
