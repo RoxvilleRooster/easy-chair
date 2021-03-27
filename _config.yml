@@ -28,7 +28,7 @@ twitter_username: RoxvilleRooster
 github_username:  RoxvilleRooster
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 # theme: clean-jekyll-theme
 plugins:
   - jekyll-feed
