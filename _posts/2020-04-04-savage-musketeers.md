@@ -93,7 +93,7 @@ A social duel takes time and requires an audience to witness the exchange.
 
 
 
-Be careful before you insult someone. Generally speaking, avoid insulting high status individuals or other luminaries unless you’re pretty sure you can win (or deal with the repercussions). See [Social dueling results](#results).
+Be careful before you insult someone. Generally speaking, avoid insulting high status individuals or other luminaries unless you’re pretty sure you can win (or deal with the repercussions). See [Social dueling results](#social_duel_results).
 
 
 
@@ -106,8 +106,7 @@ Another character can provide a Support roll but, if the duel is lost, that supp
 Not every NPC has Taunt. For the purpose of social dueling only, every NPC should be considered to have Taunt d4 unless he has a higher die listed—even the crudest peasant knows how to deliver a witty double entendre, throw an insult, or just deliver a defamatory statement in social situations.
 
 
-
-### Social dueling results
+### <a name="social_duel_results"> Social dueling results
 
 This section's content replaces the Social Conflict Results table in the SWADE core rules.
 
