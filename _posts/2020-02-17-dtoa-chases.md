@@ -57,8 +57,7 @@ The vehicles listed here are from the era of the 1930s.
 | jon boat or air boat | 3    | +1       | 10              | 8 (1)             | 1+5   |                                                                                                            |
 | air boat             | 3    | +1       | 15              | 8 (1)             | 1+5   | For use in shallow conditions.                                                                             |
 | motorboat            | 4    | +1       | 30              | 12 (2)            | 1+5   |                                                                                                            |
-| yacht, motorized     | 10   | -1       | 25              | 15 (3)            | 10+10 | Machineguns are mounted on swivels fore and aft, but are not displayed except under unusual circumstances. 
-                                                                                        Optional weaponry: 2 x M1919 0.30 machinegun (bow and stern)                                                |
+| yacht, motorized     | 10   | -1       | 25              | 15 (3)            | 10+10 | Machineguns are mounted on swivels fore and aft, but are not displayed except under unusual circumstances.  Optional weaponry: 2 x M1919 0.30 machinegun (bow and stern) |
 
 ### Aircraft
 
