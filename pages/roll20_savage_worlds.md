@@ -73,8 +73,12 @@ Click **Collection** (![Collection](/images/roll20/collection.PNG "Collection"))
 Next to all the visible macros, check **In Bar** and then check **Show macro quick bar**.
 -->
 
+
+
+
 ### References
 
+* [Game expectations]({% link pages/expectations.md %})
 <!-- * Jerrod Gunning's *Savage Daddy's Roll20 Player's Guide* -->
 * [Roll20 macros for Savage Worlds](../roll20_macros_sawo) 
 * [Savage Worlds](https://wiki.roll20.net/Savage_Worlds)
