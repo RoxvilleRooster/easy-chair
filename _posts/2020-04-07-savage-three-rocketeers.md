@@ -103,11 +103,9 @@ a special compound known as *Element X*. Without
 this highly secret element the packs do not produce
 enough thrust to lift a man off the ground, yet alone fly
 around for extended periods.
-A fully fuelled rocket pack has 20 units of fuel. Each player needs to track these using a counter.
+A fully fueled rocket pack has 20 units of fuel. Each player needs to track these using a counter.
 Each round a pack is used for movement or to hover in place, one unit of fuel is expended.
-It makes no difference how far a hero moves — the motors are more efficient at higher speeds, hence moving the regular Chase [speed](#speed)
-burns the
-same fuel as moving on the tabletop, despite the former being considerably faster.
+It makes no difference how far a hero moves — the motors are more efficient at higher speeds, hence moving the regular Chase speed burns the same fuel as moving on the tabletop, despite the former being considerably faster.
 A character with an active rocket pack who lands at the very beginning of his turn, before taking any other actions, does not burn a point of fuel.
 Rocket packs have no gliding capability — when the pack runs out of fuel, the hero falls from the sky.
 
@@ -117,9 +115,9 @@ During the course of an adventure, the Rocketeer may be required to travel great
 In order to keep fuel use practical and easy to handle, assume the packs use one point of fuel per 50 miles
 (by flying at high altitude and switching down the motors).
 
-#### Refuelling
+#### Refueling
 
-Unless the Rocketeers can get to the correct source of fuel, there is no hope of refuelling a rocket pack during a mission.
+Unless the Rocketeers can get to the correct source of fuel, there is no hope of refueling a rocket pack during a mission.
 
 ### Rocket pack safety
 
@@ -213,7 +211,7 @@ However, poor visibility, high winds, trying to land in a cluttered area, and so
 
 ### Tinkering with a rocket pack
 
-Sooner or later, someone wil try to tinker with the rocket pack.
+Sooner or later, someone will try to tinker with the rocket pack.
 A character who makes a Repair roll at –2, and spends 30 minutes, at work can tweak his rocket pack to perform better.
 Only one roll per pack is allowed per mission.
 
@@ -237,7 +235,7 @@ The tampering has done more harm than good. Speeds are immediately halved.
 Repairing the self-induced malfunction requires suitable tools, an hour, and a Repair roll at –2.
 If the Repair roll fails, the malfunction cannot be repaired in the field.
 
-### Rocket pack security
+### <a name="security"> Rocket pack security
 
 Rocket packs are a top secret piece of equipment highly prized by enemy nations and bad actors.
 To ensure they don’t fall into enemy hands, they are equipped with a self-destruct mechanism.
