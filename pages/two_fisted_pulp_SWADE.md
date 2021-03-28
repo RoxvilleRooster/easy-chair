@@ -1,5 +1,5 @@
 ---
-title: Classic Pulp Heroics
+title: Classic Pulp
 layout: page
 permalink: /pulp_classic/
 ---
