@@ -30,6 +30,8 @@ Savage Worlds Adventure Edition has a number of setting rules that are perfect f
 
 -   Wound Cap (SWADE p 141)
 
+This setting also uses the Wealth rules (SWADE p 145) and extends them using the https://www.drivethrurpg.com/product/269971/Expanded-Wealth[Expanded Wealth] rules from Donovan Bailey.
+
 ### Special setting rules
 
 The following rules and directions further tune the setting for a classic pulp action game.
@@ -146,7 +148,7 @@ Suggested Skills
 Battle, Fighting, Intimidation, Notice, Persuasion, Shooting
 
 Suggested Edges  
-Command, Natural Leader
+Command, Natural Leader, Command Presence, Hold the Line, Inspire, Tactician
 
 Suggested Hindrances  
 Loyal, Code of Honor
@@ -300,11 +302,8 @@ Suggested Skills
 Athletics, Battle, Fighting, Intimidation, Notice, Riding, Shooting, Stealth
 
 Suggested Edges  
-Enlisted  
-Combat Reflexes, Dodge, Marksman, Rock and Roll, Soldier, Steady Hands
-
-Officer  
-Command, Command Presence, Hold the Line, Inspire, Natural Leader, Tactician
+* **Enlisted** - Combat Reflexes, Dodge, Marksman, Rock and Roll, Soldier, Steady Hands
+* **Officer** - Command, Command Presence, Hold the Line, Inspire, Natural Leader, Tactician
 
 Suggested Hindrances  
 Greedy, Loyal
