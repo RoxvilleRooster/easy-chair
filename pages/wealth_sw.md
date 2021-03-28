@@ -1,5 +1,5 @@
 ---
-title: Wealth
+title: Wealth Rules
 layout: page
 permalink: /wealth_sawo/
 ---
