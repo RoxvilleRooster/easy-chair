@@ -30,7 +30,7 @@ Savage Worlds Adventure Edition has a number of setting rules that are perfect f
 
 -   Wound Cap (SWADE p 141)
 
-This setting also uses the Wealth rules (SWADE p 145) and extends them using the https://www.drivethrurpg.com/product/269971/Expanded-Wealth[Expanded Wealth] rules from Donovan Bailey.
+This setting also uses the Wealth rules (SWADE p 145) and extends them using the [Expanded Wealth](https://www.drivethrurpg.com/product/269971/Expanded-Wealth) rules from Donovan Bailey. For how I apply the wealth rules in Savage Worlds games, see [Wealth]({% link pages/wealth_sw.md %}).
 
 ### Special setting rules
 
