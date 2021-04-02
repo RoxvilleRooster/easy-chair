@@ -26,6 +26,6 @@ In addition _Savage Worlds Adventure Edition_ (2018), this document references t
 
 
 
-include::pulp_creating_characters.adoc[]
+include::DTOA_chargen.adoc[]
 
-include::two_fisted_pulp_SWADE.adoc[]
+include::DTOA_setting_rules.adoc[]
