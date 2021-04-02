@@ -1,11 +1,5 @@
 
-= Setting Rules for Pulp Adventure Heroes
-:docdatetime:
-:toc: left
-:toclevels: 4
-:experimental:
-:sectlinks:
-:sectanchors:
+== Setting Rules for Pulp Adventure Heroes
 
 // Classic Two-Fisted Pulp Adventures Using _Savage Worlds Adventure Edition_
 ****
@@ -19,7 +13,7 @@ This is an effort to take the setting rules from several older Savage Worlds pro
 
 Typically, a "Daring Tales of Adventure" scenario was divided into 3 or 4 acts; each act usually consists of 3 or 4 scenes.
 ////
-== Standard settings rules
+=== Standard settings rules
 
 Savage Worlds Adventure Edition has a number of setting rules that are perfect for running a two-fisted pulp game.
 
@@ -42,7 +36,7 @@ I thought of adding the Wound Cap setting rule (SWADE p 141) but I figured that,
 ****
 ////
 
-== Special setting rules
+=== Special setting rules
 
 The following rules and directions further tune the setting for a classic pulp action game.
 
@@ -53,7 +47,7 @@ The following rules and directions further tune the setting for a classic pulp a
 Before the start of every combat, each hero gets a benny, provided that the benny does not exceed the character's amount of bennies at the session's start. A typical wild card hero has 3 bennies at session start, unless the hero as edges or hindrances that affect starting bennies.
 ////
 
-=== Be the Hero
+==== Be the Hero
 
 The protagonists are heroes.
 Play them that way.
@@ -69,7 +63,7 @@ TIP: The GM should warn the player about this rule and the consequences of the a
 When a hero soaks all of the damage from an attack, she gets her benny back.
 ////
 
-=== Stunts
+==== Stunts
 // From Adamant Entertainment's "Thrilling Tales of Adventure"
 
 A stunt action is any action that is performed in a flashier than normal way.
@@ -85,14 +79,14 @@ Getting on board an airship before it lifts off from the platform is an action
 Stunt action::
 Leaping from the sidecar of a speeding motorcycle onto an airship at the last second as it lifts off from the platform.
 
-=== Surrender
+==== Surrender
 
 When the heroes surrender at a dramatically fitting place in the story and go along with the demands of the antagonists, each heroes takes a benny.
 
-=== Pay It Forward
+==== Pay It Forward
 When a Wild Card gets more than one raise on any Trait roll (including Soak rolls), they receive a Benny as a way to pay their luck forward.
 
-=== Cinematic Death
+==== Cinematic Death
 In a pulp game, death is not gory and messy.
 
 ////
@@ -138,7 +132,7 @@ Heroes recover 1 wound at the start of an "Act". See <<_acts_and_scenes>>.
 Heroes do not suffer a permanent injury. When the wounds from the injury heals, the hero no longer suffers the effect of the injury.
 ////
 
-=== Never-Ending Ammo
+==== Never-Ending Ammo
 
 At the end of the scene, heroes recover all spent ammunition.
 // At the end of the scene, heroes recover all spent Power Points.
@@ -160,7 +154,7 @@ The GM can also spend a benny to guarantee a villain's escape. The escaping vill
 The "Recurring villains" setting rules are a bit _too_ much. Do not get too committed to the survival of a villain. Make some allowance for the heroes to kill them off.
 ////
 
-=== Police Interference
+==== Police Interference
 
 The cops do not turn up on the scene until after the action has ended.
 
