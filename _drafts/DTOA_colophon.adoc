@@ -4,13 +4,6 @@
 [colophon]
 == Colophon
 
-****
-This document is an effort to take the setting rules from several older Savage Worlds products and adapt them to _Savage Worlds Adventure Edition_ (SWADE) games. 
-The goal is to make the scenarios of the  _Daring Tales of Adventure_ series more usable for SWADE game masters and players.
-****
-
-== References
-
 In addition _Savage Worlds Adventure Edition_ (2018), this document references the following books:
 
 * _Daring Tales of Adventure: Pulp Rules_ (2008, Paul "Wiggy" Wade-Williams, Triple Ace Games)

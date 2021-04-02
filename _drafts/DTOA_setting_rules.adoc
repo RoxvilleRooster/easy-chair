@@ -1,6 +1,5 @@
 
-== Setting Rules for Pulp Adventure Heroes
-
+== Setting Rules
 // Classic Two-Fisted Pulp Adventures Using _Savage Worlds Adventure Edition_
 ****
 This is an effort to take the setting rules from several older Savage Worlds products and adapt them to _Savage Worlds Adventure Edition_ (SWADE) games. 
@@ -13,7 +12,7 @@ This is an effort to take the setting rules from several older Savage Worlds pro
 
 Typically, a "Daring Tales of Adventure" scenario was divided into 3 or 4 acts; each act usually consists of 3 or 4 scenes.
 ////
-=== Standard settings rules
+=== Standard Setting Rules
 
 Savage Worlds Adventure Edition has a number of setting rules that are perfect for running a two-fisted pulp game.
 
@@ -36,7 +35,7 @@ I thought of adding the Wound Cap setting rule (SWADE p 141) but I figured that,
 ****
 ////
 
-=== Special setting rules
+=== Special Setting Rules
 
 The following rules and directions further tune the setting for a classic pulp action game.
 

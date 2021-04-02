@@ -1,10 +1,51 @@
 
 :dtoa: Daring Tales of Adventure 
 
+== About
 
-== {dtoa}} 
+This document is an effort to take the setting rules from several older Savage Worlds products and adapt them to _Savage Worlds Adventure Edition_ (SWADE) games. 
+The goal is to make the scenarios of the  _Daring Tales of Adventure_ series more usable for SWADE game masters and players.
 
-****
-The {dtoa} series of Savage Worlds scenarios are available on https://www.drivethrurpg.com/[DriveThruRPG] and at better gaming stores everywhere.
+The _{dtoa}_ series of Savage Worlds scenarios are available on https://www.drivethrurpg.com/[DriveThruRPG] and at better gaming stores everywhere.
 The series was published by http://www.tripleacegames.com/category/daring-tales-of-adventure/[Triple Ace Games] and Paul "Wiggy" Wade-Williams is the mastermind behind the series.
+
+
+=== Playing Pulp Adventures
+
+The players, the GM included, are trying to mimic pulp action films.
+The heroes are _virtually_ immortal; they perform daring deeds and take extreme risks. 
+
+
+=== Players and {dtoa}
+
+The adventures in the series are geared toward pre-generated four heroes:
+
+Brent Hardcastle:: The brash pilot and "leading man" http://tripleacegames.com/Downloads/DaringTales/DToA_Brent%20Hardcastle.pdf[PDF]
+Lady Amelia "Duchess" Valentine:: The aristocratic action heroine http://tripleacegames.com/Downloads/DaringTales/DToA_Lady%20Amelia%20Duchess%20Valentine.pdf[PDF]
+Jimmy Patterson:: The resourceful punk kid http://tripleacegames.com/Downloads/DaringTales/DToA_Jimmy%20Patterson.pdf[PDF]
+Doctor Nathaniel "Doc" Davenport:: The eccentric inventor http://tripleacegames.com/Downloads/DaringTales/DToA_Doctor%20Nathaniel%20Doc%20Davenport.pdf[PDF]
+
+These characters were created for an earlier version of Savage Worlds.
+Each hero's advances are mapped out in the characters sheet. 
+The scenarios in the {dtoa} series are tied to the number of experience level of the pre-generated heroes.  
+
+IMPORTANT: Players do not have to use the pre-generated heroes.
+Make up your own pulp action heroes and make them your own.
+
+A GM can work around the heroes not using the pre-generated heroes.
+When running these games, it is helpful if the heroes who are engaged in the adventure have most of the abilities of the pre-generated heroes.
+For example, there are many scenarios where the Piloting or Driving skills gets special focus. 
+
+The {dtoa} scenarios do not lend themselves to a drop-in and drop-out type of game unless, on each drop-in, the heroes play the pre-generated heroes.
+
+If you have more than four players, you may have more flexibility with respect to ability coverage, but there are other challenges.
+More players can slow down game play and you want to keep the pace of game-play fairly quick. 
+
+If you have fewer than four players, you may want to "beef up" the heroes (e.g., with a few more _advances_) to fill in for any missing abilities or competencies.
+
+.Player Attendance
+****
+Players must commit to attend each session of a scenario.
+Don't ask for a longer commitment.
+A {dtoa} scenario typically runs for 3-4 sessions of 2.5-3 hours.
 ****

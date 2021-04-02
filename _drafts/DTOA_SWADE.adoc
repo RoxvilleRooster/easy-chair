@@ -6,8 +6,8 @@
 
 include::DTOA_intro.adoc[]
 
-include::DTOA_chargen.adoc[]
-
 include::DTOA_setting_rules.adoc[]
+
+include::DTOA_chargen.adoc[]
 
 include::DTOA_colophon.adoc[]

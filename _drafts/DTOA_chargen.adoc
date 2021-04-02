@@ -17,6 +17,9 @@ Heroes are humans.
 
 === Skills
 
+Pulp heroes are more capable than most. 
+At character creation, they start with 15 skill points.
+
 ==== Changed Skills
 
 * Electronics is reskinned as Gadgetry
@@ -69,7 +72,7 @@ Let's focus on fists, bullets, and car chases and leave the superhuman and super
 ** Mentalist (SWADE p 46)
 ** Wizard (SWADE p 47)
 
-.Men of Mystery and Street-Level Superheroes
+.Men of mystery and street-level superheroes
 ****
 If we were to build heroes such as the _The Shadow_ and _Doc Savage_, we'd likely be using the Arcane Backgrounds of Gifted or Psionics.  
 In this campaign, we are focusing on a low-powered, classic pulp adventure game _a la_ the Indiana Jones movies or the Mummy series.
