@@ -4,6 +4,9 @@
 [colophon]
 == Colophon
 
+This document is not intended for wide distribution.
+It is intended for players and prospective players.
+
 In addition _Savage Worlds Adventure Edition_ (2018), this document references the following books:
 
 * _Daring Tales of Adventure: Pulp Rules_ (2008, Paul "Wiggy" Wade-Williams, Triple Ace Games)

@@ -50,7 +50,7 @@ Before the start of every combat, each hero gets a benny, provided that the benn
 
 The protagonists are heroes.
 Play them that way.
-If a protagonist commits an evil, villainous, or morally ambiguous act, they lose a benny.
+If a protagonist commits an evil, villainous, or morally ambiguous act, he loses a benny.
 This benny loss reduces the protagonist's benny maximum until the start of the next session.
 For example, if the hero typically starts a session with 3 bennies, her benny limit would then be reduced to 2 for the duration of the session.
 

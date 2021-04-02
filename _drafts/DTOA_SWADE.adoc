@@ -1,8 +1,12 @@
-= Classic Pulp Adventure Heroes
-:docdatetime:
-:toc: left
-:toclevels: 5
+= Two-Fisted Heroes and Classic Pulp Adventure
+Andy Hall <achall@gmail.com>
+:toc: macro
 :experimental:
+
+[.text-center]
+By {firstname} {lastname} 
+
+toc::[]
 
 include::DTOA_intro.adoc[]
 
