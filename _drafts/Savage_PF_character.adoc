@@ -6,7 +6,8 @@
 Name:: Phineas Badgerfoot
 Concept:: Explorer and warren defender
 Ancestry:: Gnome
-Patron Deity:: Garl Glittergold 
+Patron Deity:: Erastil
+// Garl Glittergold 
 Alignment:: Good
 
 Languages:: Common, Gnome, and Sylvan.
