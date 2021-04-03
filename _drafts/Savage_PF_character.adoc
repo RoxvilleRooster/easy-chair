@@ -91,16 +91,17 @@ At {chargen}
 == Hindrances
 
 Major:: Curious
-Minor:: Driven (Became a famous explorer like his Aunty Anchee)
+Minor:: Driven (Become a famous explorer like his Aunty Anchee)
 Minor:: Phobia (ophidiophobia - fear of snakes)
 
 == Edges
 
-Ranger:: (Favored Enemy—Humanoid, Favored Terrain—Underground)
+Ranger:: (Favored Enemy - Humanoid, Favored Terrain - Underground)
 Extraction:: When moving away from adjacent foes, one of them (player’s choice), doesn’t get his free Fighting attack.
 
 
-== Ancestry Special Abilities
+.Ancestry Special Abilities
+****
 GNOME MAGIC:: 
 Gnomes can cast cantrips (see page 173) as if they knew each of the following powers: light, sound, telekinesis, and beast friend using their Smarts (or arcane skill if they have one). 
 They have 1 Power Point for activating these cantrips, regained as usual (see page 171). 
@@ -117,28 +118,36 @@ Decrease the character’s Pace by 1 and reduce their running die by one die typ
 SIZE −1:: 
 Averaging roughly three and a half feet tall, gnomes reduce their Size and Toughness by 1.
 TOUGH:: 
-Gnomes are surprisingly hardy despite their size and strength.
-They start with a d6 in Vigor instead of a d4. This increases maximum Vigor to d12 + 1.
+Gnomes start with a d6 in Vigor instead of a d4. 
+This increases maximum Vigor to d12 + 1.
+****
 
-
-== Class Special Abilities
-ARMOR RESTRICTION (Medium): Rangers are agile and mobile fighters and scouts.
-They subtract 4 from Agility and Agility-based skill rolls when wearing heavy armor or using a heavy shield.
-FAVORED ENEMY: Rangers study their foes, learning their ways, how to find them, and how to defeat them. 
-Choose a type of enemy from the list on page 244. 
+.Class Special Abilities
+****
+ARMOR RESTRICTION (Medium):: 
+// Rangers are agile and mobile fighters and scouts.
+Rangers subtract 4 from Agility and Agility-based skill rolls when wearing heavy armor or using a heavy shield.
+FAVORED ENEMY:: 
+// Rangers study their foes, learning their ways, how to find them, and how to defeat them. 
+// Choose a type of enemy from the list on page 244. 
 * Humanoid
++ 
 The ranger gets one free reroll when failing to track (Survival) or attack (Athletics, Fighting, Shooting) that type of being.
-FAVORED TERRAIN: Choose a terrain type (Arctic, Desert, Forest, Jungle, Plains, Hills/Mountains, Rivers/Seas, Swamp, Urban,
-or Underground). 
-* Underground
+FAVORED TERRAIN:: 
+// Choose a terrain type (Arctic, Desert, Forest, Jungle, Plains, Hills/Mountains, Rivers/Seas, Swamp, Urban, or Underground). 
+* Underground  
++ 
 The ranger draws an additional Action Card for initiative when in his Favored Terrain.
-WILDERNESS STRIDE: Rangers pass through rough terrain such as dense forest, rocky hills, or desert sands with ease. 
-They ignore movement penalties for Difficult Ground (see page 126).
-
-
-GP: 300
+WILDERNESS STRIDE:: 
+// Rangers pass through rough terrain such as dense forest, rocky hills, or desert sands with ease. 
+Rangers ignore movement penalties for Difficult Ground (see page 126).
+****
 
 == Gear
+
+
+Starting wealth:: 300 GP
+Current Wealth:: 300-111=189   
 
 .Tally
 |===
