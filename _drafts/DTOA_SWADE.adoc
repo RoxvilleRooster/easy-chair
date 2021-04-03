@@ -14,4 +14,6 @@ include::DTOA_setting_rules.adoc[]
 
 include::DTOA_chargen.adoc[]
 
+include::DTOA_stuff.adoc[]
+
 include::DTOA_colophon.adoc[]
