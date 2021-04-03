@@ -19,11 +19,11 @@ Eyes:: Gold
 [cols="1,1,3",options="header"]
 |===
 | Statistic | Value | History
-| Ag | d8 | +1d ({chargen}) +1d (hindrance character point)
-| Sm | d6 | +1d ({chargen})
-| St | d6 | +1d ({chargen})
-| Sp | d6 | +1d ({chargen})
-| Vg | d8 | +1d (racial) + +1d ({chargen})
+| Agility | d8 | +1d ({chargen}) +1d (hindrance character point)
+| Smarts | d6 | +1d ({chargen})
+| Strength | d6 | +1d ({chargen})
+| Spirit | d6 | +1d ({chargen})
+| Vigor | d8 | +1d (racial) + +1d ({chargen})
 |===
 
 
