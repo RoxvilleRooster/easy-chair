@@ -19,8 +19,8 @@ Eyes:: Gold
 |===
 | Statistic | Value | History
 | Ag | d8 | +1d ({chargen}) +1d (hindrance character point)
-| Sm | d8 |  +2d ({chargen})
-| St | d4 |
+| Sm | d6 | +1d ({chargen})
+| St | d6 | +1d ({chargen})
 | Sp | d6 | +1d ({chargen})
 | Vg | d8 | +1d (racial) + +1d ({chargen})
 |===
@@ -31,9 +31,11 @@ Attribute assignments:
 
 Chargen:
 +1d Agility
-+2d Smarts
++1d Smarts
 +1d Spirit
++1d Strength
 +1d Vigor
+
 
 Hindrances:
 +1d Agility (1 character point)
@@ -65,6 +67,7 @@ Hindrances:
 | Shooting | d8 | 3d ({chargen})
 | Taunt | d4 | 1d ({chargen})
 | Thievery | d4 | d4 (racial)
+| Survival | d6 | 2d ({chargen})
 |===
 
 
@@ -98,9 +101,9 @@ Extraction:: When moving away from adjacent foes, one of them (player’s choice
 
 == Ancestry Special Abilities
 GNOME MAGIC:: 
-Gnomes can cast cantrips (see page 173) as if they knew each of the following powers: light, sound, telekinesis, and beast friend using their Smarts (or arcane skill if they have
-one). 
-They have 1 Power Point for activating these cantrips, regained as usual (see page 171). Gnomes with an Arcane Background add their bonus Power Point to their pool but
+Gnomes can cast cantrips (see page 173) as if they knew each of the following powers: light, sound, telekinesis, and beast friend using their Smarts (or arcane skill if they have one). 
+They have 1 Power Point for activating these cantrips, regained as usual (see page 171). 
+Gnomes with an Arcane Background add their bonus Power Point to their pool but
 must still learn the spells if they wish to cast them normally.
 LOW LIGHT VISION:: 
 Gnome eyes amplify light. They ignore penalties for Dim and Dark Illumination.
@@ -133,3 +136,76 @@ They ignore movement penalties for Difficult Ground (see page 126).
 
 
 GP: 300
+
+== Gear
+
+.Tally
+|===
+| Item | Cost | Weight
+| 4x Daggers | 8 | 4
+| 1 Hand Axe | 6 | 3
+| Light Crossbow | 35 | 5
+| 20 bolts | 2 | 2
+| Leather armor (torso, arms, legs) | 40 | 19
+| Light shield | 5 | 4
+| 2 x Caltrops | 4 | 2
+|===
+
+.Gear
+[cols="2,1,1,3",options="header"]
+|===
+| Item | Weight | Cost | Notes
+| Backpack (empty) | 2 | 2 |
+| Bedroll | 1 sp | 5 | 
+| Case, map or scroll | 1 | 1/2 | 
+| Flint and Steel | 1 | 1 |
+| Pouch, belt | 1 | — | 
+// | Spike (piton) | 1 sp | 1/2 |
+| Waterskin (weight is filled) | 1 | 4 | 
+| Whetstone | 2 cp | 1 | 
+| Caltrops | 1 | 2 | 
+One batch covers a Small Blast Template, two a Medium, and three a Large. 
+Counts as Difficult Ground; anyone moving through the area must make an Athletics roll or be Shaken.
+A Critical Failure causes a Wound to the feet (–2 Pace until healed).
+|===
+
+
+.Armor
+[cols="3,1,1,1,1",options="header"]
+|===
+| Item | Armor | Min Str. | Weight | Cost 
+| Tunic or Jacket (torso, arms) | +2 | d6 | 11 | 20
+| Leggings (legs) | +2 | d6 | 8 | 20
+| Light Shield | +1 | d6 | 4 | 5
+// | Shield spike | | | 5 | 20
+|===
+
+
+
+.Ranged weapons
+[cols="",options="header"]
+|===
+| Type | Range | Damage | AP | RoF | Min Str. | Weight | Cost | Notes
+| Crossbow, Light | 10/20/40 | 2d6 | 2 | 1 | d6 | 5 | 35 | Reload 1. Hand-drawn.
+| Dagger/Knife | 3/6/12 | Str+d4 | — | 1 | d4 | 1 | 2 | 
+| Axe, Hand | 3/6/12 | Str+d6 | — | 1 | d6 | 3 | 6 | 
+// | Net (Weighted) | 3/6/12 | — | — | 1 | d4 | 8 | 20 | 
+// A successful hit means the target is Entangled (see page 132). 
+// The net is Hardness 10.
+|===
+
+.Melee weapons
+[cols="",options="header"]
+|===
+| Type | Damage |  Min Str. | Weight | Cost | Notes
+| Club, Light | Str+d4 | d4 | 2 | 1 | 
+| Axe, Hand | Str+d6 | d6 | 3 | 6 | 
+|===
+
+.Ammo
+[cols="",options="header"]
+|===
+| AMMUNITION | COST | WEIGHT | NOTES
+| Bolts (crossbows) | 1 gp/10 bolts | 1 lb/10 bolts | 
+Bolts for all types of crossbows. 
+|===
