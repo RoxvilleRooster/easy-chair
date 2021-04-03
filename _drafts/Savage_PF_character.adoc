@@ -1,0 +1,135 @@
+
+:chargen: character generation
+
+= Character Sheet
+
+Name:: Phineas Badgerfoot
+Concept:: Explorer and warren defender
+Ancestry:: Gnome
+Patron Deity:: Garl Glittergold 
+Alignment:: Good
+
+Languages:: Common, Gnome, and Sylvan.
+
+Hair:: Vermillion, cropped
+Eyes:: Gold
+
+.Primary Statistics
+[cols="1,1,3",options="header"]
+|===
+| Statistic | Value | History
+| Ag | d8 | +1d ({chargen}) +1d (hindrance character point)
+| Sm | d8 |  +2d ({chargen})
+| St | d4 |
+| Sp | d6 | +1d ({chargen})
+| Vg | d8 | +1d (racial) + +1d ({chargen})
+|===
+
+
+////
+Attribute assignments:
+
+Chargen:
++1d Agility
++2d Smarts
++1d Spirit
++1d Vigor
+
+Hindrances:
++1d Agility (1 character point)
+
+////
+
+.Derived Statistics
+[cols="1,1,3",options="header"]
+|===
+| Statistic | Value | Calculation
+| Pace | 5 |  6 - 1 (racial)
+| Parry | 5 | Fighting d6/2 
+| Toughness | 5 | Vigor d8/2 -1 (racial)
+| Size | -1 | -1 (racial)
+|===
+
+
+
+.Skills
+[cols="1,1,3",options="header"]
+|===
+| Statistic | Value | History
+| Athletics | d6 | d4 (core skill) + 1d ({chargen})
+| Common Knowledge | d4 | d4 (core skill)  
+| Notice | d6 |  d4 (core skill) + 1d ({chargen})
+| Persuasion | d4 | d4 (core skill)
+| Stealth | d8 | d4 (core skill) + 2d ({chargen})
+| Fighting | d6 | 2d ({chargen})
+| Shooting | d8 | 3d ({chargen})
+| Taunt | d4 | 1d ({chargen})
+| Thievery | d4 | d4 (racial)
+|===
+
+
+
+////
+Skill assignments:
+
+At {chargen}
++3d Shooting
++2d Survival
++2d Stealth
++2d Fighting
++1d Athletics
++1d Notice
++1d Taunt
+////
+
+
+
+== Hindrances
+
+Major:: Curious
+Minor:: Driven (Became a famous explorer like his Aunty Anchee)
+Minor:: Phobia (ophidiophobia - fear of snakes)
+
+== Edges
+
+Ranger:: (Favored Enemy—Humanoid, Favored Terrain—Underground)
+Extraction:: When moving away from adjacent foes, one of them (player’s choice), doesn’t get his free Fighting attack.
+
+
+== Ancestry Special Abilities
+GNOME MAGIC:: 
+Gnomes can cast cantrips (see page 173) as if they knew each of the following powers: light, sound, telekinesis, and beast friend using their Smarts (or arcane skill if they have
+one). 
+They have 1 Power Point for activating these cantrips, regained as usual (see page 171). Gnomes with an Arcane Background add their bonus Power Point to their pool but
+must still learn the spells if they wish to cast them normally.
+LOW LIGHT VISION:: 
+Gnome eyes amplify light. They ignore penalties for Dim and Dark Illumination.
+KEEN SENSES: Gnomes start with a d6 in Notice instead of a d4. This increases their maximum Notice to d12 + 1.
+OBSESSIVE:: 
+Gnomes start with a d4 in any one Smarts-related skill.
+* Thievery
+REDUCED PACE:: 
+Decrease the character’s Pace by 1 and reduce their running die by one die type.
+SIZE −1:: 
+Averaging roughly three and a half feet tall, gnomes reduce their Size and Toughness by 1.
+TOUGH:: 
+Gnomes are surprisingly hardy despite their size and strength.
+They start with a d6 in Vigor instead of a d4. This increases maximum Vigor to d12 + 1.
+
+
+== Class Special Abilities
+ARMOR RESTRICTION (Medium): Rangers are agile and mobile fighters and scouts.
+They subtract 4 from Agility and Agility-based skill rolls when wearing heavy armor or using a heavy shield.
+FAVORED ENEMY: Rangers study their foes, learning their ways, how to find them, and how to defeat them. 
+Choose a type of enemy from the list on page 244. 
+* Humanoid
+The ranger gets one free reroll when failing to track (Survival) or attack (Athletics, Fighting, Shooting) that type of being.
+FAVORED TERRAIN: Choose a terrain type (Arctic, Desert, Forest, Jungle, Plains, Hills/Mountains, Rivers/Seas, Swamp, Urban,
+or Underground). 
+* Underground
+The ranger draws an additional Action Card for initiative when in his Favored Terrain.
+WILDERNESS STRIDE: Rangers pass through rough terrain such as dense forest, rocky hills, or desert sands with ease. 
+They ignore movement penalties for Difficult Ground (see page 126).
+
+
+GP: 300
