@@ -289,7 +289,7 @@ Rate of Fire 1 to 3. Uses magazines (one action to Reload instead of the usual 2
 // | M60 (7.62mm) | 30/60/120 | 2d8+1 | 2 | 3 | 100 | d8 | 33 | 6,000 |
 | MG42 (7.92mm) |  30/60/120 | 2d8+1 | 2 | 4 | 200 | d10 | 26 | 750 |
 // | SAW (5.56mm) | 30/60/120 | 2d8 | 2 | 4 | 200 | d8 | 20 | 4,000 |
-| Bren Mk I (.303) | 24/48/96 | 2d8 | 2 | 3 | 30 | d8 | 22 |  | 
+| Bren Mk I (.303) | 24/48/96 | 2d8 | 2 | 3 | 30 | d8 | 22 | 750 | 
 |===
 
 
@@ -312,7 +312,7 @@ Grenades may be Evaded (see "Evasion", SWADE p 100).
 // | Mk67 (Modern) | 5/10/20 | 3d6 | — | — | MBT | 1 | 50 |
 // | Smoke Grenade | 5/10/20 | — | — | — | LBT | 1 | 50 | Creates an area of smoke in a LBT that obscures vision (–4).
 // | Stun Grenade | 5/10/20 | — | — | — | LBT | 1 | 50 | Targets must make a Vigor roll (at –2 with a raise) or be Stunned (see page 106).
-| Molotov Cocktail | 5/8/15 | 1d10 | — | — | SBT | 1 |  | A bottle full of gasoline; see "Fire" (SWADE p 127)
+| Molotov Cocktail | 5/8/15 | 1d10 | — | — | SBT | 1 | 1 | A bottle full of gasoline; see "Fire" (SWADE p 127)
 |===
 
 === Vehicular Weapons
