@@ -10,14 +10,13 @@
 
 == Ethnicity and ancestry
 
-
 == Edges
+
 
 === Changes to existing edges
 
 Aristocrat::
-
-
+#What has changed?#
 
 
 === New edges
@@ -30,6 +29,7 @@ Like Streetwise, but +2 networking rolls around court.
 === New skills
 
 Animal handling::
+#More info#
 
 
 
@@ -626,6 +626,85 @@ When a character dies, his replacement begins with half of his advances (round d
 If the replacement is an heir of the now deceased character, then some of the glory is transferred to the new character.
 The heir inherits 1/4 of his parent's Glory.  
 
+== Squires
+
+All knights begin with a squire, a loyal and trusted (or maybe not) companion to their master. 
+Squires are typically male. 
+Squires are there to support the knight and learn.
+
+NOTE: A knight may have several squires at a time. 
+The senior squire, the "squire of the body," commands the other squires, and has both the responsibilities and benefits of his post. 
+He is usually the only squire to go with the knight into battle.
+
+You create a squire as a regular character, except they are Extras, receive four attribute points, and eight skill points (plus the five default skills). 
+No squire may ever have Fighting or Riding higher than d6. 
+A capable squire typically has at least a Common Knowledge skill of d6.
+
+A player should not create his own squire. 
+Another player character builds the squire and plays him during the game. 
+This allows for the knight to interact with his servant in play without the player talking to himself.
+
+Whether or not the knight has any say in the character generation is up to the individual players.
+
+A squire Advances like any other Extra (see Allies and Advancement in SWADE). 
+A squire who dies is not automatically replaced - the character must use an advance to earn a new squire. 
+Replaced squires begin with the same experience as their predecessor. 
+Fortunately, most villains ignore squires who do not attack them. 
+Unless a hero places his squire in direct danger, villains will always target a player character over the squire.
+
+// The lackey’s basic salary (typically a small sum) is assumed covered by whatever income his master has. Any bonus rewards must come from the Musketeer’s pocket. 
+
+Typically, a squire begins with the basic tools needed for his profession, a dagger, and appropriate clothing, though the lackey’s background may alter this.
+
+A squire is usually age 15 at the start of his service, but as high as 20. 
+When a squire reaches 21, he is usually knighted, whereupon you take a new squire of 15 years into service.
+There are a few exceptions where a squire remains a squire after age 21.  
+
+If you want to play a squire as a hero, go for it.
+
+
+== Social duels
+A social duel is an exchange of jests, barbed comments, overt or sly insults, witty slander, and backhanded compliments.
+The social duel rules are intended for use in social occasions, such as at feasts and other occasions at court; they are not used in standard combat.
+A social duel takes time and requires an audience to witness the exchange.
+
+CAUTION: Be careful before you insult someone. 
+Avoid insulting high status individuals unless you're reasonably certain you can win (or deal with the repercussions). See <<#results>>.
+
+Social dueling works much like the Social Conflict rules (SWADE p 143) except that Taunt is used instead of Persuasion.
+
+Another character can provide a Support roll but, if the duel is lost, that supporting character suffers the same penalties as the character who initiates the social duel.
+
+NOTE: Not every NPC has Taunt. 
+For the purpose of social dueling only, every NPC should be considered to have Taunt d4 unless he has a higher die listed—even the crudest peasant knows how to deliver a witty double entendre, throw an insult, or just deliver a defamatory statement in social situations.
+
+[[results]]
+=== Social dueling results
+This replaces the Social Conflict Results table in the SWADE core rules.
+Losers of a social duel suffer from a loss of reputation and self respect. #Not to glory?#
+The penalties are removed at the rate of one point per week.
+Word way spread quickly around the realm.
+Any character with a damaged reputation will receive knowing smiles at best, and be mocked by all and sundry at worst.
+Alternately, the loser can demand a duel. 
+Should he win, the reputation is restored and all penalties are removed.
+While the character is suffering a social penalty, he will not be the target of social duels — a damaged reputation cannot be further harmed until it is repaired.
+He may, if he so chooses, instigate social duels, though.
+
+[cols="20%,80%", options="header"]
+|===
+| Margin | Result
+| Tie | 
+There is no clear winner. 
+Both parties have slandered each other, but the insults have not damaged their reputations. Neither feels the need to pursue the matter further, at least not until their next meeting.
+| 1-2 | The loser’s honor and reputation are besmirched, but only temporarily. 
+He suffers a –1 penalty to Intimidation, Persuasion, and Taunt rolls.
+| 3-4 | A stinging remark has left a deep wound on the loser’s reputation. 
+He suffers a –2 penalty to Intimidation, Persuasion, and Taunt roll.
+| 5+ | The target’s honor is beyond tarnished! 
+He suffers a –4 penalty to Intimidation, Persuasion, and Taunt rolls.
+|===
+
+How else might a character repair his reputation? Perform a deed of glory
 
 
 
@@ -639,3 +718,4 @@ The xref:https://mostunreadblogever.blogspot.com/2018/04/savaging-pendragon.html
 * _Death at the Joust_ (2008, Paul "Wiggy" Wade-Williams, Triple Aces Games) 
 * _Rippers Player's Guide_ (2015, Simon Lucas et al., Pinnacle Entertainment Group)
 * _King Arthur Pendragon_, (2010, Greg Stafford, Nocturnal Media)
+* _All For One: Regime Diabolique_ (Second Edition (2019, Paul "Wiggy" Wade-Williams, Triple Aces Games)
