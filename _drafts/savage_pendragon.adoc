@@ -3,9 +3,7 @@
 :toclevel: 6
 
 
-The xref:https://mostunreadblogever.blogspot.com/2018/04/savaging-pendragon.html[original proposal] is from Tommy Brownell.
 
-// The scenario "Death at the Joust" contains the _Daring Tales of Adventure_ setting rules.
 
 
 
@@ -17,6 +15,10 @@ The xref:https://mostunreadblogever.blogspot.com/2018/04/savaging-pendragon.html
 
 === Changes to existing edges
 
+Aristocrat::
+
+
+
 
 === New edges
 
@@ -27,7 +29,9 @@ Like Streetwise, but +2 networking rolls around court.
 
 === New skills
 
-* Animal handling
+Animal handling::
+
+
 
 === Removed skills
 
@@ -36,6 +40,8 @@ Like Streetwise, but +2 networking rolls around court.
 
 === Changes to skill
 
+
+Common Knowledge::
 Common knowledge covers such subjects and uses such as
 
 * Heraldry
@@ -181,10 +187,13 @@ Both attackers then roll their Fighting or Riding die (plus Wild Die if applicab
 
 ==== Damage
 
-Damage for a jousting lance is `Str+d6`; there is no AP. Damage is treated as nonlethal, but the dice can still Ace.
-Results from the "Injury Table" still apply, but are only temporary until all the wounds are healed.
+Damage for a jousting lance is `Str+d6`; there is no AP. 
+Damage is treated as nonlethal but the dice can still Ace.
+Results from the "Injury Table" still apply but they are only temporary until all of the wounds are healed.
 Unless you take a Called Shot (i.e., the "Head Shot" maneuver), you automatically hit the knight’s torso.
 If the victim is at least Shaken, the attacker’s lance shatters (a broken lance earns points).
+
+See <<#_scoring>>.
 
 Otherwise, the hit is considered a glancing blow and no points are tallied _unless the target falls from his horse_.
 
@@ -289,6 +298,12 @@ Characters gain +1 to Taunt rolls for each Status level they are lower than thei
 
 The downside of class separation is that no class talks freely or shares information with someone of another station.
 Any attempt at Networking suffers a –1 penalty for each level of Status difference between the characters.
+
+
+== Gaining an audience
+
+See "GAINING AUDIENCES" in the scenario "Death at the Joust" for the initial rules on this. 
+#These rules will be updated and simplified.# 
 
 == Glory
 
@@ -463,11 +478,11 @@ the battle commenced, the hero earns a +2 Glory bonus.
 
 Even if the knight’s tale of his valorous deeds doesn’t earn them any immediate Glory, having prisoners recount the tale of their rescue quickly causes word to spread.
 
-Important NPCs must be famous, powerful, and
-named.
-A priest, minor noble, or similar noteworthy NPC is worth +1 Glory.
-Saving a count is worth +3.
-Rescuing a prince, king, or similar worthy gains the hero +5 Glory.
+* Important NPCs must be famous, powerful, and _named_.
+** A priest, minor noble, or similar noteworthy NPC is worth +1 Glory.
+** Saving a count is worth +3.
+** Rescuing a prince, king, or similar worthy gains the hero +5 Glory.
+
 For groups of lesser NPCs, rescuing ten or so is worth +1 Glory, a few tens +2, and a hundred or more +3.
 Saving a lone peasant is not enough to be retold by poets.
 
@@ -477,9 +492,9 @@ If the rescue involves a Mass Battle rather than tabletop action, the party is d
 
 .Villains and glory
 ****
-Knights who perform heroic deeds earn bonuses
-through their elevated Glory. Those that perform dastardly deeds get little reward for being evil.
-Of course, to earn Glory a knight has to take great risks and maintain a certain code of conduct; a villain doesn’t have that restriction.
+Knights who perform heroic deeds earn bonuses through their elevated Glory. 
+Those that perform dastardly deeds get little reward for being evil.
+Of course, to earn Glory a knight has to take great risks and maintain a certain code of conduct; a villain doesn't have that limitation.
 ****
 
 ==== Benefits of glory
@@ -488,13 +503,12 @@ When a hero reaches a multiple of 20 Glory he must immediately pick one benefit 
 Some knights may opt to acquire Followers or become leaders of men and build a personal army.
 Other knights might use their fame to gain valuable connections or become better combatants.
 Others still may prefer to rely on their reputation to ensure a friendly welcome in civilized lands.
-Unless otherwise stated, benefits can be taken multiple
-times—the number in parentheses after the name indicates the maximum number of times the benefit may be taken.
+Unless otherwise stated, benefits can be taken multiple times—the number in parentheses after the name indicates the maximum number of times the benefit may be taken.
 
 Fill in the appropriate section of the character sheet.
 // TK@fup Character sheet tracks glory and benefits
 
-Should Glory drop below a multiple of 20, any benefits above the character’s current Glory level are temporarily lost (unless otherwise stated) until Glory is regained.
+Should the Glory value drop below a multiple of 20, any benefits above the character’s current Glory level are temporarily lost (unless otherwise stated) until Glory is regained.
 Dropping below 20 and then rising above it again does not grant the opportunity to take a new benefit—it simply allows the “lost” one to be used again.
 
 ===== COMBAT PROWESS (2)
@@ -533,11 +547,9 @@ He must meet all the requirements of the edge.
 
 ===== SIDEKICK (1)
 Requirements:: 80+ Glory +
-Regardless of his character Rank, the hero has attracted
-a Sidekick, as per the edge.
+Regardless of his character Rank, the hero has attracted a Sidekick, as per the edge.
 +
-If the Sidekick dies, the character may take this benefit
-again when he earns more Glory.
+If the Sidekick dies, the character may take this benefit again when he earns more Glory.
 A second Sidekick may be gained at Legendary as normal through taking the Sidekick edge with an advance.
 +
 Sidekicks remain with the hero when his Glory drops, but may grumble, not perform to the best of their abilities, or even refuse to follow orders.
@@ -562,8 +574,7 @@ Sample penalties are included below.
 Crime:: This is a catchall penalty covering anything
 considered abhorrent to civilized society.
 Oaths:: Knights who renege on sworn oaths are considered treacherous.
-Slaying:: Killing a good, just, and powerful NPC, such
-as a king, causes a hero to suffer a drastic loss of Glory.
+Slaying:: Killing a good, just, and powerful NPC, such as a king, causes a hero to suffer a drastic loss of Glory.
 The knight's Glory is swapped from a positive to a negative immediately.
 For instance, a knight with +50 Glory drops to –50 and becomes a very wanted man.
 
@@ -571,20 +582,19 @@ For instance, a knight with +50 Glory drops to –50 and becomes a very wanted m
 A knight with negative Glory does not earn rewards. He suffers drawbacks.
 
 ===== Wanted
-When a hero reaches –20 Glory, he gains the Wanted (Minor) Hindrance.
-At –40, this changes to the Major version.
-Generally, the Minor Hindrance extends to a single realm, usually the one where the Glory penalty was incurred.
+
+When a hero reaches –20 Glory, he gains the Wanted (Minor) Hindrance. + 
+At –40, this changes to the Major version. + 
+Generally, the Minor Hindrance extends to a single realm, usually the one where the Glory penalty was incurred. + 
 The Major version, on the other hand, covers pretty much all the civilized.
 A hero who gains enough Glory to rise above the rating at which he gained this Hindrance, doesn’t lose the Hindrance. He may have performed some heroic deeds, but he is still a wanted man.
 
 ===== Enemy
-At –10 Glory, the hero acquires the Enemy (Minor) Hindrance.
-At –30 (or lower), the Enemy becomes a Major Hindrance.
-The exact nature of the enemy depends on the villain’s deeds.
-It doesn’t matter if the hero’s Glory rises above
-the level at which he gained his foe, because his Enemy doesn’t give up his vendetta.
-If the hero gains a Major Enemy while his Minor
-Enemy is still at large, the foe simply steps up his campaign against the character.
+At –10 Glory, the hero acquires the Enemy (Minor) Hindrance. + 
+At –30 (or lower), the Enemy becomes a Major Hindrance. + 
+The exact nature of the enemy depends on the villain’s deeds. 
+It doesn’t matter if the hero’s Glory rises above the level at which he gained his foe, because his Enemy doesn’t give up his vendetta.
+If the hero gains a Major Enemy while his Minor Enemy is still at large, the foe simply steps up his campaign against the character.
 Otherwise, the hero gains a new enemy.
 
 
@@ -600,3 +610,11 @@ Otherwise, the hero gains a new enemy.
 // However, high or low Glory at the time of the character’s death can alter this amount.
 // When a character dies with below 99 Glory, the character has 50% Experience as standard.
 // Between 100 and 199 Glory, the replacement has 75% Experience, and at 200 and over he retains the full Experience Points of his predecessor.
+
+
+
+== References
+
+The xref:https://mostunreadblogever.blogspot.com/2018/04/savaging-pendragon.html[original proposal] is from Tommy Brownell.
+
+// The scenario "Death at the Joust" contains the _Daring Tales of Adventure_ setting rules.
