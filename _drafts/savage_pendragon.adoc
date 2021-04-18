@@ -3,9 +3,9 @@
 :toclevel: 6
 
 
-The initial inspiration for this attempt to "Savage Pendragon" is from the blog post by xref:https://mostunreadblogever.blogspot.com/2018/04/savaging-pendragon.html[original proposal] by Tommy Brownell.
+The initial inspiration for this attempt to _savage_ Pendragon is from the blog post by xref:https://mostunreadblogever.blogspot.com/2018/04/savaging-pendragon.html[original proposal] by Tommy Brownell.
 
-The Pendragon RPG, a property of Chaosium in 2021, is a tremendous game that is tuned perfectly for its setting. 
+The Pendragon RPG, a property of https://www.chaosium.com/pendragon-rpg/[Chaosium] in 2021, is a tremendous game that is tuned perfectly for its setting. 
 Greg Stafford was an all-time great game designer and world builder.
 The sad reality is that Pendragon does not get played as much as it deserves.
 Even I, someone who loved playing the game when I was younger, does not plan to play the game.
@@ -740,15 +740,21 @@ He suffers a –4 penalty to Intimidation, Persuasion, and Taunt rolls.
 How else might a character repair his reputation? Perform a deed of glory
 
 
+[colophon]
+== Colpohon
 
-== References
-
-
+This document is not intended for wide distribution.
+It is intended for players and prospective players.
 
 // The scenario "Death at the Joust" contains the _Daring Tales of Adventure_ setting rules.
 
-* _Hellfrost Player's Guide_ (2009, Paul "Wiggy" Wade-Williams, Triple Aces Games)
-* _Death at the Joust_ (2008, Paul "Wiggy" Wade-Williams, Triple Aces Games) 
-* _Rippers Player's Guide_ (2015, Simon Lucas et al., Pinnacle Entertainment Group)
+=== References
+
+* _All For One: Regime Diabolique_ (Second Edition (2019, Paul "Wiggy" Wade-Williams, Triple Ace Games)
+* _Death at the Joust_ (2008, Paul "Wiggy" Wade-Williams, Triple Ace Games) 
+* _The Great Pendragon Campaign_ (2006, Greg Stafford, Arthaus)
+* _Hellfrost Player's Guide_ (2009, Paul "Wiggy" Wade-Williams, Triple Ace Games)
 * _King Arthur Pendragon_, (2010, Greg Stafford, Nocturnal Media)
-* _All For One: Regime Diabolique_ (Second Edition (2019, Paul "Wiggy" Wade-Williams, Triple Aces Games)
+* _Rippers Player's Guide_ (2015, Simon Lucas et al., Pinnacle Entertainment Group)
+
+IMPORTANT: Pirating RPG content is not right.  Most folks making tabletop RPG products struggle to make a buck. Buy tabletop RPG books from your Friendly Local Area Gaming Store or from online vendors like xref:https://www.drivethrurpg.com/[DriveThruRPG].
