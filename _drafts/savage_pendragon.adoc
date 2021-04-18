@@ -300,10 +300,23 @@ The downside of class separation is that no class talks freely or shares informa
 Any attempt at Networking suffers a –1 penalty for each level of Status difference between the characters.
 
 
-== Gaining an audience
+== Talking to nobles
+
+Lesser knights and most people of similar or lesser standing do not have easy access to speak to nobles or members of the court.
+
+Practically anyone can attempt to gain access to speak to a noble. 
+
+
+=== Petitioning for an audience
 
 See "GAINING AUDIENCES" in the scenario "Death at the Joust" for the initial rules on this. 
 #These rules will be updated and simplified.# 
+
+=== Appealing to a noble
+
+#Use the SWADE Social Conflict rules.#
+
+
 
 == Glory
 
@@ -472,7 +485,6 @@ Victory:: The greater the size of the enemy army, the more reward is earned.
 For each token your enemy’s army was larger than yours when
 the battle commenced, the hero earns a +2 Glory bonus.
 
-// TK left off at "RESCUE"
 
 ==== Rescue
 
@@ -599,17 +611,21 @@ Otherwise, the hero gains a new enemy.
 
 
 
-==== Inherited honor
+// ==== Inherited honor
 
 
 // TK@FUP left off at Death and Honor
 
-// ==== Death and honor
+== Character death and replacement
 
-// When a character dies, his replacement normally begins with half his Experience Points.
+When a character dies, his replacement begins with half of his advances (round down).
 // However, high or low Glory at the time of the character’s death can alter this amount.
 // When a character dies with below 99 Glory, the character has 50% Experience as standard.
 // Between 100 and 199 Glory, the replacement has 75% Experience, and at 200 and over he retains the full Experience Points of his predecessor.
+
+If the replacement is an heir of the now deceased character, then some of the glory is transferred to the new character.
+The heir inherits 1/4 of his parent's Glory.  
+
 
 
 
@@ -618,3 +634,8 @@ Otherwise, the hero gains a new enemy.
 The xref:https://mostunreadblogever.blogspot.com/2018/04/savaging-pendragon.html[original proposal] is from Tommy Brownell.
 
 // The scenario "Death at the Joust" contains the _Daring Tales of Adventure_ setting rules.
+
+* _Hellfrost Player's Guide_ (2009, Paul "Wiggy" Wade-Williams, Triple Aces Games)
+* _Death at the Joust_ (2008, Paul "Wiggy" Wade-Williams, Triple Aces Games) 
+* _Rippers Player's Guide_ (2015, Simon Lucas et al., Pinnacle Entertainment Group)
+* _King Arthur Pendragon_, (2010, Greg Stafford, Nocturnal Media)
