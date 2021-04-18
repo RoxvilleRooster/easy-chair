@@ -3,12 +3,37 @@
 :toclevel: 6
 
 
+The initial inspiration for this attempt to "Savage Pendragon" is from the blog post by xref:https://mostunreadblogever.blogspot.com/2018/04/savaging-pendragon.html[original proposal] by Tommy Brownell.
+
+The Pendragon RPG, a property of Chaosium in 2021, is a tremendous game that is tuned perfectly for its setting. 
+Greg Stafford was an all-time great game designer and world builder.
+The sad reality is that Pendragon does not get played as much as it deserves.
+Even I, someone who loved playing the game when I was younger, does not plan to play the game.
+It will be hard to find players for Pendragon and I am heavily invested in running and playing Savage Worlds, which provides a toolkit for running all sorts of games. 
+
+The _Great Pendragon Campaign_ campaign is a 434-page campaign book for KAP:
+____
+Great Pendragon Campaign is a tool to run a year-by-year Pendragon campaign that allows each player to establish a dynasty of knights whose family story coincides with King Arthur’s. Through play these knights help or hinder the High King establish his fabled realm.
+____
+
+This campaign has to be played.
+
+Pendragon (and Savaged Pendragon) is a game of knights and not thieves, wizards, and clerics.
 
 
 
+== Race and Ethnicity
 
+Player characters are human.
 
-== Ethnicity and ancestry
+There are a number of ethnicities - Cymric, Saxon, Pict, Roman, Irish, French - but there are no special differences to skills, edge, or abilities.
+
+=== Languages
+
+Latin is the _lingua franca_ of the setting.
+
+Most NPCs speak only the language for their ethnic group.
+
 
 == Edges
 
@@ -24,6 +49,12 @@ Aristocrat::
 Intrigue::
 Like Streetwise, but +2 networking rolls around court.
 
+=== Removed edges
+
+* Streetwise
+
+
+
 == Skills
 
 === New skills
@@ -37,6 +68,8 @@ Animal handling::
 
 * Hacking
 * Electronics
+* Piloting
+* Driving - when this comes in, use Riding
 
 === Changes to skill
 
@@ -710,7 +743,7 @@ How else might a character repair his reputation? Perform a deed of glory
 
 == References
 
-The xref:https://mostunreadblogever.blogspot.com/2018/04/savaging-pendragon.html[original proposal] is from Tommy Brownell.
+
 
 // The scenario "Death at the Joust" contains the _Daring Tales of Adventure_ setting rules.
 
