@@ -1,0 +1,168 @@
+@startuml
+
+' left to right direction
+
+'default
+top to bottom direction
+
+
+/'
+participant "Opening chase" as a1s1
+participant "Dickinson's house" as a1s2
+participant "Auction house" as a1s3
+participant "Clues revealed" as a1s4
+'/
+
+/'
+start
+:a1s1;
+:a1s2;
+end
+'/
+
+/'
+package Cast {
+  actor Dickinson as NPCA
+  actor Bob as NPCB
+}
+'/
+
+
+
+rectangle Act1 as "Act 1: Washinton, DC" {
+usecase "Opening chase" as a1s1
+note left
+Templar agent grabs box 
+from Dickinson;
+Nazis and heroes chase box;
+Dickinson goes missing
+end note
+usecase "Dickinson's house" as a1s2
+note left
+Dickinson leaves clue; 
+The auction is today!
+end note
+usecase "Auction house" as a1s3
+note left
+Nazis try to steal statuette;
+statuette breaks 
+end note
+usecase "Clues revealed" as a1s4
+note left
+Study glass ball; 
+clue to Ptolemaic temple
+end note
+}
+
+a1s1 --> a1s2
+a1s2 --> a1s3
+a1s3 --> a1s4
+
+
+
+rectangle Act2 as "Act 2: Egypt" {
+usecase "Crash in the desert" as a2s1
+note left
+Sandstorm leads to crash;
+heroes stranded in the 
+desert; 
+heroes reach oasis;
+nomads confront heroes;
+chief welcomes and helps 
+heroes 
+end note
+usecase "Betrayal at the fort" as a2s2
+note left
+Heroes w/ nomads travel 
+to fort;
+supplies sabotaged by 
+traitor; 
+rival nomads attack 
+heroes 
+end note
+usecase "Into the temple" as a2s3
+note left
+Heroes reach temple;
+guardian attacks heroes;
+heroes find clue to 
+Templar castle
+end note
+usecase "Escape the temple" as a2s4
+note left
+Nazis attack;
+temple floods and 
+force escape  
+end note
+}
+
+a2s1 --> a2s2
+a2s2 --> a2s3
+a2s3 --> a2s4
+
+
+rectangle Act3 as "Act 3: Southern France" {
+usecase "Templar castle" as a3s1
+note left
+Puzzle to enter temple;
+use stone fingers
+end note
+usecase "Into the crypt" as a3s2
+note left
+Heroes investigate graves; 
+clue to Iceland;
+Templars confront heroes
+end note
+usecase "Nazi ambush" as a3s3
+note left
+Fight Nazis in courtyard;
+hereos take zeppelin to 
+rescue Dickinson
+end note
+usecase "Catch a train" as a3s4
+note left
+Heroes jump on to train; 
+fight on train roof;  
+rescue Dickinson
+end note
+}
+
+a3s1 --> a3s2
+a3s2 --> a3s3
+a3s3 --> a3s4
+
+
+rectangle Act4 as "Act 4: Iceland" {
+usecase "Into the ice castle" as a4s1
+note left
+Treacherous entry
+end note
+usecase "The old  knight" as a4s2
+note left
+Meet Sir Richard
+end note
+usecase "Nazis arrive" as a4s3
+note left
+The big finale
+end note
+
+}
+a4s1 --> a4s2
+a4s2 --> a4s3 
+
+
+Act1 --> Act2 
+Act2 --> Act3
+Act3 --> Act4
+
+/'
+box "Act 1" #LightBlue
+
+participant "Initial chase" as a1s1 
+participant "Dickinson's house" as a1s2 
+
+end box
+
+a1s1 - > a1s2 
+'/
+
+@endumld
