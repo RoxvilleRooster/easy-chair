@@ -48,7 +48,7 @@ For example, the hero might add an electrical Trapping to her existing freeze bo
 
 ==== Removed Edges
 
-* Linguist (as per the Multiple Languages setting rules in SWADE p 149)
+* Linguist (as per the Multiple Languages setting rules in SWADE p 140)
 * See <<#arcane_bg>> for other unavailable edges
 // * Arcane Resistance (SWADE p 37) and Improved Arcane Resistance
 // * Giant Killer (SWADE p 42)
