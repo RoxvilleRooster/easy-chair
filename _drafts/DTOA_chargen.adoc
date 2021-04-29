@@ -17,7 +17,7 @@ Heroes are humans.
 
 === Skills
 
-Pulp heroes are more capable than most. 
+Pulp heroes are more capable than most.
 At character creation, they start with 15 skill points.
 
 ==== Changed Skills
@@ -29,7 +29,7 @@ At character creation, they start with 15 skill points.
 * Hacking
 * Focus, applies to the Arcane Background (Gifted)
 * Faith, applies to the Arcane Background (Miracles)
-* Language (see the Multiple Languages setting rules in SWADE p 149)
+* Language (see the Multiple Languages setting rules in SWADE p 140)
 * Psionics, applies to the Arcane Background (Psionics)
 * Spellcasting, applies to the Arcane Background (Magic)
 
@@ -74,7 +74,7 @@ Let's focus on fists, bullets, and car chases and leave the superhuman and super
 
 .Men of mystery and street-level superheroes
 ****
-If we were to build heroes such as the _The Shadow_ and _Doc Savage_, we'd likely be using the Arcane Backgrounds of Gifted or Psionics.  
+If we were to build heroes such as the _The Shadow_ and _Doc Savage_, we'd likely be using the Arcane Backgrounds of Gifted or Psionics.
 In this campaign, we are focusing on a low-powered, classic pulp adventure game _a la_ the Indiana Jones movies or the Mummy series.
 ****
 
@@ -91,7 +91,7 @@ The following arcane backgrounds are allowed for villains:
 
 Cocky (minor)::
 The character is a braggart and will typically spend the first round of any combat announcing how great he is, or what he's going to do to any and all opponents.
-Cocky is a minor version of the Overconfident (major) hindrance (SWADE p 26). 
+Cocky is a minor version of the Overconfident (major) hindrance (SWADE p 26).
 // This could easily be considered as a trapping of the hindrance Quirk (minor).
 
 
@@ -333,5 +333,3 @@ text
 Suggested Hindrances::
 text
 ////
-
-
