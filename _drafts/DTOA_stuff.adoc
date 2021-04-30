@@ -171,21 +171,22 @@ The net is Hardness 10 and vulnerable only to cutting attacks.
 10+| Revolvers typically have six chambers that must be reloaded one bullet at a time, though separate cylinders called “speed loaders” are also available for more modern firearms for about 10% of the weapon’s cost.
 | Derringer (.41) | 3/6/12 | 2d4 | — | 1 | 2 | d4 | 1 | 100 | −2 to be Noticed if hidden
 | Police Revolver (.38) | 10/20/40 | 2d6 | — | 1 | 6 | d4 | 2 |  150 |
+| Enfield No 2 .38 | 10/20/40  | 2d6 | — | 1 | 6 | d4 | 2 | 150 |  
 | Colt Peacemaker (.45) | 12/24/48 | 2d6+1 | 1 | 1 | 6 | d4 | 4 | 200 |
 | Smith & Wesson (.357) | 12/24/48 | 2d6+1 | 1 | 1 | 6 | d4 | 5 | 250 |
-| Webley MkIV .455 | 12/24/48 | 2d6+1| 1 | 1 | 6 | d4 | 3 |  |
-| Enfield No 2 .38 | 10/20/40  | 2d6 | — | 1 | 6 | d4 | 2 |  |  
+| Webley MkIV .455 | 12/24/48 | 2d6+1| 1 | 1 | 6 | d4 | 3 | 250 |
+
 
 10+| *SEMI-AUTOMATICS*
 10+| Semi-automatics are fed from a magazine. The standard size magazines are listed below. Additional
 magazines may be purchased for 10% of the weapon’s cost. They weigh about 1 lb each, fully loaded.
 | Colt 1911 (.45) | 12/24/48 | 2d6+1 | 1 | 1 | 7 | d4 | 4 | 200 |
-| Browning Hi-Power 9mm |  12/24/48 | 2d6 | 1 | 1 | 13 | d4 | 2.5 | | 
-| Luger P08 9mm | 12/24/48 | 2d6-1 | 1 | 1 | 8 | d4 | 2 | |  Can be equipped with a 24-round magazine 
-| Luger P08 9mm | 12/24/48 | 2d6-1 | 1 | 1 | 8/32 | d4 | 4  | 
+| Browning Hi-Power 9mm |  12/24/48 | 2d6 | 1 | 1 | 13 | d4 | 2.5 | 250 | 
+| Luger P08 9mm | 12/24/48 | 2d6-1 | 1 | 1 | 8 | d4 | 2 | 275 |  Can be equipped with a 24-round magazine 
+| Luger P08 9mm | 12/24/48 | 2d6-1 | 1 | 1 | 8/32 | d4 | 4  | 300 
 a| Can be equipped with an extra 24-round magazine that provides that makes the Shots value 32.
 Shoulder stock gives Range 20/40/80.
-| Mauser C96 9mm | 12/24/48 | 2d6–1 | 1 | 1 | 10 | d4 | 3 | |
+| Mauser C96 9mm | 12/24/48 | 2d6–1 | 1 | 1 | 10 | d4 | 3 | 300  |
 |===
 // | Desert Eagle (.50) | 15/30/60 | 2d8 | 2 | 1 | 7 | d6 | 8 | 300 |
 // | Glock (9mm) | 12/24/48 | 2d6 | 1 | 1 | 17 | d4 | 3 | 200 |
