@@ -20,13 +20,24 @@ Heroes are humans.
 Pulp heroes are more capable than most.
 At character creation, they start with 15 skill points.
 
+==== New skills
+
+Tradecraft (Smarts)::
+This skill focuses on the application of procedures and protocols, such as dead drops, brief encounters, pickups, load and unload signals, danger and safe signals, and surveillance and counter-surveillance. 
+The tradecraft skill also covers knowledge of espionage agencies as well as aiding in field requisitions and governs exactly what you can requisition.
+
+
 ==== Changed Skills
 
-* Electronics is reskinned as Gadgetry
+// * Electronics is reskinned as Gadgetry
+* Hacking is reskinned as Cryptopgraphy + 
+It assumes some knowledge of codes and code breaking (e.g., Morse code) and mathematics
+
+
 
 ==== Removed Skills
 
-* Hacking
+// * Hacking
 * Focus, applies to the Arcane Background (Gifted)
 * Faith, applies to the Arcane Background (Miracles)
 * Language (see the Multiple Languages setting rules in SWADE p 140)
