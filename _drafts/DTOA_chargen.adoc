@@ -20,11 +20,15 @@ Heroes are humans.
 Pulp heroes are more capable than most.
 At character creation, they start with 15 skill points.
 
+////
 ==== New skills
+
+#The Tradecraft skill may not make the final cut of these rules. The skill is really meant for heroes who are spies. If the character is a spy, then much of what we call tradecraft is just common knowledge.#
 
 Tradecraft (Smarts)::
 This skill focuses on the application of procedures and protocols, such as dead drops, brief encounters, pickups, load and unload signals, danger and safe signals, and surveillance and counter-surveillance. 
 The tradecraft skill also covers knowledge of espionage agencies as well as aiding in field requisitions and governs exactly what you can requisition.
+////
 
 
 ==== Changed Skills
