@@ -126,13 +126,11 @@ Your bruiser is very large or very fit.
 Her Size increases by +1 (and therefore Toughness by 1) and she treats her Strength as one die type higher when determining Encumbrance (page 106) and Minimum Strength to use armor, weapons, and equipment without a penalty (page 106).
 Brawny can’t increase a character’s Size above +3, and it has no effect on Armor Interference or Armor Restriction.
 
-.Class Special Abilities
-****
+== Class Special Abilities
 
 MARTIAL FLEXIBILITY:: 
 Once per encounter, as a free action, a fighter can choose to gain the benefits of a single Combat Edge. 
 He must meet all of the Edge’s Requirements, and the benefits of the chosen Edge end after five rounds.
-****
 
 == Gear
 
