@@ -180,10 +180,10 @@ A Critical Failure causes a Wound to the feet (–2 Pace until healed).
 
 
 .Shield
-[cols="3,1,1,1,1",options="header"]
+[cols="2,1,1,1,1,1",options="header"]
 |===
 | Type | Parry | Cover | Min  Str. | Weight | Cost 
-| Medium | +2 | −2 | d8 | 8 | 9
+| Medium | +2 | −2 | d8 | 8 | 9  
 |===
 
 .Ranged weapons
