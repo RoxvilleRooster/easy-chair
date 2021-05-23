@@ -73,18 +73,16 @@ Racial:
 | Persuasion | d4 | 
 | Stealth | d4 | 
 | Fighting | d8 | 3d ({chargen})
-| Riding | d | 
-| Repair | d | 
 | Shooting | d6 | 2d ({chargen})
-| Intimidation | d | 
-| Survival | d | 
-| Healing | d | 
+| Intimidation | d4 | 1d ({chargen})
 | Battle | d8 | 3d ({chargen})
+// | Survival | d | 
+// | Healing | d | 
+// | Riding | d | 
+// | Repair | d | 
 |===
 
-NOTE: 
-11 skill points were spent at {chargen}
-1 skill point remains.
+// NOTE: 12 skill points were spent at {chargen}
 
 
 ////
@@ -114,7 +112,7 @@ Minor:: Phobia (ophidiophobia - fear of snakes)
 
 FIGHTER::
 // REQUIREMENTS: Novice, Strength d6+, Fighting d6+
-Class "edge"
+Class "edge" (free at {chargen})
 
 // BRAVE:: 
 // REQUIREMENTS: Novice, Spirit d6+
