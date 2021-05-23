@@ -3,7 +3,8 @@
 
 = Character Sheet
 
-Name:: Hambley "Ham" Sunggerood
+// Name:: Hambley "Ham" Sunggerood
+Name:: Corroda Parattio
 Concept:: Man-at-arms and aspiring captain
 Ancestry:: Human
 Patron Deity:: 
@@ -55,8 +56,8 @@ Racial:
 |===
 | Statistic | Value | Calculation
 | Pace | 6 |  6 
-| Parry | 6 | Fighting d8/2 + 2 
-| Toughness | 6 | Vigor d6/2 + 2 + 1 (Brawny edge)
+| Parry | 6 + 2 (shield) = 8 | Fighting d8/2 + 2 
+| Toughness | 6 + 2 (aromor) = 8  | Vigor d6/2 + 2 + 1 (Brawny edge)
 | Size | 1 | 0 + 1 (Brawny edge)
 |===
 
@@ -141,13 +142,13 @@ Current Wealth::
 .Tally
 |===
 | Item | Cost | Weight
-| 4x Daggers | 8 | 4
-| 1 Hand Axe | 6 | 3
-| Light Crossbow | 35 | 5
-| 20 bolts | 2 | 2
+// | 4x Daggers | 8 | 4
+// | 1 Hand Axe | 6 | 3
+// | Light Crossbow | 35 | 5
+// | 20 bolts | 2 | 2
 | Leather armor (torso, arms, legs) | 40 | 19
-| Light shield | 5 | 4
-| 2 x Caltrops | 4 | 2
+// | Light shield | 5 | 4
+// | 2 x Caltrops | 4 | 2
 |===
 
 .Gear
@@ -175,22 +176,28 @@ A Critical Failure causes a Wound to the feet (–2 Pace until healed).
 | Item | Armor | Min Str. | Weight | Cost 
 | Tunic or Jacket (torso, arms) | +2 | d6 | 11 | 20
 | Leggings (legs) | +2 | d6 | 8 | 20
-| Light Shield | +1 | d6 | 4 | 5
+// | Light Shield | +1 | d6 | 4 | 5
+| Medium Shield | +2 parry | −2 cover | d8 8 9
 // | Shield spike | | | 5 | 20
 |===
 
 
+.Shield
+[cols="3,1,1,1,1",options="header"]
+| Type | Parry | Cover | Min  Str. | Weight | Cost 
+| Medium | +2 | −2 | d8 | 8 | 9
 
 .Ranged weapons
 [cols="",options="header"]
 |===
 | Type | Range | Damage | AP | RoF | Min Str. | Weight | Cost | Notes
-| Crossbow, Light | 10/20/40 | 2d6 | 2 | 1 | d6 | 5 | 35 | Reload 1. Hand-drawn.
+// | Crossbow, Light | 10/20/40 | 2d6 | 2 | 1 | d6 | 5 | 35 | Reload 1. Hand-drawn.
 | Dagger/Knife | 3/6/12 | Str+d4 | — | 1 | d4 | 1 | 2 | 
 | Axe, Hand | 3/6/12 | Str+d6 | — | 1 | d6 | 3 | 6 | 
 // | Net (Weighted) | 3/6/12 | — | — | 1 | d4 | 8 | 20 | 
 // A successful hit means the target is Entangled (see page 132). 
 // The net is Hardness 10.
+| Sling (Athletics (throwing)) | 4/8/16 | Str+d4 | — | 1 | d4 | 1 | —
 |===
 
 .Melee weapons
@@ -199,14 +206,17 @@ A Critical Failure causes a Wound to the feet (–2 Pace until healed).
 | Type | Damage |  Min Str. | Weight | Cost | Notes
 | Club, Light | Str+d4 | d4 | 2 | 1 | 
 | Axe, Hand | Str+d6 | d6 | 3 | 6 | 
+| Spear | Str+d6 | d6 | 6 | 2 | Reach 1. Parry +1 if used Two Hands
+| Sword, Long | Str+d8 | d8 | 4 | 15 | 
 |===
 
 .Ammo
 [cols="",options="header"]
 |===
 | AMMUNITION | COST | WEIGHT | NOTES
-| Bolts (crossbows) | 1 gp/10 bolts | 1 lb/10 bolts | 
-Bolts for all types of crossbows. 
+// | Bolts (crossbows) | 1 gp/10 bolts | 1 lb/10 bolts | 
+// Bolts for all types of crossbows. 
+| Sling stones (10) | 1 sp/10 stones | 1 lbs/20 | Polished stones
 |===
 
 
@@ -215,12 +225,10 @@ Bolts for all types of crossbows.
 [cols="",options="header"]
 |===
 | Scenario | Date | Advance | Reward 
-// | Citadel of Corruption | 03-Apr-2021 | 1 | 300 gp
 |===
 
 .Advances
 [cols="",options="header"]
 |===
 | Advance | Increase
-// | 1 | +1d Taunt; +1d Healing
 |===
