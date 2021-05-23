@@ -132,7 +132,7 @@ Brawny can’t increase a character’s Size above +3, and it has no effect on A
 MARTIAL FLEXIBILITY:: 
 Once per encounter, as a free action, a fighter can choose to gain the benefits of a single Combat Edge. 
 He must meet all of the Edge’s Requirements, and the benefits of the chosen Edge end after five rounds.
-
+****
 
 == Gear
 
