@@ -7,11 +7,9 @@
 Name:: Corroda Parattio
 Concept:: Man-at-arms and aspiring captain
 Ancestry:: Human
-Patron Deity:: 
+Patron Deity:: Gorum
 Alignment:: Good
-
-Languages:: Common, 
-
+Languages:: Common, Varisian, Chelaxian, Old Thassalonian
 Hair:: Brown, shaved bald
 Eyes:: Green
 
@@ -196,7 +194,7 @@ A Critical Failure causes a Wound to the feet (–2 Pace until healed).
 // | Net (Weighted) | 3/6/12 | — | — | 1 | d4 | 8 | 20 | 
 // A successful hit means the target is Entangled (see page 132). 
 // The net is Hardness 10.
-| Sling (Athletics (throwing)) | 4/8/16 | Str+d4 | — | 1 | d4 | 1 | —
+| Sling (uses Athletics) | 4/8/16 | Str+d4 | — | 1 | d4 | 1 | — | 
 |===
 
 .Melee weapons
