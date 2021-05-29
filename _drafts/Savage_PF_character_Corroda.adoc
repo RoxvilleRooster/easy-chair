@@ -9,7 +9,7 @@ Concept:: Man-at-arms and aspiring captain
 Ancestry:: Human
 Patron Deity:: Gorum
 Alignment:: Good
-Languages:: Common, Varisian, Chelaxian, Old Thassalonian
+Languages:: Common, Varisian, Goblin, Shoanti
 Hair:: Brown, shaved bald
 Eyes:: Green
 
