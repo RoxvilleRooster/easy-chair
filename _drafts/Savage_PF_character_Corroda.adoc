@@ -21,7 +21,7 @@ Eyes:: Green
 | Smarts | d8 | +1d ({chargen}) + 1d (hindrance character point)
 | Strength | d8 | +1d ({chargen}) + 1d (racial)
 | Spirit | d6 | +1d ({chargen})
-| Vigor | d6 | +1d ({chargen})
+| Vigor | d8 | +1d ({chargen})
 |===
 
 ////
@@ -55,7 +55,7 @@ Racial:
 | Statistic | Value | Calculation
 | Pace | 6 |  6 
 | Parry | 6 + 2 (shield) = 8 | Fighting d8/2 + 2 
-| Toughness | 6 + 2 (armor) = 8  | Vigor d6/2 + 1 (Brawny edge) + 2 (armor)
+| Toughness | 6 + 1 + 2 (armor) = 9  | Vigor d8/2 + 1 (Brawny edge) + 2 (armor)
 | Size | 1 | 0 + 1 (Brawny edge)
 |===
 
