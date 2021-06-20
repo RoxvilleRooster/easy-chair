@@ -231,4 +231,6 @@ A Critical Failure causes a Wound to the feet (–2 Pace until healed).
 [cols="",options="header"]
 |===
 | Advance | Increase
+| 1 | Attribute: +1 die Vigor
+| 2 | Edge: Calculating
 |===
