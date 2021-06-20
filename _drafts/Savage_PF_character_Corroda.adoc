@@ -3,8 +3,8 @@
 
 = Character Sheet
 
-// Name:: Hambley "Ham" Sunggerood
-Name:: Corroda Parattio
+
+Name:: Corrado Parattio
 Concept:: Man-at-arms and aspiring captain
 Ancestry:: Human
 Patron Deity:: Gorum
@@ -73,10 +73,10 @@ Racial:
 | Fighting | d8 | 3d ({chargen})
 | Shooting | d6 | 2d ({chargen})
 | Intimidation | d4 | 1d ({chargen})
-| Battle | d8 | 3d ({chargen})
-// | Survival | d | 
+| Battle | d4 | 1d ({chargen})
+| Survival | d4 | 1d ({chargen}) 
 // | Healing | d | 
-// | Riding | d | 
+| Riding | d4 | 1d ({chargen}) 
 // | Repair | d | 
 |===
 
@@ -121,6 +121,9 @@ BRAWNY::
 Your bruiser is very large or very fit. 
 Her Size increases by +1 (and therefore Toughness by 1) and she treats her Strength as one die type higher when determining Encumbrance (page 106) and Minimum Strength to use armor, weapons, and equipment without a penalty (page 106).
 Brawny can’t increase a character’s Size above +3, and it has no effect on Armor Interference or Armor Restriction.
+
+CALCULATING:
+When Action Card is 5 or less, ignore 2 points of penalties on one action that turn.
 
 == Class Special Abilities
 
